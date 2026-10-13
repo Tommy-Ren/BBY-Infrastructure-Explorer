@@ -1,0 +1,2 @@
+test,alternative,school_n,school_mean_m,school_median_m,comparison_n,comparison_mean_m,comparison_median_m,median_difference_m,u_statistic,p_value,rank_biserial
+Mann-Whitney U,two-sided,64,133.643,97.827,71,213.476,170.227,-72.399,1459.0,0.00034313543100404626,-0.358

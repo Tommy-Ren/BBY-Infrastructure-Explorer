@@ -1,0 +1,332 @@
+{
+  "currentVersion": 10.81,
+  "id": 3,
+  "name": "Traffic Calming Features",
+  "type": "Feature Layer",
+  "description": "Traffic calming devices.",
+  "geometryType": "esriGeometryPoint",
+  "sourceSpatialReference": {
+    "wkid": 26910,
+    "latestWkid": 26910
+  },
+  "copyrightText": "",
+  "parentLayer": {
+    "id": 0,
+    "name": "Traffic Assets"
+  },
+  "subLayers": [],
+  "minScale": 10000,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "uniqueValue",
+      "field1": "TYPE",
+      "field2": null,
+      "field3": null,
+      "defaultSymbol": null,
+      "defaultLabel": null,
+      "uniqueValueInfos": [
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "053c8fb21862e0f2c58eb5ef3dfef0e1",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAq5JREFUOI2t1E+I1VUUwPHvuU4e4UeoV0R/uhEkJMidIuVGIRAJBU2ZN6OWMCpG2UDqolyFIogSjiCWr5TUZl44zsaVYBS4URFczCpoLFp0kambhQ852vyOi5jJ5/xpiM723vO5h3O4p43/OdqmOJOG6hpgg5stE5jjMCxwl7IcqKU0OG2wEeMqcu5xs3vA5VCW50Yf8ZRWSko9DfgD6K7Bz1OCX8N2z3m/x7hLcl7tsN9TegT8DiwQeOJwGjBRvdYoip21nG9NCDZU17rZ+16W2yWlTx36A7Q7vCYwr1L9sTIbnKF6ELPFUhSd3mz2NmDdaKVj4FmYidkpL8taSOlzYtxHzm84/ADMckDMmAG/YPauw4vk/KHDQYEeYFMLOBu2oXrVc94BnPGc3wbem6DFi4CBAFsc7gMKzG6U5fJaSoNjoMObUhSHJOfzxDhAzl9ONLCx4cBpgVeBcw6XJKXNwD8gqksraBO4TbO5dQpsNBZW8DJQUJZ3PKWN44YScl5Q/d2jV6YBIrAEuC9QOcwfB1aqDwTmYvbrNMFhh7kADg9aQDEbDvBbBascjgq88y/eowC3RuCFKqWXRPV7zHh2KFcd1gFDQfWhm10HXp9Mczj8F7QL9AJbgXpLhRV8EVRvuNkWzC44bBM4Cax/zhpB9Vgoim+qnD/xGLsl586a2XctYCfkPrOTAh+76gdi9pWrHgBOBFjvZhH4yaE/mK10s1OUZZekdIkY95Kzt4AAHVBvqC4Ts30Ob4nZR8ASVG8CQ8CiABcr1evE2CUpnXc40THZXwaomR3og92i2o/ZZwGOjMC8AHOqGK8J1EOz2e4p9aHa3WH27bP5E66vDqj3ml0J0OVQF5jvqkiziZsNCVz5E1bsMXv8fO6kC7YTMnAcOI7ZZNfGxVQb+z/FUzyKLqhjqRsAAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 15,
+            "height": 15,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "400",
+          "label": "Barrier",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "5f8a586ffce77029f2a8cae3c6afe38d",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAvtJREFUOI2t1E9onEUYx/HvO7NvZuFNY/uGUN96aMGVRdCbpVgvCkIpoqC2RNr6B2LBok0w3RyqJ1EUSWibhaKy2qLWejDNpadCRUEoVgQPOQU2/umhL3Xta5W8dJ99d2Y8VI35L+IP5jQzHx6eYZ4S/3NKa+wFlZp5sIBHQydVFBu1o2Xhu9wn0+nxdOZfg9XReIdV2SSBfF/2fPY7ySkc4AkinW6PSCe31vitHDIy+xZX1gQrNQ60yY702vj5+SB7AMWRiPQmil8J2Iyn0I6ThUJsYS5UR6PnZo9ll1cEKzXzEMhwh+SA6PRdHFMaBtHsbHv68eaHXiUz886MhcgdhmifqPxs9Si7/qp0ARymB6SekzwVkb5vVHwYlz1ioYmnHAIgiONqr5YXxbNByI4WMFYUTAKPLwIrPewnMOcjnz2N450u2bMoXlqhxVvEM61hD3BNO4xV3Ja8nNybHk9n/gY1PNkKolc3+Ox0WcXTluzDlR7szwQWThJwP4pTwJkoSJ8AFkCLuTMpKInmm3aQ7w39Gtyt3F50uTvURHmRfNun08eWPcp8Kdsceq6GXu5ZlwMI2KbhGhpnFQPLwDLmRtuxqazlF7t+hZShZWETAI4bS0BptS3XQ9jR9rwZwqF1vJtYLqMI+1R6VxszC7IA6oDzBexCMRcGZh4rF1E8vCrneB3NYOE4i2Zv6GksqrBf+ODnHvNVXpI9UUc+KhT7w4ATeHYvoSyBeVur6HNLdqzXxiPis33NCflyEXipTlYZkxNRl9fAjIZOPqFkalgmCs3u0EsM/JiXmIo6st0qqeckQ4VOz5Rd/AJkfkkPoTlOY2vNVEMlh/MSz0RdeQXFNjBf45jTii2R5WOUuZgTD0WkpwmYWPUvA/w0IbXKGAejrpkqnLwHvFHW9Lc1G003vtAKacTkg30+/dRiRprj8sU/7684vprjNHYOy7nrhiHraVjPQIhBdM6AkzkL52Y73EddOkvvrjpgL9XJgPFbS1Y7tixrTez/lD8AHUo9Rm3nMSAAAAAASUVORK5CYII=",
+            "contentType": "image/png",
+            "width": 15,
+            "height": 15,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "410",
+          "label": "Gate",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "cff33ea2b24c9f54f2d2493c37241478",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAbCAYAAACjkdXHAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAo1JREFUOI211G9oTXEcx/H32uEXbnccjN+0ndXuaI09UYhQtCINZfOnSxQPLNs0cbN0PdmDrV3dtVqoIU8201DswS1LVsqfJH8KXY7aceO3qNOuIT9hHoxxd+9lS36Pfuf0ffU9n++v8zP4h2X8N2weZqHbyL1xY6tGhAejeicwfXw4iLf/mq7WNzF8taLebtbBMWOp6FI3MTDBva8D1NFAAx//iuVhStwLlIp1kLsY7KNMlPPoULDx751fiS5t64ziavBkg7sK3F7WW4codEI8T4vnBeS2aIuaK/3gmfXjS9bA4wAZn9+Ki6BL0uK+p+o4GnJW/nrnyQNzA6greoF1gDInTHcStqpEyGnVU61KMLyJSfJWg3sZBh3OADMTcRBvf6/ej4Rpi5KmgMgG6QfVzgxfrQjazbp+BMs3dKobTPAdAjEpGcNwFNUO7kN9hAZC1PHJ8AWwYpdYIyzIKkkNYTiK3APqFEIW0aZgh2E3ERNr+agjTPk6CIaZRg+BdgAB3skyolAYwLfZxeZBJ+KeeHkdCjeltgMvwO0B6RfPoyHVMZLZOeaelFupU53kvV8CnjmJ8MtX6OsG4WOIXF0+EuXnxpvPFiW5pa5C4S4g4xeOPwF9B+QeelQjj5JwtJHb1m5xwzmtlw+sgKkFP7p+htgFEEv5oiQVCUP8/WFGli7vX8zrvitkzq8BIxPiD0BHwdovWpx6/S4tvhfmjVVFm9PK3vgT8BSAfRZEGXGnRR8cPcSkv8ppZZ9Yy/bYeTzmMuAD5BfJymi3Gl2a8jL4lltk1toRt03ZIHeIZ9EmdS5FXeqbxA67p6SfI+4dLOboilQ1aTGAzmGzWUrg96MZM3ZD3AXSdv0jHsv6Dohd5Fq1AMvAAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 11,
+            "height": 20,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "430",
+          "label": "Speed Bump",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "d35cfbe2d65a3078024d4d32aed36032",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAbCAYAAACjkdXHAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAkFJREFUOI2101FolWUYB/Df8OR7UQ1ZEzoQDkPbRTUFkbrxogvBRCXabAk72y5kZlIqjEGYZZkIKeKqudxGbA7mTM5VFxFdhAS1IQVZV3khGPRBF18UJD4g2cVOY56zwybRC9/N874/+P7v//sK/sMq/G94kk0lvrtvfD6lM99H9OCR+8JlGqciXitTGEvp+N6Io8vGN7hcptCCryIGpjn5MreWxBdoG2Lrq9iOHazczBReWBLfSOnybETDIB5Dz1yMXZOsL3G9Lp4sFvcczLIn3saayqwXz9HwfEplEW118dUsO/cX2hfMWvE6Pox4eoKdPXxWg0dSOtUXsWoQzVVRuvABfuQTrL4Hl2m8FHGwFduqL6GS/djc0zyW0tG9Ecfn8U2mP+WBC3h4EQwv4iSuRByZ5FSJ24UpWj5i20ZsqQNVopxAP+kZRlEqrOaXp7g1woO/49E6+C5+QhMai8XPZZnCVv4eb2rqH8nz4WkcqoN/wDiOpXS9O8um5jP35vnHb/LGe6zZgXVV8A6GsYm7j0d0/Dufr6qVzif5dgLvomEBnjFX7mm+7OZaDS4x835KXw9EbOnAhsr8Ns6inTtr2b3wje75wloiOnby6zlWDFU2r+AbjKQ02B7xZ13cyW/DjO7nlS5sNFfPAf7oi+ivuorav2odB/bRdYaHdiHHs8Xi/qEsqz5aiyvVHR7P89FZvJPSz6Usu1gjF8PQm+djb3HkC1rWRuxe7ExdDOt5qZmBhdUsG5e4qqqaZePlrH8AiOOwN0PlmY8AAAAASUVORK5CYII=",
+            "contentType": "image/png",
+            "width": 11,
+            "height": 20,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "440",
+          "label": "Speed Hump",
+          "description": ""
+        }
+      ],
+      "fieldDelimiter": ","
+    },
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 498272.6113999998,
+    "ymin": 5448714.7711,
+    "xmax": 507772.6239,
+    "ymax": 5459872.817299999,
+    "spatialReference": {
+      "wkid": 26910,
+      "latestWkid": 26910
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "UNITID",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "COMPKEY",
+      "type": "esriFieldTypeDouble",
+      "alias": "COMPKEY",
+      "domain": null
+    },
+    {
+      "name": "UNITID",
+      "type": "esriFieldTypeString",
+      "alias": "UNITID",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "COMPTYPE",
+      "type": "esriFieldTypeDouble",
+      "alias": "COMPTYPE",
+      "domain": null
+    },
+    {
+      "name": "ADDRKEY",
+      "type": "esriFieldTypeString",
+      "alias": "ADDRKEY",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "ADDRQUAL",
+      "type": "esriFieldTypeString",
+      "alias": "ADDRQUAL",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "AREA",
+      "type": "esriFieldTypeString",
+      "alias": "AREA",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "ASBLT",
+      "type": "esriFieldTypeString",
+      "alias": "ASBLT",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "DISTRICT",
+      "type": "esriFieldTypeString",
+      "alias": "DISTRICT",
+      "length": 6,
+      "domain": null
+    },
+    {
+      "name": "EASMENT_NO",
+      "type": "esriFieldTypeString",
+      "alias": "EASMENT_NO",
+      "length": 25,
+      "domain": null
+    },
+    {
+      "name": "INSTDATE",
+      "type": "esriFieldTypeDate",
+      "alias": "INSTDATE",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "LOC",
+      "type": "esriFieldTypeString",
+      "alias": "LOC",
+      "length": 6,
+      "domain": null
+    },
+    {
+      "name": "MAPNO",
+      "type": "esriFieldTypeString",
+      "alias": "MAPNO",
+      "length": 6,
+      "domain": null
+    },
+    {
+      "name": "OOSD",
+      "type": "esriFieldTypeDate",
+      "alias": "OOSD",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "OWN",
+      "type": "esriFieldTypeString",
+      "alias": "OWN",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "PAC_NO",
+      "type": "esriFieldTypeString",
+      "alias": "PAC_NO",
+      "length": 6,
+      "domain": null
+    },
+    {
+      "name": "PROJECT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "PROJECT_ID",
+      "length": 30,
+      "domain": null
+    },
+    {
+      "name": "SERVSTAT",
+      "type": "esriFieldTypeString",
+      "alias": "SERVSTAT",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "SHEETNO",
+      "type": "esriFieldTypeString",
+      "alias": "SHEETNO",
+      "length": 5,
+      "domain": null
+    },
+    {
+      "name": "TYPE",
+      "type": "esriFieldTypeString",
+      "alias": "TYPE",
+      "length": 30,
+      "domain": null
+    },
+    {
+      "name": "UNITTYPE",
+      "type": "esriFieldTypeString",
+      "alias": "UNITTYPE",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "WBS_NO",
+      "type": "esriFieldTypeString",
+      "alias": "WBS_NO",
+      "length": 25,
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "SHAPE",
+    "type": "esriFieldTypeGeometry",
+    "alias": "SHAPE"
+  },
+  "indexes": [
+    {
+      "name": "FDO_OBJECTID",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "SHAPE_INDEX",
+      "fields": "SHAPE",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 1000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "hasZ": true,
+  "supportedQueryFormats": "JSON, geoJSON",
+  "isDataVersioned": false,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsHavingClause": true,
+    "supportsCountDistinct": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": true,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true
+  },
+  "supportsDatumTransformation": true,
+  "dateFieldsTimeReference": {
+    "timeZone": "Pacific Standard Time",
+    "respectsDaylightSaving": true
+  },
+  "supportsCoordinatesQuantization": true
+}

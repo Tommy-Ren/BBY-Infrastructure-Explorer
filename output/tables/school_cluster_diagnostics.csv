@@ -1,0 +1,5 @@
+cluster_count,inertia,silhouette_score,smallest_cluster_size,largest_cluster_size,selected
+2,262.817713,0.284852,23,41,True
+3,208.547367,0.268326,11,34,False
+4,180.213712,0.233147,9,26,False
+5,156.092933,0.232669,7,24,False

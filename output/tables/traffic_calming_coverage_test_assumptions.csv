@@ -1,0 +1,4 @@
+distance_m,expected_school_with_feature,expected_school_without_feature,expected_comparison_with_feature,expected_comparison_without_feature,minimum_expected_frequency,all_expected_at_least_5
+100,24.178,39.822,26.822,44.178,24.178,True
+250,49.304,14.696,54.696,16.304,14.696,True
+500,60.681,3.319,67.319,3.681,3.319,False

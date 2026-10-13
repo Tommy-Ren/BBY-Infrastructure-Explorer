@@ -1,0 +1,7806 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99762888210803,
+          49.2662251154264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "COMPKEY": 269299,
+        "UNITID": "SIG000190",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "20050532",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2259,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "20C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01428256001549,
+          49.26615588567877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "COMPKEY": 252422,
+        "UNITID": "SIG000132",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "20040247",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2265,
+        "INSTDATE": 953103600000,
+        "LOC": "S",
+        "MAPNO": "20A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00323045218082,
+          49.27015308941492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "COMPKEY": 252226,
+        "UNITID": "SIG000091",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81709",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2100,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "21B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00321060807559,
+          49.27558313963191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "COMPKEY": 252227,
+        "UNITID": "SIG000092",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81722",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1836,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "22B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98788208214685,
+          49.275516512188155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "COMPKEY": 251948,
+        "UNITID": "SIG000037",
+        "COMPTYPE": 74,
+        "AREA": "NC-3",
+        "ASBLT": "81693",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1845,
+        "INSTDATE": 1100505600000,
+        "LOC": "S",
+        "MAPNO": "22D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92577465169897,
+          49.28902721603654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "COMPKEY": 252316,
+        "UNITID": "SIG000129",
+        "COMPTYPE": 74,
+        "AREA": "NE-2",
+        "ASBLT": "81578",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1301,
+        "INSTDATE": 947664000000,
+        "LOC": "S",
+        "MAPNO": "25I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98905234496983,
+          49.25194550122809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "COMPKEY": 251851,
+        "UNITID": "SIG000017",
+        "COMPTYPE": 74,
+        "AREA": "NW-10",
+        "ASBLT": "81533",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2986,
+        "INSTDATE": 1072944000000,
+        "LOC": "S",
+        "MAPNO": "17D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97203390097773,
+          49.2199299708508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "COMPKEY": 252611,
+        "UNITID": "SIG000162",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "81563",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4689,
+        "INSTDATE": 989910000000,
+        "LOC": "S",
+        "MAPNO": "10E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95722876063584,
+          49.23395336217581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "COMPKEY": 251825,
+        "UNITID": "SIG000010",
+        "COMPTYPE": 74,
+        "AREA": "SE-5",
+        "ASBLT": "81585",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3835,
+        "INSTDATE": 1136102400000,
+        "LOC": "S",
+        "MAPNO": "13G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01067451798376,
+          49.25462830304947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "COMPKEY": 251848,
+        "UNITID": "SIG000014",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": "81589",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2845,
+        "INSTDATE": 1199433600000,
+        "LOC": "S",
+        "MAPNO": "18B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00484753489992,
+          49.23020775942646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "COMPKEY": 252601,
+        "UNITID": "SIG000152",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040157",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4059,
+        "INSTDATE": 924159600000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89865206746165,
+          49.25346293646082
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "COMPKEY": 251834,
+        "UNITID": "SIG000012",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "87587",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2917,
+        "INSTDATE": 1136102400000,
+        "LOC": "S",
+        "MAPNO": "17L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98308658069541,
+          49.22193207271896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "COMPKEY": 251977,
+        "UNITID": "SIG000066",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "81553",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4574,
+        "INSTDATE": 1210834800000,
+        "LOC": "S",
+        "MAPNO": "10D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99802546591535,
+          49.241643049759894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "COMPKEY": 251953,
+        "UNITID": "SIG000042",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "81538",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3450,
+        "INSTDATE": 1042617600000,
+        "LOC": "S",
+        "MAPNO": "15C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90415910652868,
+          49.23544330168847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "COMPKEY": 251930,
+        "UNITID": "SIG000023",
+        "COMPTYPE": 74,
+        "AREA": "SE-3",
+        "ASBLT": "81535",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3743,
+        "INSTDATE": 1199520000000,
+        "LOC": "S",
+        "MAPNO": "13K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00346030661106,
+          49.23150088084457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "COMPKEY": 251965,
+        "UNITID": "SIG000054",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81715",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3975,
+        "INSTDATE": 861087600000,
+        "LOC": "S",
+        "MAPNO": "13B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99954136944727,
+          49.22194647488562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "COMPKEY": 395812,
+        "UNITID": "SIG000248",
+        "COMPTYPE": 74,
+        "AREA": "SW-5",
+        "ASBLT": "81552",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4558,
+        "INSTDATE": 1060930800000,
+        "LOC": "S",
+        "MAPNO": "10C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0124016570866,
+          49.21485130984243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "COMPKEY": 252079,
+        "UNITID": "SIG000078",
+        "COMPTYPE": 74,
+        "AREA": "SW-6",
+        "ASBLT": "81567",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4980,
+        "INSTDATE": 1100505600000,
+        "LOC": "S",
+        "MAPNO": "9A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0033811059836,
+          49.23693053760117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "COMPKEY": 252220,
+        "UNITID": "SIG000085",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81710",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3686,
+        "INSTDATE": 1199520000000,
+        "LOC": "S",
+        "MAPNO": "14B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94243213473716,
+          49.21096878708817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "COMPKEY": 353496,
+        "UNITID": "SIG000225",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81509",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5236,
+        "INSTDATE": 1091343600000,
+        "LOC": "S",
+        "MAPNO": "8H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99421996062428,
+          49.227925220850295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "COMPKEY": 252047,
+        "UNITID": "SIG000071",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "81683",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4197,
+        "INSTDATE": 1042617600000,
+        "LOC": "S",
+        "MAPNO": "12C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00762544732052,
+          49.22760636426761
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "COMPKEY": 251938,
+        "UNITID": "SIG000027",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81711",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4214,
+        "INSTDATE": 1009872000000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9681198006691,
+          49.21908747152519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "COMPKEY": 252885,
+        "UNITID": "SIG000163",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "81561",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4733,
+        "INSTDATE": 1010131200000,
+        "LOC": "S",
+        "MAPNO": "10F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95492524365109,
+          49.218429482227336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "COMPKEY": 253677,
+        "UNITID": "SIG000167",
+        "COMPTYPE": 74,
+        "AREA": "SE-5",
+        "ASBLT": "81565",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4775,
+        "INSTDATE": 1063609200000,
+        "LOC": "S",
+        "MAPNO": "10G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01419364619738,
+          49.281056599112226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "COMPKEY": 252244,
+        "UNITID": "SIG000109",
+        "COMPTYPE": 74,
+        "AREA": "NW-4",
+        "ASBLT": "81635",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1602,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "23A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95340562191247,
+          49.280354447489216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "COMPKEY": 252296,
+        "UNITID": "SIG000124",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "81632",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1629,
+        "INSTDATE": 976435200000,
+        "LOC": "S",
+        "MAPNO": "23G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00324853804356,
+          49.26803223498648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "COMPKEY": 252225,
+        "UNITID": "SIG000090",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "20040215",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2169,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "21B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9810023468325,
+          49.275487828413205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "COMPKEY": 251949,
+        "UNITID": "SIG000038",
+        "COMPTYPE": 74,
+        "AREA": "NC-4",
+        "ASBLT": "81694",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1848,
+        "INSTDATE": 1073548800000,
+        "LOC": "S",
+        "MAPNO": "22D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98072979115739,
+          49.249043066829934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "COMPKEY": 251858,
+        "UNITID": "SIG000019",
+        "COMPTYPE": 74,
+        "AREA": "NC-8",
+        "ASBLT": "81840",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3132,
+        "INSTDATE": 852969600000,
+        "LOC": "S",
+        "MAPNO": "16D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98898996101543,
+          49.23987675554885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "COMPKEY": 251954,
+        "UNITID": "SIG000043",
+        "COMPTYPE": 74,
+        "AREA": "SC-1",
+        "ASBLT": "81609",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3524,
+        "INSTDATE": 1042617600000,
+        "LOC": "S",
+        "MAPNO": "14D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99803094044806,
+          49.2546622107929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "COMPKEY": 251849,
+        "UNITID": "SIG000015",
+        "COMPTYPE": 74,
+        "AREA": "NW-10",
+        "ASBLT": "81530",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2843,
+        "INSTDATE": 1041408000000,
+        "LOC": "S",
+        "MAPNO": "18C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00336955059834,
+          49.242936926731524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "COMPKEY": 251952,
+        "UNITID": "SIG000041",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "20040201",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3389,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "15B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90131804983235,
+          49.23312615071325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "COMPKEY": 429243,
+        "UNITID": "SIG000253",
+        "COMPTYPE": 74,
+        "AREA": "SE-3",
+        "ASBLT": "81508",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3871,
+        "INSTDATE": 1230796800000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90250165394512,
+          49.25347075139697
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "COMPKEY": 392504,
+        "UNITID": "SIG000238",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81527",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2916,
+        "INSTDATE": 1010563200000,
+        "LOC": "S",
+        "MAPNO": "17K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00675296062511,
+          49.23235570183331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "COMPKEY": 251964,
+        "UNITID": "SIG000053",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81625",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3920,
+        "INSTDATE": 1011081600000,
+        "LOC": "S",
+        "MAPNO": "13B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91786081591904,
+          49.231911506486576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "COMPKEY": 269165,
+        "UNITID": "SIG000181",
+        "COMPTYPE": 74,
+        "AREA": "SE-3",
+        "ASBLT": "81517",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3950,
+        "INSTDATE": 981014400000,
+        "LOC": "S",
+        "MAPNO": "13J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97615219299121,
+          49.220906989493244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "COMPKEY": 252610,
+        "UNITID": "SIG000161",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "20040166",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4630,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "10E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99158276967322,
+          49.22584786124271
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "COMPKEY": 252606,
+        "UNITID": "SIG000157",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040162",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4317,
+        "INSTDATE": 1000450800000,
+        "LOC": "S",
+        "MAPNO": "11C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93696837362954,
+          49.22624540566994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "COMPKEY": 392483,
+        "UNITID": "SIG000230",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": "81506",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4294,
+        "INSTDATE": 1088665200000,
+        "LOC": "S",
+        "MAPNO": "11H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95910050274777,
+          49.214115946096015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "COMPKEY": 252239,
+        "UNITID": "SIG000104",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81628",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5029,
+        "INSTDATE": 1137139200000,
+        "LOC": "S",
+        "MAPNO": "9F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95783255397842,
+          49.21311639580524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "COMPKEY": 252238,
+        "UNITID": "SIG000103",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81627",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5084,
+        "INSTDATE": 1099292400000,
+        "LOC": "S",
+        "MAPNO": "8F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98195731912878,
+          49.202026527106135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "COMPKEY": 253687,
+        "UNITID": "SIG000175",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "81676",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5564,
+        "INSTDATE": 1144998000000,
+        "LOC": "S",
+        "MAPNO": "6D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95567104930085,
+          49.21119647839047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "COMPKEY": 252237,
+        "UNITID": "SIG000102",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "20040146",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5221,
+        "INSTDATE": 861087600000,
+        "LOC": "S",
+        "MAPNO": "8G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96099508893161,
+          49.216748724644354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "COMPKEY": 252240,
+        "UNITID": "SIG000105",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "81544",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4871,
+        "INSTDATE": 1199520000000,
+        "LOC": "S",
+        "MAPNO": "9F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97836097072731,
+          49.24770100103341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "COMPKEY": 251927,
+        "UNITID": "SIG000020",
+        "COMPTYPE": 74,
+        "AREA": "NC-8",
+        "ASBLT": "81594",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 21930,
+        "INSTDATE": 916041600000,
+        "LOC": "S",
+        "MAPNO": "16E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00877302767056,
+          49.26642843122927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "COMPKEY": 252423,
+        "UNITID": "SIG000133",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "20040248",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2245,
+        "INSTDATE": 932022000000,
+        "LOC": "S",
+        "MAPNO": "20B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98119078028391,
+          49.265746960007036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "COMPKEY": 251804,
+        "UNITID": "SIG000007",
+        "COMPTYPE": 74,
+        "AREA": "NC-3",
+        "ASBLT": "81524",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2290,
+        "INSTDATE": 1230883200000,
+        "LOC": "S",
+        "MAPNO": "20D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98369965033278,
+          49.28034300662278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "COMPKEY": 252275,
+        "UNITID": "SIG000116",
+        "COMPTYPE": 74,
+        "AREA": "NC-3",
+        "ASBLT": "81637",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1640,
+        "INSTDATE": 961052400000,
+        "LOC": "S",
+        "MAPNO": "23D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94655251983848,
+          49.27778781830757
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "COMPKEY": 252297,
+        "UNITID": "SIG000125",
+        "COMPTYPE": 74,
+        "AREA": "NE-1",
+        "ASBLT": "81579",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1750,
+        "INSTDATE": 947664000000,
+        "LOC": "S",
+        "MAPNO": "23G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01430555689753,
+          49.26085219522648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "COMPKEY": 251962,
+        "UNITID": "SIG000051",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "81619",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2503,
+        "INSTDATE": 1018854000000,
+        "LOC": "S",
+        "MAPNO": "19A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99764281283586,
+          49.26447027965079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "COMPKEY": 269287,
+        "UNITID": "SIG000189",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "81523",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2349,
+        "INSTDATE": 1136880000000,
+        "LOC": "S",
+        "MAPNO": "20C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90381791382946,
+          49.25507933749954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "COMPKEY": 251796,
+        "UNITID": "SIG000004",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81522",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2822,
+        "INSTDATE": 1041408000000,
+        "LOC": "S",
+        "MAPNO": "18K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96467550500572,
+          49.25967189724796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "COMPKEY": 252427,
+        "UNITID": "SIG000137",
+        "COMPTYPE": 74,
+        "AREA": "NC-7",
+        "ASBLT": "20040252",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2572,
+        "INSTDATE": 1005811200000,
+        "LOC": "S",
+        "MAPNO": "19F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90709046703843,
+          49.238829574471794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "COMPKEY": 251933,
+        "UNITID": "SIG000024",
+        "COMPTYPE": 74,
+        "AREA": "SE-4",
+        "ASBLT": "81597",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3570,
+        "INSTDATE": 1146466800000,
+        "LOC": "S",
+        "MAPNO": "14K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01350182312298,
+          49.242967249418896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "COMPKEY": 392508,
+        "UNITID": "SIG000240",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81679",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3375,
+        "INSTDATE": 1230796800000,
+        "LOC": "S",
+        "MAPNO": "15A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01267591524163,
+          49.2326481342745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "COMPKEY": 252599,
+        "UNITID": "SIG000150",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040155",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3900,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "13A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98904263291794,
+          49.241868396586064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "COMPKEY": 392495,
+        "UNITID": "SIG000233",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "81568",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3428,
+        "INSTDATE": 1181545200000,
+        "LOC": "S",
+        "MAPNO": "15D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00632840229184,
+          49.22882096903015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "COMPKEY": 252223,
+        "UNITID": "SIG000088",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81718",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4143,
+        "INSTDATE": 1163577600000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99933375666295,
+          49.22839788101212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "COMPKEY": 252603,
+        "UNITID": "SIG000154",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040159",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4165,
+        "INSTDATE": 850464000000,
+        "LOC": "S",
+        "MAPNO": "12C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98849954903811,
+          49.214855187872324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "COMPKEY": 252216,
+        "UNITID": "SIG000081",
+        "COMPTYPE": 74,
+        "AREA": "SW-7",
+        "ASBLT": "81572",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4979,
+        "INSTDATE": 1100505600000,
+        "LOC": "S",
+        "MAPNO": "9D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97200623269856,
+          49.21471490029353
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "COMPKEY": 252218,
+        "UNITID": "SIG000083",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81699",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5010,
+        "INSTDATE": 1100505600000,
+        "LOC": "S",
+        "MAPNO": "9E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93790993031554,
+          49.21341193084668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "COMPKEY": 253682,
+        "UNITID": "SIG000171",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "20040273",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5071,
+        "INSTDATE": 1062399600000,
+        "LOC": "S",
+        "MAPNO": "8H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97583215805724,
+          49.19124401082402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "COMPKEY": 429247,
+        "UNITID": "SIG000257",
+        "COMPTYPE": 74,
+        "AREA": "SC-6",
+        "ASBLT": "81702",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5703,
+        "INSTDATE": 1230796800000,
+        "LOC": "S",
+        "MAPNO": "5D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96853165667824,
+          49.196613442101295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "COMPKEY": 253688,
+        "UNITID": "SIG000176",
+        "COMPTYPE": 74,
+        "AREA": "SC-6",
+        "ASBLT": "81675",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5658,
+        "INSTDATE": 976867200000,
+        "LOC": "S",
+        "MAPNO": "5E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95214140381566,
+          49.20582052028119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "COMPKEY": 269209,
+        "UNITID": "SIG000188",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "20040287",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5464,
+        "INSTDATE": 1018854000000,
+        "LOC": "S",
+        "MAPNO": "7G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97003499835998,
+          49.280353554877394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "COMPKEY": 252282,
+        "UNITID": "SIG000119",
+        "COMPTYPE": 74,
+        "AREA": "NC-4",
+        "ASBLT": "81639",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1632,
+        "INSTDATE": 953103600000,
+        "LOC": "S",
+        "MAPNO": "23E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98782116531935,
+          49.280355818201954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "COMPKEY": 252274,
+        "UNITID": "SIG000115",
+        "COMPTYPE": 74,
+        "AREA": "NC-3",
+        "ASBLT": "81641",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1633,
+        "INSTDATE": 958374000000,
+        "LOC": "S",
+        "MAPNO": "23D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00316734184231,
+          49.279191371208
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "COMPKEY": 252228,
+        "UNITID": "SIG000093",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81713",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1688,
+        "INSTDATE": 1074153600000,
+        "LOC": "S",
+        "MAPNO": "23B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01143268361,
+          49.281047638386774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "COMPKEY": 269303,
+        "UNITID": "SIG000192",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81631",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1605,
+        "INSTDATE": 978422400000,
+        "LOC": "S",
+        "MAPNO": "23B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96468367486564,
+          49.28037186132892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "COMPKEY": 252283,
+        "UNITID": "SIG000120",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "81640",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1625,
+        "INSTDATE": 953103600000,
+        "LOC": "S",
+        "MAPNO": "23F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9646371420935,
+          49.271600833800484
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "COMPKEY": 537877,
+        "UNITID": "SIG000259",
+        "COMPTYPE": 74,
+        "AREA": "NC-6",
+        "ASBLT": "81182",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2033,
+        "INSTDATE": 1271833200000,
+        "LOC": "S",
+        "MAPNO": "21F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95347392498003,
+          49.27521329741758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "COMPKEY": 251946,
+        "UNITID": "SIG000035",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "81536",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1866,
+        "INSTDATE": 1009872000000,
+        "LOC": "S",
+        "MAPNO": "22G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97007065743641,
+          49.27780615700406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "COMPKEY": 252030,
+        "UNITID": "SIG000068",
+        "COMPTYPE": 74,
+        "AREA": "NC-4",
+        "ASBLT": "81645",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1743,
+        "INSTDATE": 1074153600000,
+        "LOC": "S",
+        "MAPNO": "23E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90033324324949,
+          49.264119761196895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "COMPKEY": 252593,
+        "UNITID": "SIG000144",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81615",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2368,
+        "INSTDATE": 947232000000,
+        "LOC": "S",
+        "MAPNO": "20L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00431763349853,
+          49.25179446355731
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "COMPKEY": 252222,
+        "UNITID": "SIG000087",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": "20040286",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 963558000000,
+        "LOC": "S",
+        "MAPNO": "17B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99857078279044,
+          49.223508352219675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "COMPKEY": 554433,
+        "UNITID": "SIG000264",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81449",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1290499200000,
+        "LOC": "S",
+        "MAPNO": "11C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00338658499763,
+          49.24023662577207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "COMPKEY": 559536,
+        "UNITID": "SIG000268",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81382",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1295596800000,
+        "LOC": "S",
+        "MAPNO": "14B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0112423804418,
+          49.255636082352055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "COMPKEY": 571784,
+        "UNITID": "SIG000271",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "20060001",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1286866800000,
+        "LOC": "S",
+        "MAPNO": "18B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0058846797061,
+          49.26084050036442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "COMPKEY": 412019,
+        "UNITID": "SIG000250",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "81574",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2506,
+        "INSTDATE": 1199174400000,
+        "LOC": "S",
+        "MAPNO": "19B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98094268591936,
+          49.28032714904513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "COMPKEY": 252278,
+        "UNITID": "SIG000117",
+        "COMPTYPE": 74,
+        "AREA": "NC-3",
+        "ASBLT": "81636",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1645,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "23D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93800165633475,
+          49.25424478011457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "COMPKEY": 269302,
+        "UNITID": "SIG000191",
+        "COMPTYPE": 74,
+        "AREA": "NE-5",
+        "ASBLT": "20040279",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2866,
+        "INSTDATE": 989910000000,
+        "LOC": "S",
+        "MAPNO": "18H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93990798534709,
+          49.214840683739574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "COMPKEY": 253679,
+        "UNITID": "SIG000170",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81559",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4978,
+        "INSTDATE": 1193295600000,
+        "LOC": "S",
+        "MAPNO": "9H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00025514360019,
+          49.28101357475009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "COMPKEY": 252259,
+        "UNITID": "SIG000113",
+        "COMPTYPE": 74,
+        "AREA": "NW-6",
+        "ASBLT": "81630",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1609,
+        "INSTDATE": 1010131200000,
+        "LOC": "S",
+        "MAPNO": "23C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99422876410972,
+          49.229921377076316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "COMPKEY": 251969,
+        "UNITID": "SIG000058",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "20040118",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4073,
+        "INSTDATE": 1011081600000,
+        "LOC": "S",
+        "MAPNO": "12C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94100760892475,
+          49.2240874386627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "COMPKEY": 252597,
+        "UNITID": "SIG000148",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81532",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4415,
+        "INSTDATE": 978336000000,
+        "LOC": "S",
+        "MAPNO": "11H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99216313060404,
+          49.275533309832355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "COMPKEY": 251947,
+        "UNITID": "SIG000036",
+        "COMPTYPE": 74,
+        "AREA": "NW-6",
+        "ASBLT": "81692",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1844,
+        "INSTDATE": 1042617600000,
+        "LOC": "S",
+        "MAPNO": "22C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98102937141955,
+          49.24998617593561
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "COMPKEY": 251957,
+        "UNITID": "SIG000046",
+        "COMPTYPE": 74,
+        "AREA": "NC-8",
+        "ASBLT": "20040206",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3070,
+        "INSTDATE": 879494400000,
+        "LOC": "S",
+        "MAPNO": "17D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0026125307094,
+          49.22530281149396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "COMPKEY": 251941,
+        "UNITID": "SIG000030",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81603",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 22213,
+        "INSTDATE": 1041494400000,
+        "LOC": "S",
+        "MAPNO": "11B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99420361147004,
+          49.22194532640189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "COMPKEY": 251975,
+        "UNITID": "SIG000064",
+        "COMPTYPE": 74,
+        "AREA": "SW-5",
+        "ASBLT": "81556",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4562,
+        "INSTDATE": 1213340400000,
+        "LOC": "S",
+        "MAPNO": "10C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97622306755659,
+          49.205094372537076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "COMPKEY": 269206,
+        "UNITID": "SIG000186",
+        "COMPTYPE": 74,
+        "AREA": "SC-6",
+        "ASBLT": "81705",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5487,
+        "INSTDATE": 1136361600000,
+        "LOC": "S",
+        "MAPNO": "7E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00602581077933,
+          49.26445054076846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "COMPKEY": 581366,
+        "UNITID": "SIG000273",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": null,
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2352,
+        "INSTDATE": 1326268800000,
+        "LOC": "S",
+        "MAPNO": "20B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00846433000366,
+          49.20921310150687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "COMPKEY": 581364,
+        "UNITID": "SIG000272",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "20060529",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 21414,
+        "INSTDATE": 1326355200000,
+        "LOC": "S",
+        "MAPNO": "8B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95706693957744,
+          49.21521792074248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "COMPKEY": 581367,
+        "UNITID": "SIG000274",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": null,
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4965,
+        "INSTDATE": 1294646400000,
+        "LOC": "S",
+        "MAPNO": "9G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95016423152568,
+          49.21921048212426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "COMPKEY": 586614,
+        "UNITID": "SIG000276",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "82138",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1361520000000,
+        "LOC": "S",
+        "MAPNO": "10G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94696783179502,
+          49.220913470532295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "COMPKEY": 586598,
+        "UNITID": "SIG000275",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "82138",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1361520000000,
+        "LOC": "S",
+        "MAPNO": "10G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0060117485686,
+          49.26650027530058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "COMPKEY": 589970,
+        "UNITID": "SIG000277",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "81105",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1368687600000,
+        "LOC": "S",
+        "MAPNO": "20B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00454106375528,
+          49.22796155876318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "COMPKEY": 252044,
+        "UNITID": "SIG000069",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040125",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4192,
+        "INSTDATE": 1045209600000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98893480156111,
+          49.22792934383359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "COMPKEY": 252056,
+        "UNITID": "SIG000075",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "81698",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4195,
+        "INSTDATE": 1042617600000,
+        "LOC": "S",
+        "MAPNO": "12D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9942257726667,
+          49.226715889266984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "COMPKEY": 252605,
+        "UNITID": "SIG000156",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040161",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4267,
+        "INSTDATE": 947491200000,
+        "LOC": "S",
+        "MAPNO": "11C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94106115055378,
+          49.289788550637056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "COMPKEY": 252307,
+        "UNITID": "SIG000128",
+        "COMPTYPE": 74,
+        "AREA": "NE-1",
+        "ASBLT": "81520",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 22232,
+        "INSTDATE": 947664000000,
+        "LOC": "S",
+        "MAPNO": "25H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96479546477805,
+          49.21846963271836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "COMPKEY": 253674,
+        "UNITID": "SIG000164",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "20040169",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4763,
+        "INSTDATE": 984639600000,
+        "LOC": "S",
+        "MAPNO": "10F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89632730225118,
+          49.25342654885617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "COMPKEY": 392502,
+        "UNITID": "SIG000236",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81528",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 20320,
+        "INSTDATE": 1041840000000,
+        "LOC": "S",
+        "MAPNO": "17L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97416613483709,
+          49.24333986023778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "COMPKEY": 298916,
+        "UNITID": "SIG000198",
+        "COMPTYPE": 74,
+        "AREA": "NC-8",
+        "ASBLT": "81129",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 22259,
+        "INSTDATE": 1098946800000,
+        "LOC": "S",
+        "MAPNO": "15E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98461747762582,
+          49.26080682482965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "COMPKEY": 412017,
+        "UNITID": "SIG000249",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "81087",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2513,
+        "INSTDATE": 1212303600000,
+        "LOC": "S",
+        "MAPNO": "19D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96757109027047,
+          49.260762336049304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "COMPKEY": 252027,
+        "UNITID": "SIG000067",
+        "COMPTYPE": 74,
+        "AREA": "NC-6",
+        "ASBLT": "20040211",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2515,
+        "INSTDATE": 921481200000,
+        "LOC": "S",
+        "MAPNO": "19F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00832259399074,
+          49.25462605776387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "COMPKEY": 429223,
+        "UNITID": "SIG000232",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": "81595",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2846,
+        "INSTDATE": 1249110000000,
+        "LOC": "S",
+        "MAPNO": "18B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98891622786753,
+          49.221950791409796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "COMPKEY": 251976,
+        "UNITID": "SIG000065",
+        "COMPTYPE": 74,
+        "AREA": "SW-5",
+        "ASBLT": "81557",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4546,
+        "INSTDATE": 989910000000,
+        "LOC": "S",
+        "MAPNO": "10D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99639799889796,
+          49.22742947079453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "COMPKEY": 252604,
+        "UNITID": "SIG000155",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "20040160",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4225,
+        "INSTDATE": 1163577600000,
+        "LOC": "S",
+        "MAPNO": "12C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91895402103937,
+          49.25328879415369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "COMPKEY": 252588,
+        "UNITID": "SIG000139",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "20040254",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2929,
+        "INSTDATE": 984639600000,
+        "LOC": "S",
+        "MAPNO": "17J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93374896317297,
+          49.22382803712431
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "COMPKEY": 252233,
+        "UNITID": "SIG000098",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": null,
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4428,
+        "INSTDATE": 1136102400000,
+        "LOC": "S",
+        "MAPNO": "11I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94084559434407,
+          49.275211563781724
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "COMPKEY": 252298,
+        "UNITID": "SIG000126",
+        "COMPTYPE": 74,
+        "AREA": "NE-1",
+        "ASBLT": "81580",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1858,
+        "INSTDATE": 947664000000,
+        "LOC": "S",
+        "MAPNO": "22H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00866874130517,
+          49.28103960048503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "COMPKEY": 252245,
+        "UNITID": "SIG000110",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81548",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1606,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "23B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00313986662367,
+          49.281022515006825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "COMPKEY": 252247,
+        "UNITID": "SIG000112",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81551",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1608,
+        "INSTDATE": 958374000000,
+        "LOC": "S",
+        "MAPNO": "23B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00032002801107,
+          49.27556667307959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "COMPKEY": 251950,
+        "UNITID": "SIG000039",
+        "COMPTYPE": 74,
+        "AREA": "NW-6",
+        "ASBLT": "81691",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1837,
+        "INSTDATE": 1054450800000,
+        "LOC": "S",
+        "MAPNO": "22C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92569334836769,
+          49.273621013517385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "COMPKEY": 252302,
+        "UNITID": "SIG000127",
+        "COMPTYPE": 74,
+        "AREA": "NE-2",
+        "ASBLT": "81581",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1945,
+        "INSTDATE": 978336000000,
+        "LOC": "S",
+        "MAPNO": "22I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92769408667388,
+          49.26092140038617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "COMPKEY": 251811,
+        "UNITID": "SIG000009",
+        "COMPTYPE": 74,
+        "AREA": "NE-3",
+        "ASBLT": "81526",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2496,
+        "INSTDATE": 852624000000,
+        "LOC": "S",
+        "MAPNO": "19I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00326091046138,
+          49.26443909659736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "COMPKEY": 252229,
+        "UNITID": "SIG000094",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "81712",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2354,
+        "INSTDATE": 978595200000,
+        "LOC": "S",
+        "MAPNO": "20B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9560276200515,
+          49.28333496069993
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "COMPKEY": 252285,
+        "UNITID": "SIG000122",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "81644",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1493,
+        "INSTDATE": 960620400000,
+        "LOC": "S",
+        "MAPNO": "24G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89758921935704,
+          49.24859864306879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "COMPKEY": 252591,
+        "UNITID": "SIG000142",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "20040255",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3155,
+        "INSTDATE": 947836800000,
+        "LOC": "S",
+        "MAPNO": "16L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00417727771918,
+          49.24776542433808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "COMPKEY": 252219,
+        "UNITID": "SIG000084",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": "81723",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3199,
+        "INSTDATE": 1137139200000,
+        "LOC": "S",
+        "MAPNO": "16B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91901732196163,
+          49.24990791694876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "COMPKEY": 252054,
+        "UNITID": "SIG000073",
+        "COMPTYPE": 74,
+        "AREA": "NE-6",
+        "ASBLT": "20040214",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3082,
+        "INSTDATE": 1136448000000,
+        "LOC": "S",
+        "MAPNO": "17J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91683964845016,
+          49.25774771351815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "COMPKEY": 251959,
+        "UNITID": "SIG000048",
+        "COMPTYPE": 74,
+        "AREA": "NE-3",
+        "ASBLT": "81613",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2674,
+        "INSTDATE": 1100505600000,
+        "LOC": "S",
+        "MAPNO": "18J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99361478611871,
+          49.25448876266798
+        ]
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "COMPKEY": 392494,
+        "UNITID": "SIG000252",
+        "COMPTYPE": 74,
+        "AREA": "NW-10",
+        "ASBLT": "81596",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2851,
+        "INSTDATE": 1042012800000,
+        "LOC": "S",
+        "MAPNO": "18C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98893446152616,
+          49.229925128984675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "COMPKEY": 251958,
+        "UNITID": "SIG000047",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "81697",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4071,
+        "INSTDATE": 897894000000,
+        "LOC": "S",
+        "MAPNO": "12D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96657693362708,
+          49.25345136212809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "COMPKEY": 253695,
+        "UNITID": "SIG000177",
+        "COMPTYPE": 74,
+        "AREA": "NC-7",
+        "ASBLT": "81839",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2925,
+        "INSTDATE": 932022000000,
+        "LOC": "S",
+        "MAPNO": "17F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95597912154354,
+          49.25867140051563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "COMPKEY": 252587,
+        "UNITID": "SIG000138",
+        "COMPTYPE": 74,
+        "AREA": "NE-5",
+        "ASBLT": "20040253",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2618,
+        "INSTDATE": 984639600000,
+        "LOC": "S",
+        "MAPNO": "19G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01981473268198,
+          49.24298683220521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "COMPKEY": 429027,
+        "UNITID": "SIG000251",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81680",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3371,
+        "INSTDATE": 1199174400000,
+        "LOC": "S",
+        "MAPNO": "15A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00184338391607,
+          49.23027392282762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "COMPKEY": 252045,
+        "UNITID": "SIG000070",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "81622",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4055,
+        "INSTDATE": 913708800000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93930846094119,
+          49.22278958922389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "COMPKEY": 295899,
+        "UNITID": "SIG000195",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81529",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4494,
+        "INSTDATE": 1041408000000,
+        "LOC": "S",
+        "MAPNO": "11H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00782213847194,
+          49.2311847033057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "COMPKEY": 252600,
+        "UNITID": "SIG000151",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040156",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3991,
+        "INSTDATE": 989910000000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98307950559274,
+          49.22310195042737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "COMPKEY": 252608,
+        "UNITID": "SIG000159",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "20040164",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4474,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "11D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97202125727983,
+          49.22939205221186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "COMPKEY": 299031,
+        "UNITID": "SIG000204",
+        "COMPTYPE": 74,
+        "AREA": "SC-2",
+        "ASBLT": "20030031",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4111,
+        "INSTDATE": 1098946800000,
+        "LOC": "S",
+        "MAPNO": "12E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0049396516934,
+          49.21483124815355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "COMPKEY": 252214,
+        "UNITID": "SIG000079",
+        "COMPTYPE": 74,
+        "AREA": "SW-6",
+        "ASBLT": "81573",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4994,
+        "INSTDATE": 1100505600000,
+        "LOC": "S",
+        "MAPNO": "9B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99952684034444,
+          49.20384832424069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "COMPKEY": 392471,
+        "UNITID": "SIG000227",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "81678",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5532,
+        "INSTDATE": 1200038400000,
+        "LOC": "S",
+        "MAPNO": "6C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96847249200573,
+          49.205732180441366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "COMPKEY": 299030,
+        "UNITID": "SIG000203",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81704",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5468,
+        "INSTDATE": 915955200000,
+        "LOC": "S",
+        "MAPNO": "7E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97905257643068,
+          49.19974438102795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "COMPKEY": 429246,
+        "UNITID": "SIG000256",
+        "COMPTYPE": 74,
+        "AREA": "SC-6",
+        "ASBLT": "81677",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 20636,
+        "INSTDATE": 1199174400000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90944852395006,
+          49.25014319953215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "COMPKEY": 537876,
+        "UNITID": "SIG000258",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "20050056",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 22248,
+        "INSTDATE": 1271833200000,
+        "LOC": "S",
+        "MAPNO": "17K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00324940464195,
+          49.26642879946011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "COMPKEY": 252424,
+        "UNITID": "SIG000134",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "20040249",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2244,
+        "INSTDATE": 979545600000,
+        "LOC": "S",
+        "MAPNO": "20B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96464910044863,
+          49.26161589056606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "COMPKEY": 251809,
+        "UNITID": "SIG000008",
+        "COMPTYPE": 74,
+        "AREA": "NC-6",
+        "ASBLT": "81584",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2476,
+        "INSTDATE": 821433600000,
+        "LOC": "S",
+        "MAPNO": "19F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97556210467528,
+          49.28034701139404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "COMPKEY": 252281,
+        "UNITID": "SIG000118",
+        "COMPTYPE": 74,
+        "AREA": "NC-4",
+        "ASBLT": "81633",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1637,
+        "INSTDATE": 961052400000,
+        "LOC": "S",
+        "MAPNO": "23E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95314224399594,
+          49.28685631847674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "COMPKEY": 252286,
+        "UNITID": "SIG000123",
+        "COMPTYPE": 74,
+        "AREA": "NC-2",
+        "ASBLT": "81643",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1367,
+        "INSTDATE": 947145600000,
+        "LOC": "S",
+        "MAPNO": "25G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00591416322732,
+          49.281031084013236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "COMPKEY": 252246,
+        "UNITID": "SIG000111",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81550",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1607,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "23B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99749127898117,
+          49.28101120360662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "COMPKEY": 392500,
+        "UNITID": "SIG000234",
+        "COMPTYPE": 74,
+        "AREA": "NW-6",
+        "ASBLT": "81545",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1610,
+        "INSTDATE": 1183964400000,
+        "LOC": "S",
+        "MAPNO": "23C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9587467824897,
+          49.28058560576164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "COMPKEY": 252284,
+        "UNITID": "SIG000121",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "20040236",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1622,
+        "INSTDATE": 947404800000,
+        "LOC": "S",
+        "MAPNO": "23F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98707377292001,
+          49.262790013923016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "COMPKEY": 268843,
+        "UNITID": "SIG000179",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "81537",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2430,
+        "INSTDATE": 1005811200000,
+        "LOC": "S",
+        "MAPNO": "19D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "RMVD",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97009376570269,
+          49.2752236744168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "COMPKEY": 251944,
+        "UNITID": "SIG000033",
+        "COMPTYPE": 74,
+        "AREA": "NC-4",
+        "ASBLT": "81606",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1857,
+        "INSTDATE": 1009872000000,
+        "LOC": "S",
+        "MAPNO": "22E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90969366481447,
+          49.255053563412794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "COMPKEY": 251777,
+        "UNITID": "SIG000002",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81582",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2823,
+        "INSTDATE": 946713600000,
+        "LOC": "S",
+        "MAPNO": "18K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98328207282285,
+          49.25930028978027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "COMPKEY": 251956,
+        "UNITID": "SIG000045",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "81612",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2585,
+        "INSTDATE": 1210834800000,
+        "LOC": "S",
+        "MAPNO": "19D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9125616793128,
+          49.25238768086939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "COMPKEY": 252589,
+        "UNITID": "SIG000140",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "20040276",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2969,
+        "INSTDATE": 953103600000,
+        "LOC": "S",
+        "MAPNO": "17K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0033991892562,
+          49.23375987124005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "COMPKEY": 252221,
+        "UNITID": "SIG000086",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81723",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3848,
+        "INSTDATE": 1074153600000,
+        "LOC": "S",
+        "MAPNO": "13B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9068266595138,
+          49.248129841955276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "COMPKEY": 392501,
+        "UNITID": "SIG000235",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "20040539",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3176,
+        "INSTDATE": 1136102400000,
+        "LOC": "S",
+        "MAPNO": "16K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96655232688704,
+          49.24993589592785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 173,
+        "COMPKEY": 393066,
+        "UNITID": "SIG000246",
+        "COMPTYPE": 74,
+        "AREA": "NC-8",
+        "ASBLT": null,
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3081,
+        "INSTDATE": 1357027200000,
+        "LOC": "S",
+        "MAPNO": "17F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96469256977201,
+          49.23978864062524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 174,
+        "COMPKEY": 251929,
+        "UNITID": "SIG000022",
+        "COMPTYPE": 74,
+        "AREA": "SC-1",
+        "ASBLT": "81593",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3530,
+        "INSTDATE": 978336000000,
+        "LOC": "S",
+        "MAPNO": "14F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01977146983651,
+          49.254700081897326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 175,
+        "COMPKEY": 251847,
+        "UNITID": "SIG000013",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": "20070528",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2839,
+        "INSTDATE": 1031900400000,
+        "LOC": "S",
+        "MAPNO": "18A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97470791541063,
+          49.24559693926025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 176,
+        "COMPKEY": 251928,
+        "UNITID": "SIG000021",
+        "COMPTYPE": 74,
+        "AREA": "NC-8",
+        "ASBLT": "51591",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3268,
+        "INSTDATE": 883641600000,
+        "LOC": "S",
+        "MAPNO": "16E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91089630213264,
+          49.23630244727461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 178,
+        "COMPKEY": 252235,
+        "UNITID": "SIG000100",
+        "COMPTYPE": 74,
+        "AREA": "SE-3",
+        "ASBLT": "81516",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3702,
+        "INSTDATE": 1183273200000,
+        "LOC": "S",
+        "MAPNO": "14K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99422111826264,
+          49.22520745538234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 180,
+        "COMPKEY": 251799,
+        "UNITID": "SIG000005",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "81681",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4352,
+        "INSTDATE": 1041408000000,
+        "LOC": "S",
+        "MAPNO": "11C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92143023260778,
+          49.22230815635774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 181,
+        "COMPKEY": 392475,
+        "UNITID": "SIG000229",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": "81507",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4520,
+        "INSTDATE": 1091430000000,
+        "LOC": "S",
+        "MAPNO": "10J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94503887627967,
+          49.221940338769905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 182,
+        "COMPKEY": 251960,
+        "UNITID": "SIG000049",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81539",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4543,
+        "INSTDATE": 1074153600000,
+        "LOC": "S",
+        "MAPNO": "10H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01806823667339,
+          49.22195131297329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 183,
+        "COMPKEY": 251971,
+        "UNITID": "SIG000060",
+        "COMPTYPE": 74,
+        "AREA": "SW-4",
+        "ASBLT": "81554",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4544,
+        "INSTDATE": 1074153600000,
+        "LOC": "S",
+        "MAPNO": "10A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01259427693526,
+          49.22194863377438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 184,
+        "COMPKEY": 251972,
+        "UNITID": "SIG000061",
+        "COMPTYPE": 74,
+        "AREA": "SW-4",
+        "ASBLT": "20040284",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4550,
+        "INSTDATE": 910944000000,
+        "LOC": "S",
+        "MAPNO": "10A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.999430018622,
+          49.21484327371289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 185,
+        "COMPKEY": 269304,
+        "UNITID": "SIG000194",
+        "COMPTYPE": 74,
+        "AREA": "SW-7",
+        "ASBLT": "81700",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4983,
+        "INSTDATE": 926665200000,
+        "LOC": "S",
+        "MAPNO": "9C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01798268463375,
+          49.21483312687131
+        ]
+      },
+      "properties": {
+        "OBJECTID": 186,
+        "COMPKEY": 252075,
+        "UNITID": "SIG000077",
+        "COMPTYPE": 74,
+        "AREA": "SW-6",
+        "ASBLT": "81570",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4990,
+        "INSTDATE": 1074153600000,
+        "LOC": "S",
+        "MAPNO": "9A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01586889235143,
+          49.2328379129779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 187,
+        "COMPKEY": 295903,
+        "UNITID": "SIG000197",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "20030032",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3889,
+        "INSTDATE": 1098946800000,
+        "LOC": "S",
+        "MAPNO": "13A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00878417137196,
+          49.264462948324045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 188,
+        "COMPKEY": 589998,
+        "UNITID": "SIG000278",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "82178",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1374476400000,
+        "LOC": "S",
+        "MAPNO": "20B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96465609004775,
+          49.27521904824314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "COMPKEY": 251945,
+        "UNITID": "SIG000034",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "81607",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1861,
+        "INSTDATE": 1168588800000,
+        "LOC": "S",
+        "MAPNO": "22F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90880683486387,
+          49.2600214981207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "COMPKEY": 252594,
+        "UNITID": "SIG000145",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81614",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2555,
+        "INSTDATE": 947664000000,
+        "LOC": "S",
+        "MAPNO": "20K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92954972341765,
+          49.22050862662654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "COMPKEY": 299029,
+        "UNITID": "SIG000202",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": "81503",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4650,
+        "INSTDATE": 1072944000000,
+        "LOC": "S",
+        "MAPNO": "10I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0111026375212,
+          49.23287588324775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "COMPKEY": 251963,
+        "UNITID": "SIG000052",
+        "COMPTYPE": 74,
+        "AREA": "SW-1",
+        "ASBLT": "81621",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3884,
+        "INSTDATE": 1010563200000,
+        "LOC": "S",
+        "MAPNO": "13B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00278648276169,
+          49.229532275599766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "COMPKEY": 252602,
+        "UNITID": "SIG000153",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "20040158",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4103,
+        "INSTDATE": 921481200000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01792048339217,
+          49.20543586182808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "COMPKEY": 253684,
+        "UNITID": "SIG000173",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "81674",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5473,
+        "INSTDATE": 916387200000,
+        "LOC": "S",
+        "MAPNO": "7A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89691638237677,
+          49.28827335472112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "COMPKEY": 252421,
+        "UNITID": "SIG000131",
+        "COMPTYPE": 74,
+        "AREA": "NE-2",
+        "ASBLT": "81576",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 22226,
+        "INSTDATE": 947664000000,
+        "LOC": "S",
+        "MAPNO": "25L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00387334407372,
+          49.225882569436486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "COMPKEY": 251939,
+        "UNITID": "SIG000029",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81600",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 22207,
+        "INSTDATE": 978508800000,
+        "LOC": "S",
+        "MAPNO": "11B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99998172328374,
+          49.22414276304123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "COMPKEY": 251942,
+        "UNITID": "SIG000031",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81601",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 22219,
+        "INSTDATE": 1041408000000,
+        "LOC": "S",
+        "MAPNO": "11B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96100221535151,
+          49.21845772882605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "COMPKEY": 253675,
+        "UNITID": "SIG000165",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "81564",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4766,
+        "INSTDATE": 953103600000,
+        "LOC": "S",
+        "MAPNO": "10F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89587966890869,
+          49.24899332876278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "COMPKEY": 392503,
+        "UNITID": "SIG000237",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81518",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3134,
+        "INSTDATE": 979200000000,
+        "LOC": "S",
+        "MAPNO": "16L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97564478851356,
+          49.2418062416475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "COMPKEY": 251955,
+        "UNITID": "SIG000044",
+        "COMPTYPE": 74,
+        "AREA": "SC-1",
+        "ASBLT": "20040204",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3438,
+        "INSTDATE": 1210834800000,
+        "LOC": "S",
+        "MAPNO": "15E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95449529820746,
+          49.235470101531895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "COMPKEY": 252595,
+        "UNITID": "SIG000146",
+        "COMPTYPE": 74,
+        "AREA": "SE-5",
+        "ASBLT": "81531",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3744,
+        "INSTDATE": 978336000000,
+        "LOC": "S",
+        "MAPNO": "13G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99710698677937,
+          49.22194233138632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "COMPKEY": 251974,
+        "UNITID": "SIG000063",
+        "COMPTYPE": 74,
+        "AREA": "SW-5",
+        "ASBLT": "81642",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4568,
+        "INSTDATE": 1199606400000,
+        "LOC": "S",
+        "MAPNO": "10C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9042846014991,
+          49.251194128142025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "COMPKEY": 252590,
+        "UNITID": "SIG000141",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "20040277",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3016,
+        "INSTDATE": 1003129200000,
+        "LOC": "S",
+        "MAPNO": "17K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91426622983508,
+          49.25075517913644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "COMPKEY": 251937,
+        "UNITID": "SIG000026",
+        "COMPTYPE": 74,
+        "AREA": "NE-6",
+        "ASBLT": "81598",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3042,
+        "INSTDATE": 820656000000,
+        "LOC": "S",
+        "MAPNO": "17J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98865773970793,
+          49.2506000745694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "COMPKEY": 251854,
+        "UNITID": "SIG000018",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "81534",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3055,
+        "INSTDATE": 915177600000,
+        "LOC": "S",
+        "MAPNO": "17D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93054299963512,
+          49.225086939421345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "COMPKEY": 429244,
+        "UNITID": "SIG000254",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": "81515",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4357,
+        "INSTDATE": 1196496000000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00899534766205,
+          49.22194624356147
+        ]
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "COMPKEY": 353497,
+        "UNITID": "SIG000226",
+        "COMPTYPE": 74,
+        "AREA": "SW-4",
+        "ASBLT": "81555",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4556,
+        "INSTDATE": 1092380400000,
+        "LOC": "S",
+        "MAPNO": "10B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01005485768681,
+          49.20514104980079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "COMPKEY": 253685,
+        "UNITID": "SIG000174",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "20050509",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5486,
+        "INSTDATE": 916387200000,
+        "LOC": "S",
+        "MAPNO": "7B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91688957072702,
+          49.2247378127899
+        ]
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "COMPKEY": 253683,
+        "UNITID": "SIG000172",
+        "COMPTYPE": 74,
+        "AREA": "SE-3",
+        "ASBLT": "20040274",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4377,
+        "INSTDATE": 1071475200000,
+        "LOC": "S",
+        "MAPNO": "11J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01084512789119,
+          49.22459514777583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "COMPKEY": 252224,
+        "UNITID": "SIG000089",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81720",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4391,
+        "INSTDATE": 1103097600000,
+        "LOC": "S",
+        "MAPNO": "11B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95754892694153,
+          49.218449840403146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "COMPKEY": 253676,
+        "UNITID": "SIG000166",
+        "COMPTYPE": 74,
+        "AREA": "SE-5",
+        "ASBLT": "20040270",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4769,
+        "INSTDATE": 1063609200000,
+        "LOC": "S",
+        "MAPNO": "10F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93347629766454,
+          49.21835470204423
+        ]
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "COMPKEY": 252598,
+        "UNITID": "SIG000149",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81502",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4786,
+        "INSTDATE": 1028185200000,
+        "LOC": "S",
+        "MAPNO": "10I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95166165720035,
+          49.21834142292952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 213,
+        "COMPKEY": 253678,
+        "UNITID": "SIG000168",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81562",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4789,
+        "INSTDATE": 1038297600000,
+        "LOC": "S",
+        "MAPNO": "10G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01626972588788,
+          49.281071537229714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 214,
+        "COMPKEY": 252243,
+        "UNITID": "SIG000108",
+        "COMPTYPE": 74,
+        "AREA": "NW-4",
+        "ASBLT": "20040223",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1600,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "24A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96462131533079,
+          49.267988900278624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 215,
+        "COMPKEY": 251970,
+        "UNITID": "SIG000059",
+        "COMPTYPE": 74,
+        "AREA": "NC-6",
+        "ASBLT": "81707",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2185,
+        "INSTDATE": 1213340400000,
+        "LOC": "S",
+        "MAPNO": "21F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01016643720546,
+          49.24920013510752
+        ]
+      },
+      "properties": {
+        "OBJECTID": 217,
+        "COMPKEY": 251961,
+        "UNITID": "SIG000050",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": "81618",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3121,
+        "INSTDATE": 1181890800000,
+        "LOC": "S",
+        "MAPNO": "16B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98892988172669,
+          49.2249730692959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "COMPKEY": 252607,
+        "UNITID": "SIG000158",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "20040163",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4363,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "11D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96851370065215,
+          49.26187133891812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 220,
+        "COMPKEY": 251803,
+        "UNITID": "SIG000006",
+        "COMPTYPE": 74,
+        "AREA": "NC-6",
+        "ASBLT": "81583",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2468,
+        "INSTDATE": 915350400000,
+        "LOC": "S",
+        "MAPNO": "19E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93704986663059,
+          49.260916917233494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 221,
+        "COMPKEY": 429245,
+        "UNITID": "SIG000255",
+        "COMPTYPE": 74,
+        "AREA": "NE-3",
+        "ASBLT": "81525",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2497,
+        "INSTDATE": 1072944000000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97563020007624,
+          49.27522256591012
+        ]
+      },
+      "properties": {
+        "OBJECTID": 223,
+        "COMPKEY": 251943,
+        "UNITID": "SIG000032",
+        "COMPTYPE": 74,
+        "AREA": "NC-4",
+        "ASBLT": "81605",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1859,
+        "INSTDATE": 1009872000000,
+        "LOC": "S",
+        "MAPNO": "22E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90517626533752,
+          49.25581834803646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "COMPKEY": 251794,
+        "UNITID": "SIG000003",
+        "COMPTYPE": 74,
+        "AREA": "NE-4",
+        "ASBLT": "81521",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2777,
+        "INSTDATE": 915523200000,
+        "LOC": "S",
+        "MAPNO": "18K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01429043318025,
+          49.264489246579565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 225,
+        "COMPKEY": 251951,
+        "UNITID": "SIG000040",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "81616",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2347,
+        "INSTDATE": 1010131200000,
+        "LOC": "S",
+        "MAPNO": "20A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01203178108968,
+          49.25720713776041
+        ]
+      },
+      "properties": {
+        "OBJECTID": 226,
+        "COMPKEY": 253700,
+        "UNITID": "SIG000178",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "81617",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2712,
+        "INSTDATE": 982224000000,
+        "LOC": "S",
+        "MAPNO": "18B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9646533413616,
+          49.258333723215706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 228,
+        "COMPKEY": 269131,
+        "UNITID": "SIG000180",
+        "COMPTYPE": 74,
+        "AREA": "NC-7",
+        "ASBLT": "20040282",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2638,
+        "INSTDATE": 1005811200000,
+        "LOC": "S",
+        "MAPNO": "18F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9645676307893,
+          49.22988715894997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 230,
+        "COMPKEY": 251828,
+        "UNITID": "SIG000011",
+        "COMPTYPE": 74,
+        "AREA": "SC-3",
+        "ASBLT": "81586",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4077,
+        "INSTDATE": 978336000000,
+        "LOC": "S",
+        "MAPNO": "12F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91246215222891,
+          49.24595046903872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 232,
+        "COMPKEY": 251936,
+        "UNITID": "SIG000025",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "81599",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3258,
+        "INSTDATE": 820742400000,
+        "LOC": "S",
+        "MAPNO": "16K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93131421398107,
+          49.221890130656604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 233,
+        "COMPKEY": 252232,
+        "UNITID": "SIG000097",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": "81504",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4580,
+        "INSTDATE": 1072944000000,
+        "LOC": "S",
+        "MAPNO": "10I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95374603178304,
+          49.209765271308264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 234,
+        "COMPKEY": 252236,
+        "UNITID": "SIG000101",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81626",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5304,
+        "INSTDATE": 1099292400000,
+        "LOC": "S",
+        "MAPNO": "8G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98857488625072,
+          49.219929369648234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 235,
+        "COMPKEY": 252057,
+        "UNITID": "SIG000076",
+        "COMPTYPE": 74,
+        "AREA": "SW-5",
+        "ASBLT": "81696",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4691,
+        "INSTDATE": 1072944000000,
+        "LOC": "S",
+        "MAPNO": "10D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99059560525805,
+          49.28017371631875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 236,
+        "COMPKEY": 295900,
+        "UNITID": "SIG000196",
+        "COMPTYPE": 74,
+        "AREA": "NC-1",
+        "ASBLT": "81546",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1664,
+        "INSTDATE": 1098946800000,
+        "LOC": "S",
+        "MAPNO": "23C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91457253118475,
+          49.287835592939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 237,
+        "COMPKEY": 252417,
+        "UNITID": "SIG000130",
+        "COMPTYPE": 74,
+        "AREA": "NE-2",
+        "ASBLT": "81519",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1333,
+        "INSTDATE": 947664000000,
+        "LOC": "S",
+        "MAPNO": "25J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01863759039233,
+          49.281087595812096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 239,
+        "COMPKEY": 252241,
+        "UNITID": "SIG000107",
+        "COMPTYPE": 74,
+        "AREA": "NW-4",
+        "ASBLT": "81547",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1599,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "24A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99472437786861,
+          49.28099129218534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 240,
+        "COMPKEY": 252261,
+        "UNITID": "SIG000114",
+        "COMPTYPE": 74,
+        "AREA": "NW-6",
+        "ASBLT": "81634",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1611,
+        "INSTDATE": 955695600000,
+        "LOC": "S",
+        "MAPNO": "23C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00600254902618,
+          49.26805535757952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 241,
+        "COMPKEY": 537878,
+        "UNITID": "SIG000260",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "81040",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2167,
+        "INSTDATE": 1271833200000,
+        "LOC": "S",
+        "MAPNO": "21B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96466778343529,
+          49.27779877349492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 242,
+        "COMPKEY": 252231,
+        "UNITID": "SIG000096",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "81708",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 1746,
+        "INSTDATE": 1074153600000,
+        "LOC": "S",
+        "MAPNO": "23F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96465254257885,
+          49.26436852969588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 243,
+        "COMPKEY": 252230,
+        "UNITID": "SIG000095",
+        "COMPTYPE": 74,
+        "AREA": "NC-6",
+        "ASBLT": "81706",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2361,
+        "INSTDATE": 1072944000000,
+        "LOC": "S",
+        "MAPNO": "20F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94879005766695,
+          49.249710812863995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 244,
+        "COMPKEY": 252052,
+        "UNITID": "SIG000072",
+        "COMPTYPE": 74,
+        "AREA": "NE-5",
+        "ASBLT": "20040213",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3095,
+        "INSTDATE": 976867200000,
+        "LOC": "S",
+        "MAPNO": "17G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91888222616208,
+          49.25435448942692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 245,
+        "COMPKEY": 392507,
+        "UNITID": "SIG000239",
+        "COMPTYPE": 74,
+        "AREA": "NE-3",
+        "ASBLT": "81695",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2856,
+        "INSTDATE": 1041408000000,
+        "LOC": "S",
+        "MAPNO": "18J",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00505858127859,
+          49.22194339219629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 247,
+        "COMPKEY": 251973,
+        "UNITID": "SIG000062",
+        "COMPTYPE": 74,
+        "AREA": "SW-4",
+        "ASBLT": "81558",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4566,
+        "INSTDATE": 1213340400000,
+        "LOC": "S",
+        "MAPNO": "10B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94722674616473,
+          49.229240902602896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 249,
+        "COMPKEY": 252596,
+        "UNITID": "SIG000147",
+        "COMPTYPE": 74,
+        "AREA": "SE-5",
+        "ASBLT": "51590",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4124,
+        "INSTDATE": 1105689600000,
+        "LOC": "S",
+        "MAPNO": "12G",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00117164459704,
+          49.230852310340985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 250,
+        "COMPKEY": 251966,
+        "UNITID": "SIG000055",
+        "COMPTYPE": 74,
+        "AREA": "SW-2",
+        "ASBLT": "81622",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4013,
+        "INSTDATE": 1011081600000,
+        "LOC": "S",
+        "MAPNO": "12C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98273368452396,
+          49.214830849998485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 252,
+        "COMPKEY": 252217,
+        "UNITID": "SIG000082",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81571",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4992,
+        "INSTDATE": 1100505600000,
+        "LOC": "S",
+        "MAPNO": "9D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97752954008949,
+          49.21477808258471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 253,
+        "COMPKEY": 392472,
+        "UNITID": "SIG000228",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81569",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5001,
+        "INSTDATE": 1132041600000,
+        "LOC": "S",
+        "MAPNO": "9E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93148898910344,
+          49.21687910747512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 254,
+        "COMPKEY": 299028,
+        "UNITID": "SIG000201",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81588",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4864,
+        "INSTDATE": 1062399600000,
+        "LOC": "S",
+        "MAPNO": "9I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94291126891963,
+          49.216530584277606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 255,
+        "COMPKEY": 253680,
+        "UNITID": "SIG000169",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81560",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4893,
+        "INSTDATE": 1359705600000,
+        "LOC": "S",
+        "MAPNO": "9H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9252368821672,
+          49.22795789252565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 256,
+        "COMPKEY": 252234,
+        "UNITID": "SIG000099",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": null,
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4189,
+        "INSTDATE": 1170316800000,
+        "LOC": "S",
+        "MAPNO": "12I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91214888071478,
+          49.227295829468055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 257,
+        "COMPKEY": 298917,
+        "UNITID": "SIG000199",
+        "COMPTYPE": 74,
+        "AREA": "SE-3",
+        "ASBLT": "81604",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4230,
+        "INSTDATE": 1062399600000,
+        "LOC": "S",
+        "MAPNO": "12K",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00580593018664,
+          49.22677354301442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 258,
+        "COMPKEY": 251940,
+        "UNITID": "SIG000028",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "81602",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4264,
+        "INSTDATE": 1137052800000,
+        "LOC": "S",
+        "MAPNO": "11B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92761804172825,
+          49.2189682312446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 259,
+        "COMPKEY": 298918,
+        "UNITID": "SIG000200",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": "20040289",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4737,
+        "INSTDATE": 1041408000000,
+        "LOC": "S",
+        "MAPNO": "10I",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8989922488983,
+          49.24782278481907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 260,
+        "COMPKEY": 252055,
+        "UNITID": "SIG000074",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "81541",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 3178,
+        "INSTDATE": 1668067200000,
+        "LOC": "S",
+        "MAPNO": "16L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95750232558639,
+          49.21020154671159
+        ]
+      },
+      "properties": {
+        "OBJECTID": 261,
+        "COMPKEY": 252242,
+        "UNITID": "SIG000106",
+        "COMPTYPE": 74,
+        "AREA": "SC-5",
+        "ASBLT": "81703",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5287,
+        "INSTDATE": 1099292400000,
+        "LOC": "S",
+        "MAPNO": "8F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93600475443725,
+          49.21444068536857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 262,
+        "COMPKEY": 392487,
+        "UNITID": "SIG000231",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "81510",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 5020,
+        "INSTDATE": 1009872000000,
+        "LOC": "S",
+        "MAPNO": "9H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98119529122998,
+          49.26489767339385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 263,
+        "COMPKEY": 252426,
+        "UNITID": "SIG000136",
+        "COMPTYPE": 74,
+        "AREA": "NC-7",
+        "ASBLT": "20040251",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2329,
+        "INSTDATE": 953103600000,
+        "LOC": "S",
+        "MAPNO": "20D",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9922401681508,
+          49.26516995880875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 264,
+        "COMPKEY": 252425,
+        "UNITID": "SIG000135",
+        "COMPTYPE": 74,
+        "AREA": "NW-6",
+        "ASBLT": "20050532",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 2320,
+        "INSTDATE": 984639600000,
+        "LOC": "S",
+        "MAPNO": "20C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99388805678718,
+          49.214835797460594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 265,
+        "COMPKEY": 252215,
+        "UNITID": "SIG000080",
+        "COMPTYPE": 74,
+        "AREA": "SW-7",
+        "ASBLT": "81701",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4988,
+        "INSTDATE": 908434800000,
+        "LOC": "S",
+        "MAPNO": "9C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00038845635356,
+          49.26632952394956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 266,
+        "COMPKEY": 603084,
+        "UNITID": "SIG000281",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "82373_4",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1413442800000,
+        "LOC": "S",
+        "MAPNO": "20C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99627499534004,
+          49.261248334696106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 267,
+        "COMPKEY": 603413,
+        "UNITID": "SIG000283",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "80979",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1423555200000,
+        "LOC": "S",
+        "MAPNO": "19C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99500878377039,
+          49.19485399201435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 268,
+        "COMPKEY": 605054,
+        "UNITID": "SIG000284",
+        "COMPTYPE": 74,
+        "AREA": "SC-6",
+        "ASBLT": "82215",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1493881200000,
+        "LOC": "S",
+        "MAPNO": "4C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00980247861861,
+          49.231837225443705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 270,
+        "COMPKEY": 601268,
+        "UNITID": "SIG000279",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": "82278",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1395903600000,
+        "LOC": "S",
+        "MAPNO": "12B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00313812800884,
+          49.26930179664067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 272,
+        "COMPKEY": 603080,
+        "UNITID": "SIG000280",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "82373_102",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1413442800000,
+        "LOC": "S",
+        "MAPNO": "21B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97930881221738,
+          49.221920606754544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 273,
+        "COMPKEY": 252609,
+        "UNITID": "SIG000160",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "20040165",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 4577,
+        "INSTDATE": 987145200000,
+        "LOC": "S",
+        "MAPNO": "10E",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9004985139366,
+          49.24598923637115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 274,
+        "COMPKEY": 614367,
+        "UNITID": "SIG000287",
+        "COMPTYPE": 74,
+        "AREA": "NE-7",
+        "ASBLT": "TE-12006",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1420099200000,
+        "LOC": "S",
+        "MAPNO": "16L",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01982452896083,
+          49.24882283983741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 275,
+        "COMPKEY": 621031,
+        "UNITID": "SIG000288",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": "82762",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1454572800000,
+        "LOC": "S",
+        "MAPNO": "16A",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94586937904224,
+          49.217436484492666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 276,
+        "COMPKEY": 630110,
+        "UNITID": "SIG000290",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1456214400000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99832165878901,
+          49.207744852438104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 277,
+        "COMPKEY": 627609,
+        "UNITID": "SIG000289",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "82971",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1498114800000,
+        "LOC": " ",
+        "MAPNO": "7C",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97015693468394,
+          49.19437975671035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 278,
+        "COMPKEY": 630387,
+        "UNITID": "SIG000291",
+        "COMPTYPE": 74,
+        "AREA": "SC-6",
+        "ASBLT": "82648",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1496300400000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95886969604851,
+          49.28030292663437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 279,
+        "COMPKEY": 634898,
+        "UNITID": "SIG000292",
+        "COMPTYPE": 74,
+        "AREA": "NC-5",
+        "ASBLT": "TE93007_06",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 922950000000,
+        "LOC": "S",
+        "MAPNO": "23F",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00867867353514,
+          49.214850597044034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 280,
+        "COMPKEY": 635537,
+        "UNITID": "SIG000293",
+        "COMPTYPE": 74,
+        "AREA": "SW-6",
+        "ASBLT": null,
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": -2209132800000,
+        "LOC": "S",
+        "MAPNO": "9B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00319814248374,
+          49.277386632985284
+        ]
+      },
+      "properties": {
+        "OBJECTID": 281,
+        "COMPKEY": 635540,
+        "UNITID": "SIG000294",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "82629",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1525417200000,
+        "LOC": "S",
+        "MAPNO": "23B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00320782347752,
+          49.27377010853736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 282,
+        "COMPKEY": 635542,
+        "UNITID": "SIG000295",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "82629",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1525417200000,
+        "LOC": "S",
+        "MAPNO": "22B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00322070961273,
+          49.2719630798259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 283,
+        "COMPKEY": 635543,
+        "UNITID": "SIG000296",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "82629",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1525417200000,
+        "LOC": "S",
+        "MAPNO": "22B",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97207599845034,
+          49.21714568711258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 284,
+        "COMPKEY": 654299,
+        "UNITID": "SIG000305",
+        "COMPTYPE": 74,
+        "AREA": "SC-4",
+        "ASBLT": "83467",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1587970800000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94849076396368,
+          49.21810009536385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 285,
+        "COMPKEY": 639129,
+        "UNITID": "SIG000301",
+        "COMPTYPE": 74,
+        "AREA": "SE-6",
+        "ASBLT": "82171",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1594191600000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01427015894926,
+          49.27566040664873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 286,
+        "COMPKEY": 639124,
+        "UNITID": "SIG000297",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": "83232",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1544428800000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90981892136884,
+          49.24393312912378
+        ]
+      },
+      "properties": {
+        "OBJECTID": 287,
+        "COMPKEY": 639125,
+        "UNITID": "SIG000298",
+        "COMPTYPE": 74,
+        "AREA": "SE-3",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1547452800000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01428298418053,
+          49.26936865629769
+        ]
+      },
+      "properties": {
+        "OBJECTID": 288,
+        "COMPKEY": 639126,
+        "UNITID": "SIG000299",
+        "COMPTYPE": 74,
+        "AREA": "NW-4",
+        "ASBLT": "82109",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1515139200000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01428311514539,
+          49.26803170926683
+        ]
+      },
+      "properties": {
+        "OBJECTID": 289,
+        "COMPKEY": 639128,
+        "UNITID": "SIG000300",
+        "COMPTYPE": 74,
+        "AREA": "NW-5",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1622962800000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96657748668483,
+          49.25186897869577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 290,
+        "COMPKEY": 648206,
+        "UNITID": "SIG000303",
+        "COMPTYPE": 74,
+        "AREA": "NC-4",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1572418800000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97471462820153,
+          49.24832853850669
+        ]
+      },
+      "properties": {
+        "OBJECTID": 291,
+        "COMPKEY": 648229,
+        "UNITID": "SIG000304",
+        "COMPTYPE": 74,
+        "AREA": "NC-8",
+        "ASBLT": "83390",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1573632000000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94403057640146,
+          49.22653849654094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 292,
+        "COMPKEY": 659476,
+        "UNITID": "SIG000306",
+        "COMPTYPE": 74,
+        "AREA": "SE-5",
+        "ASBLT": "83408",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1604649600000,
+        "LOC": " ",
+        "MAPNO": "11H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93798590737858,
+          49.255527567185375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 293,
+        "COMPKEY": 659477,
+        "UNITID": "SIG000307",
+        "COMPTYPE": 74,
+        "AREA": "NE-5",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1602140400000,
+        "LOC": " ",
+        "MAPNO": "18H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0049964738276,
+          49.242943092556814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 294,
+        "COMPKEY": 662122,
+        "UNITID": "SIG000308",
+        "COMPTYPE": 74,
+        "AREA": "NW-9",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1614931200000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98408814837734,
+          49.20085026300606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 295,
+        "COMPKEY": 664512,
+        "UNITID": "SIG000309",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "83343",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1618988400000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00368245726642,
+          49.22876797292587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 296,
+        "COMPKEY": 665155,
+        "UNITID": "SIG000310",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1621926000000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0036882330269,
+          49.22755233446836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 297,
+        "COMPKEY": 665301,
+        "UNITID": "SIG000311",
+        "COMPTYPE": 74,
+        "AREA": "SW-3",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1622617200000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00040380033353,
+          49.26446942060942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 298,
+        "COMPKEY": 667565,
+        "UNITID": "SIG000312",
+        "COMPTYPE": 74,
+        "AREA": "NW-8",
+        "ASBLT": "82760",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1630479600000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99745159294962,
+          49.19685788327675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 299,
+        "COMPKEY": 667566,
+        "UNITID": "SIG000313",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": null,
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1641024000000,
+        "LOC": " ",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01006059054902,
+          49.20015206096448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 305,
+        "COMPKEY": 684293,
+        "UNITID": "SIG000318",
+        "COMPTYPE": 74,
+        "AREA": "SW-8",
+        "ASBLT": "22-00058",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1721372400000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01156086609402,
+          49.266251787400186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 306,
+        "COMPKEY": 704677,
+        "UNITID": "SIG000322",
+        "COMPTYPE": 74,
+        "AREA": "NW-7",
+        "ASBLT": "82861",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1765526400000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95319399635314,
+          49.226073849650604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 307,
+        "COMPKEY": 700493,
+        "UNITID": "SIG000324",
+        "COMPTYPE": 74,
+        "AREA": "SE-5",
+        "ASBLT": "7023-01",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1765440000000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93578939126023,
+          49.21998739491445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 308,
+        "COMPKEY": 699689,
+        "UNITID": "SIG000323",
+        "COMPTYPE": 74,
+        "AREA": "SE-2",
+        "ASBLT": "7027-01",
+        "CONTROLCODE": "5",
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1779346800000,
+        "LOC": "S",
+        "MAPNO": "10H",
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90306683085915,
+          49.26478775366072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 309,
+        "COMPKEY": 708389,
+        "UNITID": "SIG000327",
+        "COMPTYPE": 74,
+        "AREA": "NE-3",
+        "ASBLT": "7027-03",
+        "CONTROLCODE": null,
+        "EASMENT_NO": null,
+        "GISKEY": 0,
+        "INSTDATE": 1784790000000,
+        "LOC": "S",
+        "MAPNO": null,
+        "OWN": "CITY",
+        "PAC_NO": null,
+        "SERVSTAT": "I",
+        "WBS_NO": null
+      }
+    }
+  ]
+}

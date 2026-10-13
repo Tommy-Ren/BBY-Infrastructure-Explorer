@@ -1,0 +1,2300 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98978196825688,
+          49.20130351477517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "PLACETYPE": 100,
+        "FCODE": 120,
+        "DESCRIPTION": "Riverway Public Golf Course"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94293970731326,
+          49.2649171983378
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "PLACETYPE": 100,
+        "FCODE": 120,
+        "DESCRIPTION": "Burnaby Mountain Golf Course"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01506704741541,
+          49.250005598363636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "PLACETYPE": 200,
+        "FCODE": 220,
+        "DESCRIPTION": "Burnaby Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01132163135836,
+          49.24149921886008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Wesburn Community Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02245582407635,
+          49.23080202116738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Swangard Stadium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01305550948115,
+          49.2710912371775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Willingdon Community Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00229442319576,
+          49.28318284672597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Eileen Dailly Leisure Pool and Fitness Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00129025874641,
+          49.28221759463369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Confederation Community Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96604213262695,
+          49.2174705408633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Alan Emmott Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97130067108242,
+          49.24092931468184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Burnaby Art Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96952427271641,
+          49.240534181844104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Shadbolt Centre for the Arts"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99689473812376,
+          49.224155953286854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Bonsor Recreation Complex"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99500479627616,
+          49.2224144590211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "South Central Youth Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96984512678877,
+          49.253252455986214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Burnaby Lake Sports Complex West"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96591162621249,
+          49.250732756660064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "C.G.Brown Memorial Pool"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96560203617662,
+          49.2524179478442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Bill Copeland Sports Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9741629077357,
+          49.27598284580961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Kensington Complex"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9534936453476,
+          49.210642493008585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Krib Youth Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91777967151641,
+          49.26515953708789
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Forest Grove Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94149462848324,
+          49.252146651213344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Charles Rummel Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94050356891834,
+          49.28907773775427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Harry Jerome Sports Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90281476296026,
+          49.25942487932771
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Creekside Youth Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89929177458433,
+          49.25405535265311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Cameron Recreation Complex"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01684894881053,
+          49.22038600711001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "PLACETYPE": 400,
+        "FCODE": 410,
+        "DESCRIPTION": "Ocean View Cemetery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00849623098391,
+          49.268310027900235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "PLACETYPE": 400,
+        "FCODE": 410,
+        "DESCRIPTION": "Masonic Cemetery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00356905847373,
+          49.26952280597765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "PLACETYPE": 400,
+        "FCODE": 410,
+        "DESCRIPTION": "Beth Israel Cemetery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98976250040573,
+          49.2502604380205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "PLACETYPE": 400,
+        "FCODE": 410,
+        "DESCRIPTION": "Forest Lawn Cemetery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98707645969162,
+          49.24883901745218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "PLACETYPE": 500,
+        "FCODE": 505,
+        "DESCRIPTION": "District 41 Administration Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00395726794375,
+          49.21617660826502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "South Slope Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01732662217059,
+          49.23902988891418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Inman Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00541055956108,
+          49.234022465795604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Chaffey-Burke Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02037402860475,
+          49.246127700644095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Cascade Heights Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00059700354097,
+          49.22272624623219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Maywood Community"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0155216295228,
+          49.27334648621687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Kitchener Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01335640000853,
+          49.28422940934466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Gilmore Ave Commmunity School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0073595184443,
+          49.28330150914744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Rosser Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9784281280113,
+          49.21270142043939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Clinton Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99575260442977,
+          49.21510840751039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Nelson Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95944082821751,
+          49.20751889377124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Taylor Park Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96693159792666,
+          49.224599375777096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Brantford Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.991167268449,
+          49.22918797917273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Marlborough Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98437394458286,
+          49.243578766003054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Gilpin Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97475591438912,
+          49.22150051376122
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Windsor Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96089584595829,
+          49.27307747231597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Lochdale Community School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96399268089148,
+          49.26376576332174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Sperling Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97694146762858,
+          49.26843496829734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Parkcrest Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99410769799424,
+          49.270866136591025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Brentwood Park Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97798233572324,
+          49.27463548060476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Aubrey Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96192465640037,
+          49.2789865082684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Westridge Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9804588471219,
+          49.280920645601704
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Capitol Hill Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99658324311329,
+          49.28321677566932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Confederation Park Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95457704888399,
+          49.21095484203082
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Stride Ave Community School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93457224009958,
+          49.216875530294146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Twelfth Ave Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94529344476932,
+          49.23010455271684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Lakeview Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95827150464983,
+          49.22615070173412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Morley Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94126614111504,
+          49.22221933777083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Edmonds Community School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95565414069677,
+          49.23318269483803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Buckingham Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93617001820868,
+          49.25212068827193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Seaforth Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91802329230998,
+          49.26483883240609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Forest Grove Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95263564898572,
+          49.26432924321099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Montecito Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90832197315446,
+          49.23384351342854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Armstrong Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89513666087961,
+          49.259178521440795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Lyndhurst Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89974563925215,
+          49.252156580649675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Cameron Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0044184449766,
+          49.24357817526161
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Moscrop Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98567138249102,
+          49.2165982475666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Burnaby South Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97602617828449,
+          49.24377517007842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Burnaby Central Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9877723384141,
+          49.25078701923971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Canada Way Education Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97367835181552,
+          49.277977465115356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Burnaby North Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99869663054831,
+          49.27605937830205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Alpha Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95220996840362,
+          49.20823080868438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Byrne Creek Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91492256321258,
+          49.232473945454615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Cariboo Hill Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91132917392403,
+          49.25523592827783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "PLACETYPE": 500,
+        "FCODE": 520,
+        "DESCRIPTION": "Burnaby Mountain Secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00255766828575,
+          49.25103760114287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "PLACETYPE": 500,
+        "FCODE": 530,
+        "DESCRIPTION": "BC Institute of Technology"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91643660987513,
+          49.27924693960929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "PLACETYPE": 500,
+        "FCODE": 530,
+        "DESCRIPTION": "Simon Fraser University"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01105603579848,
+          49.28129780750713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99201185750825,
+          49.22485823457154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96519454811576,
+          49.24076248100989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94319013049292,
+          49.22249841127531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9184566210055,
+          49.25056367664369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9388610330092,
+          49.26942371999595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97087159888608,
+          49.242182903403425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "PLACETYPE": 700,
+        "FCODE": 710,
+        "DESCRIPTION": "Police Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.005434510995,
+          49.22876695302078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "PLACETYPE": 700,
+        "FCODE": 720,
+        "DESCRIPTION": "Southwest Community Police Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01207119574342,
+          49.281292826951244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "PLACETYPE": 700,
+        "FCODE": 720,
+        "DESCRIPTION": "Hastings Community Police Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00764103351565,
+          49.2306095057256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "PLACETYPE": 800,
+        "FCODE": 850,
+        "DESCRIPTION": "Metro Vancouver Regional District"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89678334516626,
+          49.251584022063284
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "PLACETYPE": 700,
+        "FCODE": 720,
+        "DESCRIPTION": "Lougheed Community Police Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96589332742866,
+          49.2394563681342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "PLACETYPE": 300,
+        "FCODE": 840,
+        "DESCRIPTION": "Burnaby Village Museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9776638458243,
+          49.27705590953482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "PLACETYPE": 100,
+        "FCODE": 110,
+        "DESCRIPTION": "Kensington Park Pitch and Putt Course"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95900231692733,
+          49.24543262831918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Burnaby Lake Rowing Pavillion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97125359384806,
+          49.279085347238635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Kensington Park Outdoor Pool"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01818933283673,
+          49.21533675914429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Suncrest Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97891047886792,
+          49.20620817292031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Glenwood Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98185261006594,
+          49.248980651789545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Douglas Road Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92640987387489,
+          49.22827196866704
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Second St Community School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90365086074365,
+          49.25897625702563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "Stoney Creek Community School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89767355873424,
+          49.23572555907886
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "St Michaels School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97246095808018,
+          49.243181872482296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "PLACETYPE": 800,
+        "FCODE": 810,
+        "DESCRIPTION": "City Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00637970260505,
+          49.22815035794939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "PLACETYPE": 900,
+        "FCODE": 910,
+        "DESCRIPTION": "Bob Prittie Metrotown Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00062355659438,
+          49.28269051065467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "PLACETYPE": 900,
+        "FCODE": 910,
+        "DESCRIPTION": "McGill Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91207004717565,
+          49.24515171562194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "PLACETYPE": 700,
+        "FCODE": 730,
+        "DESCRIPTION": "Port Mann Freeway Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89859444169718,
+          49.25381086065358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "PLACETYPE": 900,
+        "FCODE": 910,
+        "DESCRIPTION": "Cameron Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90827641181531,
+          49.27843465852338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "PLACETYPE": 500,
+        "FCODE": 510,
+        "DESCRIPTION": "University Highlands Elementary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95573129764522,
+          49.2195568037895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "PLACETYPE": 700,
+        "FCODE": 720,
+        "DESCRIPTION": "Donald N. Brown Community Police Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95234997273536,
+          49.21875995773681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "PLACETYPE": 900,
+        "FCODE": 910,
+        "DESCRIPTION": "Tommy Douglas Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01180727564962,
+          49.25573930729052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99179576382869,
+          49.271116295750765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "Holy Cross Elementary School   "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99494150700116,
+          49.26112228630913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "PLACETYPE": 800,
+        "FCODE": 830,
+        "DESCRIPTION": "Burnaby Eco Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01863850632134,
+          49.22260161090165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "PLACETYPE": 100,
+        "FCODE": 110,
+        "DESCRIPTION": "Central Park Pitch and Putt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91653151103318,
+          49.23358834658062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "PLACETYPE": 200,
+        "FCODE": 230,
+        "DESCRIPTION": "Goerge Derby Long Term Care Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00171090777609,
+          49.2835795187792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Summit Youth Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94795149900992,
+          49.220899612778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Edmonds Community Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.952995242269,
+          49.218076593795104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Eastburn Community Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97537488851336,
+          49.24960317619389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "Burnaby Montessori School "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98373009203131,
+          49.21557976535957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "MacPherson Outdoor Pool"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97571772187922,
+          49.21702328382313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "PLACETYPE": 800,
+        "FCODE": 810,
+        "DESCRIPTION": "Engineering Dept - Survey Division"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02231099922041,
+          49.228400567354925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Central Park Outdoor Pool"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9362564062529,
+          49.21470232905169
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "Our Lady of Mercy School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93658152339874,
+          49.25348284365361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Parks Nursery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97242198279201,
+          49.244872870200695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "PLACETYPE": 800,
+        "FCODE": 810,
+        "DESCRIPTION": "Parks, Recreation and Cultural Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92071184429564,
+          49.22627094860857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "John Knox Christian School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01893099345182,
+          49.283699809846915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "St Helen's School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89944756188835,
+          49.236291323160685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "Carver Christian High School   "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9731649388186,
+          49.24528157179066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "PLACETYPE": 800,
+        "FCODE": 810,
+        "DESCRIPTION": "Citizen Support Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93852216272542,
+          49.215405014607825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "St Thomas More Collegiate"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98327540521981,
+          49.24163811646302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "Deer Lake SDA School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02332080382561,
+          49.25358604490522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "Whytecliff Agile Learning Centre-Burnaby"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9309275871077,
+          49.231077012469896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Robert Burnaby Outdoor Pool"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97897110875851,
+          49.252776059617936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "PLACETYPE": 800,
+        "FCODE": 820,
+        "DESCRIPTION": "Laurel Street Works Yard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99688724254231,
+          49.26078434940218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "PLACETYPE": 800,
+        "FCODE": 820,
+        "DESCRIPTION": "Still Creek Works Yard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96620489808433,
+          49.220095510450236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "PLACETYPE": 500,
+        "FCODE": 540,
+        "DESCRIPTION": "St Francis de Sales School"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90884751162518,
+          49.274198389591355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "PLACETYPE": 600,
+        "FCODE": 610,
+        "DESCRIPTION": "Fire Hall 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96776543101562,
+          49.25131876633449
+        ]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Christine Sinclair Community Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99455637855779,
+          49.22427834715778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Bonsor 55+ Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94779282985344,
+          49.22093417746601
+        ]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Edmonds 55+ Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89906074460829,
+          49.25405197212506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Cameron 55+ Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9501880775512,
+          49.20866550819833
+        ]
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "PLACETYPE": 300,
+        "FCODE": 310,
+        "DESCRIPTION": "Rosemary Brown Recreation Centre"
+      }
+    }
+  ]
+}

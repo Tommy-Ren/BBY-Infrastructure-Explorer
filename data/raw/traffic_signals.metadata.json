@@ -1,0 +1,229 @@
+{
+  "currentVersion": 10.81,
+  "id": 1,
+  "name": "Traffic Signals",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPoint",
+  "sourceSpatialReference": {
+    "wkid": 26910,
+    "latestWkid": 26910
+  },
+  "copyrightText": "",
+  "parentLayer": {
+    "id": 0,
+    "name": "Traffic Assets"
+  },
+  "subLayers": [],
+  "minScale": 10000,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriPMS",
+        "url": "78b8641e36bca45934ee9fc287780960",
+        "imageData": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAthJREFUOI21lE1IVGEUhh+ZxiNCgVIOl2oW40QLQUKoRaFkC8mgwrIEkYSgDPpjVEIrQxNKisJFRhCVi0CtSCKIFoULa2QWiRCBWFIk8TUVM5u0ezRnWuQM16sSEX2bC+e873POufe7Zxn/6Sz7C+2xuee1fwX7LctaYYyJAkkRWQegqisBj2VZq4wxceDT34AzgW6/31/a2dlJVVUVqprKnejv76etrQ1jzENgPzC7JNiyrEJjzFrADxQBpZFIhEAgwIZgkEuHDjGdSHCgtZWioiJGRkYA9ojIZVUdBSaA98DoPPBc9Xx35by8PK7XHSGr+y4A9863E41G03lVDTnkg0CJu+PdxpjzwA4gy1GQrJ8/087lGRkkk0l3/e/AY+DMgldhjHkD7M3Nzd0Yi8WeASsAsrOzuT/2ln37Kkh6vdwYCtOwe5cT+hXYDLxzBhd8vFgs9go4CDwAyMzMpP3OLV5u28bk5CSRSISjra1pvYhUqOq4m+MEPwHWA2v4fSsAmJmZoauri7q6OmZnZ+no6JgHUNUXgC0iE6o6BNS6wUPAdiDDabRtm5KSEjweDx6Ph7KyMmzbdjeYpaoB4OpiHbcDN4HTwPFU0Ov1Mjw8TEFBAYlEgnA4TGVl5TyqiLSp6jXg22JggM9ASER+qOopgJycHGpraxkYGMC2bXp7eykuLnZ6GlX1insEJ7gC8IuIX1ULUsFoNEp1dTWhUIjp6Wni8Tg+n8/J2CIiPlWdEJG3qvrUDW4CNjl+XQB8Ph8NDQ0UFhb+FjU1MT4+7xJUpDyq+ghYAN4pIsdU9SCwOhUcGxtDRNKiqakpgsGge/JxoBvH5nOCv6jqOeA28BwIAOTn51NTU0NLSwuqSmNjIz09PU7oa2ArEHMGF9tuH4BSETkM0NfXNxkOhy+Ul5enBYODgydFJG9u/CtA3A1Zam1+VNWzAM3NzQAXncn6+volbH8G//P5BSftGE1p22wsAAAAAElFTkSuQmCC",
+        "contentType": "image/png",
+        "width": 16,
+        "height": 15,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      "label": "",
+      "description": ""
+    },
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 498278.8356999997,
+    "ymin": 5448715.480699999,
+    "xmax": 507814.4442999996,
+    "ymax": 5459672.057700001,
+    "spatialReference": {
+      "wkid": 26910,
+      "latestWkid": 26910
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "UNITID",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "COMPKEY",
+      "type": "esriFieldTypeInteger",
+      "alias": "COMPKEY",
+      "domain": null
+    },
+    {
+      "name": "UNITID",
+      "type": "esriFieldTypeString",
+      "alias": "UNITID",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "COMPTYPE",
+      "type": "esriFieldTypeInteger",
+      "alias": "COMPTYPE",
+      "domain": null
+    },
+    {
+      "name": "AREA",
+      "type": "esriFieldTypeString",
+      "alias": "AREA",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "ASBLT",
+      "type": "esriFieldTypeString",
+      "alias": "ASBLT",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "CONTROLCODE",
+      "type": "esriFieldTypeString",
+      "alias": "CONTROLCODE",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "EASMENT_NO",
+      "type": "esriFieldTypeString",
+      "alias": "EASMENT_NO",
+      "length": 25,
+      "domain": null
+    },
+    {
+      "name": "GISKEY",
+      "type": "esriFieldTypeInteger",
+      "alias": "GISKEY",
+      "domain": null
+    },
+    {
+      "name": "INSTDATE",
+      "type": "esriFieldTypeDate",
+      "alias": "INSTDATE",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "LOC",
+      "type": "esriFieldTypeString",
+      "alias": "LOC",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "MAPNO",
+      "type": "esriFieldTypeString",
+      "alias": "MAPNO",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "OWN",
+      "type": "esriFieldTypeString",
+      "alias": "OWN",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "PAC_NO",
+      "type": "esriFieldTypeString",
+      "alias": "PAC_NO",
+      "length": 6,
+      "domain": null
+    },
+    {
+      "name": "SERVSTAT",
+      "type": "esriFieldTypeString",
+      "alias": "SERVSTAT",
+      "length": 6,
+      "domain": null
+    },
+    {
+      "name": "WBS_NO",
+      "type": "esriFieldTypeString",
+      "alias": "WBS_NO",
+      "length": 25,
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "SHAPE",
+    "type": "esriFieldTypeGeometry",
+    "alias": "SHAPE"
+  },
+  "indexes": [
+    {
+      "name": "FDO_OBJECTID",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "SHAPE_INDEX",
+      "fields": "SHAPE",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 1000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "supportedQueryFormats": "JSON, geoJSON",
+  "isDataVersioned": false,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsHavingClause": true,
+    "supportsCountDistinct": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": true,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true
+  },
+  "supportsDatumTransformation": true,
+  "dateFieldsTimeReference": {
+    "timeZone": "Pacific Standard Time",
+    "respectsDaylightSaving": true
+  },
+  "supportsCoordinatesQuantization": true
+}

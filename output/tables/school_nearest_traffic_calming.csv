@@ -1,0 +1,65 @@
+school_id,school_name,nearest_calming_id,nearest_calming_type,nearest_calming_distance_m
+69,Alpha Secondary,1044,Speed Bump,95.125
+61,Armstrong Elementary,1334,Speed Hump,97.229
+48,Aubrey Elementary,755,Gate,244.857
+73,BC Institute of Technology,740,Gate,342.359
+40,Brantford Elementary,550,Unlabelled code 460,63.195
+47,Brentwood Park Elementary,1026,Speed Bump,37.166
+57,Buckingham Elementary,575,Unlabelled code 450,28.288
+66,Burnaby Central Secondary,405,Speed Hump,304.271
+128,Burnaby Montessori School ,701,Barrier,52.186
+72,Burnaby Mountain Secondary,658,Barrier,263.505
+68,Burnaby North Secondary,1457,Speed Bump,172.304
+65,Burnaby South Secondary,562,Unlabelled code 450,186.368
+70,Byrne Creek Secondary,1293,Unlabelled code 450,242.434
+63,Cameron Elementary,917,Speed Hump,112.308
+67,Canada Way Education Centre,707,Barrier,53.168
+50,Capitol Hill Elementary,1436,Speed Bump,215.512
+71,Cariboo Hill Secondary,432,Speed Bump,58.363
+137,Carver Christian High School   ,2,Barrier,429.322
+32,Cascade Heights Elementary,1097,Speed Bump,49.707
+31,Chaffey-Burke Elementary,248,Speed Bump,78.284
+37,Clinton Elementary,18,Barrier,79.973
+51,Confederation Park Elementary,662,Barrier,32.088
+140,Deer Lake SDA School,400,Speed Hump,63.897
+28,District 41 Administration Office,1389,Speed Hump,75.771
+92,Douglas Road Elementary,1391,Unlabelled code 460,74.821
+56,Edmonds Community School,138,Speed Hump,45.870
+59,Forest Grove Elementary,1233,Unlabelled code 450,39.009
+35,Gilmore Ave Commmunity School,957,Speed Hump,51.898
+42,Gilpin Elementary,1201,Speed Bump,93.821
+91,Glenwood Elementary,608,Unlabelled code 450,94.728
+121,Holy Cross Elementary School   ,1023,Speed Bump,98.657
+30,Inman Elementary,518,Speed Bump,328.844
+135,John Knox Christian School,374,Speed Bump,133.234
+34,Kitchener Elementary,1272,Unlabelled code 450,99.655
+54,Lakeview Elementary,385,Speed Bump,120.900
+44,Lochdale Community School,1132,Speed Bump,87.073
+62,Lyndhurst Elementary,635,Barrier,129.510
+41,Marlborough Elementary,446,Speed Bump,86.219
+33,Maywood Community,607,Missing,160.593
+60,Montecito Elementary,1235,Unlabelled code 450,61.671
+55,Morley Elementary,266,Speed Bump,90.840
+64,Moscrop Secondary,994,Speed Bump,132.073
+38,Nelson Elementary,364,Speed Bump,143.194
+132,Our Lady of Mercy School,194,Barrier,188.169
+46,Parkcrest Elementary,1188,Speed Bump,98.425
+36,Rosser Elementary,1008,Speed Hump,64.712
+58,Seaforth Elementary,718,Gate,251.488
+93,Second St Community School,1303,Speed Bump,139.617
+74,Simon Fraser University,1367,Unlabelled code 460,473.751
+29,South Slope Elementary,421,Speed Hump,52.646
+45,Sperling Elementary,738,Barrier,106.811
+145,St Francis de Sales School,612,Unlabelled code 450,12.780
+136,St Helen's School,838,Speed Hump,20.526
+95,St Michaels School,492,Speed Bump,513.357
+139,St Thomas More Collegiate,162,Barrier,31.537
+94,Stoney Creek Community School,1230,Unlabelled code 450,39.061
+52,Stride Ave Community School,1294,Unlabelled code 470,117.165
+90,Suncrest Elementary,30,Barrier,169.198
+39,Taylor Park Elementary,605,Unlabelled code 450,159.763
+53,Twelfth Ave Elementary,94,Speed Hump,89.196
+115,University Highlands Elementary,1369,Speed Hump,180.559
+49,Westridge Elementary,1447,Speed Bump,131.808
+141,Whytecliff Agile Learning Centre-Burnaby,720,Barrier,202.198
+43,Windsor Elementary,566,Unlabelled code 450,60.073

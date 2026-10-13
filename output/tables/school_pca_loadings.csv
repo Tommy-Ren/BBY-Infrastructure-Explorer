@@ -1,0 +1,7 @@
+feature,pc1_loading,pc2_loading
+nearest_calming_distance_m,-0.466367,0.095888
+nearest_signal_distance_m,-0.034311,-0.597053
+nearest_intersection_distance_m,-0.158541,0.725719
+calming_count_100m,0.469337,-0.139218
+calming_count_250m,0.541002,0.138702
+calming_count_500m,0.493183,0.262765

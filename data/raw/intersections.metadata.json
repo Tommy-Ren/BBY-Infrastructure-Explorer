@@ -1,0 +1,223 @@
+{
+  "currentVersion": 10.81,
+  "id": 5,
+  "name": "Intersection",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPoint",
+  "sourceSpatialReference": {
+    "wkid": 26910,
+    "latestWkid": 26910
+  },
+  "copyrightText": "",
+  "parentLayer": {
+    "id": 4,
+    "name": "Legal Street Network"
+  },
+  "subLayers": [],
+  "minScale": 10000,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriPMS",
+        "url": "dcc6636d9dd2a4687ea4b80ac613b642",
+        "imageData": "iVBORw0KGgoAAAANSUhEUgAAAAcAAAAGCAYAAAAPDoR2AAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAIRJREFUCJlly6EKwlAcRvFz8YPbFnwFk2FpQRiYbHbR+QC+xsL6gtEHkAsGX2GWwYLddxDW/2MywzSIp/44AlgGZt3AHAB822RWA4gTkw6uOOIRrV8E4mbHQ0nEAb7AOEAJrCXY8t8qPTNVP/hczqofcv5Y763VPbNbGri8YPOhZyQrAN4XCyHfFrRpTgAAAABJRU5ErkJggg==",
+        "contentType": "image/png",
+        "width": 5,
+        "height": 4,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      "label": "",
+      "description": ""
+    },
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 497562.53110000025,
+    "ymin": 5447167.1620000005,
+    "xmax": 508090.5716000004,
+    "ymax": 5460600.2666,
+    "spatialReference": {
+      "wkid": 26910,
+      "latestWkid": 26910
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "STREETNAME1",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "COMPKEY",
+      "type": "esriFieldTypeInteger",
+      "alias": "COMPKEY",
+      "domain": null
+    },
+    {
+      "name": "UNITID",
+      "type": "esriFieldTypeString",
+      "alias": "UNITID",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "COMPTYPE",
+      "type": "esriFieldTypeInteger",
+      "alias": "COMPTYPE",
+      "domain": null
+    },
+    {
+      "name": "CONTROLCODE",
+      "type": "esriFieldTypeString",
+      "alias": "CONTROLCODE",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "GISKEY",
+      "type": "esriFieldTypeInteger",
+      "alias": "GISKEY",
+      "domain": null
+    },
+    {
+      "name": "INTERSECTIONCODE",
+      "type": "esriFieldTypeString",
+      "alias": "INTERSECTIONCODE",
+      "length": 12,
+      "domain": null
+    },
+    {
+      "name": "INTERSECTIONTYPE",
+      "type": "esriFieldTypeInteger",
+      "alias": "INTERSECTIONTYPE",
+      "domain": null
+    },
+    {
+      "name": "JURISDICTION",
+      "type": "esriFieldTypeString",
+      "alias": "JURISDICTION",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "MUNICIPALITY",
+      "type": "esriFieldTypeString",
+      "alias": "MUNICIPALITY",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "SIGNALKEY",
+      "type": "esriFieldTypeInteger",
+      "alias": "SIGNALKEY",
+      "domain": null
+    },
+    {
+      "name": "STATUS",
+      "type": "esriFieldTypeString",
+      "alias": "STATUS",
+      "length": 1,
+      "domain": null
+    },
+    {
+      "name": "STREETCODE1",
+      "type": "esriFieldTypeString",
+      "alias": "STREETCODE1",
+      "length": 4,
+      "domain": null
+    },
+    {
+      "name": "STREETCODE2",
+      "type": "esriFieldTypeString",
+      "alias": "STREETCODE2",
+      "length": 4,
+      "domain": null
+    },
+    {
+      "name": "STREETNAME1",
+      "type": "esriFieldTypeString",
+      "alias": "STREETNAME1",
+      "length": 30,
+      "domain": null
+    },
+    {
+      "name": "STREETNAME2",
+      "type": "esriFieldTypeString",
+      "alias": "STREETNAME2",
+      "length": 30,
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "SHAPE",
+    "type": "esriFieldTypeGeometry",
+    "alias": "SHAPE"
+  },
+  "indexes": [
+    {
+      "name": "FDO_OBJECTID",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "SHAPE_INDEX",
+      "fields": "SHAPE",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 1000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "supportedQueryFormats": "JSON, geoJSON",
+  "isDataVersioned": false,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsHavingClause": true,
+    "supportsCountDistinct": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": true,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true
+  },
+  "supportsDatumTransformation": true,
+  "supportsCoordinatesQuantization": true
+}

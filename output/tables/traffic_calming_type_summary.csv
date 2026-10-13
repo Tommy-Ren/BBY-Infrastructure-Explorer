@@ -1,0 +1,25 @@
+distance_m,calming_type,school_feature_pairs,unique_features,schools_with_type
+100,Speed Bump,33,32,15
+100,Unlabelled code 450,23,23,10
+100,Speed Hump,16,16,12
+100,Barrier,10,10,6
+100,Unlabelled code 460,3,3,3
+250,Speed Bump,229,219,36
+250,Speed Hump,93,85,30
+250,Unlabelled code 450,51,50,21
+250,Barrier,43,40,25
+250,Unlabelled code 460,5,5,4
+250,Unlabelled code 470,5,5,1
+250,Gate,4,3,3
+250,Unlabelled code 480,4,4,3
+250,Missing,1,1,1
+500,Speed Bump,669,519,45
+500,Speed Hump,437,279,47
+500,Barrier,143,115,45
+500,Unlabelled code 450,133,97,29
+500,Unlabelled code 480,20,17,15
+500,Gate,15,11,10
+500,Unlabelled code 470,14,9,3
+500,Unlabelled code 460,12,7,9
+500,Unlabelled code 490,6,5,5
+500,Missing,2,2,2

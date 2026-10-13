@@ -1,0 +1,72 @@
+place_id,place_name,place_type,nearest_calming_id,nearest_calming_type,nearest_calming_distance_m,covered_100m,covered_250m,covered_500m
+9,Alan Emmott Centre,Parks & Rec,256,Speed Bump,259.448,False,False,True
+26,Beth Israel Cemetery,Cemetery,1276,Unlabelled code 450,19.611,True,True,True
+16,Bill Copeland Sports Centre,Parks & Rec,739,Barrier,178.389,False,True,True
+97,Bob Prittie Metrotown Library,Library,529,Speed Bump,115.969,False,True,True
+148,Bonsor 55+ Centre,Parks & Rec,610,Unlabelled code 450,131.246,False,True,True
+12,Bonsor Recreation Complex,Parks & Rec,610,Unlabelled code 450,293.848,False,False,True
+10,Burnaby Art Gallery,Parks & Rec,175,Barrier,33.774,True,True,True
+122,Burnaby Eco Centre,Civic,667,Barrier,524.406,False,False,False
+3,Burnaby Hospital,Medical,1024,Speed Bump,260.390,False,False,True
+88,Burnaby Lake Rowing Pavillion,Parks & Rec,112,Barrier,537.234,False,False,False
+14,Burnaby Lake Sports Complex West,Parks & Rec,640,Barrier,322.117,False,False,True
+2,Burnaby Mountain Golf Course,Golf,1018,Speed Hump,433.584,False,False,True
+86,Burnaby Village Museum,Parks & Rec,148,Barrier,291.631,False,False,True
+15,C.G.Brown Memorial Pool,Parks & Rec,739,Barrier,363.583,False,False,True
+150,Cameron 55+ Centre,Parks & Rec,821,Barrier,233.010,False,True,True
+100,Cameron Library,Library,821,Barrier,205.497,False,True,True
+23,Cameron Recreation Complex,Parks & Rec,821,Barrier,249.624,False,True,True
+131,Central Park Outdoor Pool,Parks & Rec,179,Barrier,110.214,False,True,True
+123,Central Park Pitch and Putt,Golf,238,Speed Bump,207.066,False,True,True
+20,Charles Rummel Centre,Parks & Rec,649,Barrier,56.163,True,True,True
+147,Christine Sinclair Community Centre,Parks & Rec,739,Barrier,365.290,False,False,True
+138,Citizen Support Services,Civic,735,Barrier,259.099,False,False,True
+96,City Hall,Civic,735,Barrier,258.614,False,False,True
+8,Confederation Community Centre,Parks & Rec,1248,Unlabelled code 450,118.284,False,True,True
+22,Creekside Youth Centre,Parks & Rec,1231,Unlabelled code 450,90.398,True,True,True
+116,Donald N. Brown Community Police Office,Police,40,Barrier,342.094,False,False,True
+127,Eastburn Community Centre,Parks & Rec,413,Speed Hump,244.277,False,True,True
+149,Edmonds 55+ Centre,Parks & Rec,597,Unlabelled code 450,42.446,True,True,True
+126,Edmonds Community Centre,Parks & Rec,597,Unlabelled code 450,54.603,True,True,True
+7,Eileen Dailly Leisure Pool and Fitness Centre,Parks & Rec,1253,Unlabelled code 450,81.264,True,True,True
+130,Engineering Dept - Survey Division,Civic,559,Unlabelled code 450,461.038,False,False,True
+77,Fire Hall 1,Fire,112,Barrier,336.918,False,False,True
+78,Fire Hall 2,Fire,185,Barrier,53.697,True,True,True
+76,Fire Hall 3,Fire,610,Unlabelled code 450,131.216,False,True,True
+80,Fire Hall 4,Fire,661,Barrier,646.239,False,False,False
+75,Fire Hall 5,Fire,946,Speed Bump,89.741,True,True,True
+79,Fire Hall 6,Fire,733,Barrier,540.970,False,False,False
+120,Fire Hall 7,Fire,1376,Speed Hump,116.263,False,True,True
+146,Fire Hall 8,Fire,1273,Unlabelled code 450,211.130,False,True,True
+19,Forest Grove Office,Parks & Rec,1233,Unlabelled code 450,78.539,True,True,True
+27,Forest Lawn Cemetery,Cemetery,727,Barrier,115.293,False,True,True
+124,Goerge Derby Long Term Care Centre,Medical,431,Speed Bump,136.303,False,True,True
+21,Harry Jerome Sports Centre,Parks & Rec,939,Speed Bump,678.489,False,False,False
+83,Hastings Community Police Office,Police,1053,Speed Bump,75.893,True,True,True
+17,Kensington Complex,Parks & Rec,742,Gate,65.753,True,True,True
+89,Kensington Park Outdoor Pool,Parks & Rec,1456,Speed Bump,41.619,True,True,True
+87,Kensington Park Pitch and Putt Course,Golf,755,Gate,168.893,False,True,True
+18,Krib Youth Centre,Parks & Rec,1294,Unlabelled code 470,32.100,True,True,True
+143,Laurel Street Works Yard,Civic,708,Barrier,100.096,False,True,True
+85,Lougheed Community Police Office,Police,917,Speed Hump,133.698,False,True,True
+129,MacPherson Outdoor Pool,Parks & Rec,564,Unlabelled code 450,161.940,False,True,True
+25,Masonic Cemetery,Cemetery,1316,Speed Hump,230.390,False,True,True
+98,McGill Library,Library,737,Gate,51.066,True,True,True
+84,Metro Vancouver Regional District,Civic,531,Speed Bump,141.390,False,True,True
+24,Ocean View Cemetery,Cemetery,238,Speed Bump,317.925,False,False,True
+133,Parks Nursery,Parks & Rec,718,Gate,139.183,False,True,True
+134,"Parks, Recreation and Cultural Services",Civic,735,Barrier,197.238,False,True,True
+81,Police Station,Police,175,Barrier,173.877,False,True,True
+99,Port Mann Freeway Office,Police,706,Barrier,117.841,False,True,True
+1,Riverway Public Golf Course,Golf,38,Barrier,435.597,False,False,True
+142,Robert Burnaby Outdoor Pool,Parks & Rec,1292,Speed Bump,201.448,False,True,True
+151,Rosemary Brown Recreation Centre,Parks & Rec,1298,Unlabelled code 470,286.450,False,False,True
+11,Shadbolt Centre for the Arts,Parks & Rec,175,Barrier,151.241,False,True,True
+13,South Central Youth Centre,Parks & Rec,216,Barrier,148.126,False,True,True
+82,Southwest Community Police Office,Police,531,Speed Bump,131.655,False,True,True
+144,Still Creek Works Yard,Civic,861,Gate,529.847,False,False,False
+125,Summit Youth Centre,Parks & Rec,737,Gate,136.173,False,True,True
+5,Swangard Stadium,Parks & Rec,179,Barrier,194.561,False,True,True
+118,Tommy Douglas Library,Library,602,Unlabelled code 450,170.227,False,True,True
+4,Wesburn Community Centre,Parks & Rec,522,Speed Bump,284.554,False,False,True
+6,Willingdon Community Centre,Parks & Rec,1359,Speed Hump,59.008,True,True,True

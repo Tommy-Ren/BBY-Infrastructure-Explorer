@@ -1,0 +1,65 @@
+school_id,school_name,nearest_signal_id,nearest_signal_unit_id,nearest_signal_distance_m
+69,Alpha Secondary,126,SIG000039,130.168
+61,Armstrong Elementary,178,SIG000100,331.430
+48,Aubrey Elementary,223,SIG000032,183.118
+73,BC Institute of Technology,81,SIG000087,153.245
+40,Brantford Elementary,230,SIG000011,612.521
+47,Brentwood Park Elementary,96,SIG000036,537.788
+57,Buckingham Elementary,10,SIG000010,143.111
+66,Burnaby Central Secondary,113,SIG000198,143.773
+128,Burnaby Montessori School ,291,SIG000304,149.627
+72,Burnaby Mountain Secondary,167,SIG000002,120.728
+68,Burnaby North Secondary,79,SIG000068,263.095
+65,Burnaby South Secondary,66,SIG000081,282.790
+70,Byrne Creek Secondary,234,SIG000101,204.001
+63,Cameron Elementary,14,SIG000012,165.603
+67,Canada Way Education Centre,205,SIG000018,67.704
+50,Capitol Hill Elementary,90,SIG000117,74.777
+71,Cariboo Hill Secondary,41,SIG000181,222.862
+137,Carver Christian High School   ,17,SIG000023,355.705
+32,Cascade Heights Elementary,275,SIG000288,302.276
+31,Chaffey-Burke Elementary,170,SIG000086,149.308
+37,Clinton Elementary,253,SIG000228,239.958
+51,Confederation Park Elementary,162,SIG000234,253.933
+140,Deer Lake SDA School,63,SIG000233,420.564
+28,District 41 Administration Office,205,SIG000018,227.094
+92,Douglas Road Elementary,34,SIG000019,82.010
+56,Edmonds Community School,146,SIG000195,156.012
+59,Forest Grove Elementary,137,SIG000048,793.012
+35,Gilmore Ave Commmunity School,29,SIG000109,357.941
+42,Gilpin Elementary,63,SIG000233,389.396
+91,Glenwood Elementary,100,SIG000186,231.627
+121,Holy Cross Elementary School   ,96,SIG000036,491.768
+30,Inman Elementary,144,SIG000251,475.716
+135,John Knox Christian School,209,SIG000172,326.349
+34,Kitchener Elementary,286,SIG000297,272.872
+54,Lakeview Elementary,249,SIG000147,170.383
+44,Lochdale Community School,77,SIG000259,317.829
+62,Lyndhurst Elementary,112,SIG000236,645.291
+41,Marlborough Elementary,139,SIG000047,182.049
+33,Maywood Community,19,SIG000248,115.859
+60,Montecito Elementary,143,SIG000138,674.389
+55,Morley Elementary,307,SIG000324,369.796
+64,Moscrop Secondary,294,SIG000308,82.187
+38,Nelson Elementary,265,SIG000080,139.131
+132,Our Lady of Mercy School,262,SIG000231,34.379
+46,Parkcrest Elementary,52,SIG000007,429.960
+36,Rosser Elementary,124,SIG000110,268.882
+58,Seaforth Elementary,91,SIG000191,271.157
+93,Second St Community School,256,SIG000099,92.265
+74,Simon Fraser University,127,SIG000127,918.975
+29,South Slope Elementary,150,SIG000079,165.794
+45,Sperling Elementary,243,SIG000095,82.432
+145,St Francis de Sales School,26,SIG000163,178.893
+136,St Helen's School,239,SIG000107,291.185
+95,St Michaels School,38,SIG000253,392.299
+139,St Thomas More Collegiate,92,SIG000170,118.835
+94,Stoney Creek Community School,224,SIG000003,368.195
+52,Stride Ave Community School,48,SIG000102,84.086
+90,Suncrest Elementary,186,SIG000077,57.976
+39,Taylor Park Elementary,261,SIG000106,329.963
+53,Twelfth Ave Elementary,212,SIG000149,182.783
+115,University Highlands Elementary,237,SIG000130,1141.019
+49,Westridge Elementary,242,SIG000096,239.254
+141,Whytecliff Agile Learning Centre-Burnaby,175,SIG000013,286.442
+43,Windsor Elementary,42,SIG000161,121.208

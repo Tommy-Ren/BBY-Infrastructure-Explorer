@@ -1,0 +1,323 @@
+{
+  "currentVersion": 10.81,
+  "id": 1,
+  "name": "Places of Interest",
+  "type": "Feature Layer",
+  "description": "Locations of interest that would be of concern to the public. The types of places listed include parks & recreation, library, schools, police, etc...",
+  "geometryType": "esriGeometryPoint",
+  "sourceSpatialReference": {
+    "wkid": 26910,
+    "latestWkid": 26910
+  },
+  "copyrightText": "",
+  "parentLayer": {
+    "id": 0,
+    "name": "Community_Features"
+  },
+  "subLayers": [],
+  "minScale": 0,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "uniqueValue",
+      "field1": "PLACETYPE",
+      "field2": null,
+      "field3": null,
+      "defaultSymbol": {
+        "type": "esriPMS",
+        "url": "ab1d50bc41a5cca77aad58562b35394c",
+        "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAiNJREFUSInt1S9wGkEUx/HvzWQKV9MkKnFNpyYopvJkkMjEIXEdZFBUJgokU4fr1TRxYWpyqdvW9DjTO9NyKKDmDmYyt0vNVoCh5c9B26g+83aeeJ/57ezM7vBAtfMfAvSsG/8S0iM5AmDX3NWbYJtAOhz43Io3AIQDn6PDXGosLaT90OGz3+b9JxspYazGCN/ByhVSYWkgLXybTvcDHfeGzKPp0Pn4DiklbWFTtEprsXWQdtwm4aBD0LslawISmGHCu0FOIux2nVKxuhJbBWnHvSSOO/SHASaPkWZClnmsEwjGRyOa9isqpYul2DJIO+5L4vgLw7iHmZlN1WKsG/qogwmXrTK1cmshtgjSjltGqe9MGGCaICVrsf7wG8mTfc7rpzSq179hv0Ja+KdINUQSkwGmG9Nho3HExFSUL09o1e7msDlI+CdIFQNgkkWaiozcDJMyARJOz/NcN7zFiazcneG4JxoU2WwW1BaYnB6vG97Kq6Pw4s5whKXVFlgyBkx4W/NSPQYKljDawtJxrNjbS4fFMgGgtQBZCgEULWFcOZaOB4q9w9XYuD9FXi9BVkIAZwVh2G1LD7sRB8/2F2JhOEUa1eXIWgigVBSGfZXXvSDi6fE81gsTkHCxBkkFAZTOPKNl53UQRBzPMC+IgHsuql//6jdBueQZzVZeu50I5D0AtUo6ZCMIoFL2jHrzuf4hoZYyyVYQQHWDFH8EbVsPBv0EuZU4nXqzX4EAAAAASUVORK5CYII=",
+        "contentType": "image/png",
+        "width": 19,
+        "height": 19,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      "defaultLabel": "Other",
+      "uniqueValueInfos": [
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "1a00ddb8bc7fb78ee37b89330a5cee10",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAtdJREFUSIntlj1sEzEUx3+RqtrO0lymAkOVdqIsp7Jlg2NBEUthCmMqhlKm0olOqJ2KulB1C0ztAlEHFLGQbDmxtDBFYiAQBrqFy4J9LGa4S9qQr4ovMfAm+/n5/fy3n303wV+yif+gPwmyQOJX48aCbm5mKT3wx8FsfitLbe/QNt+GA+NGgmZcYVOTUNjKUlwbCrPLO1lQkLt3mVBjiys+P8YOBeU3XZuaTpKM+8s7WXZXBsPSjkQJIAQt6YOMBJ2fTiLlSQI5OIFd37vKlIDMrALgXUOzvJO1uyv+eEVXCzNWSsmUgJdP31IttwBwXdceHLyMoEpxaXaWjdtV1rdcmL0AwKSKFJ5JUbXYxLs+x9qtKkEQUKsdovUXQFGvH5HJZFDG0Gg0EEIA4Ps+nufx/CjHrVz5TCC7vOUyGXfK5VfkctcA0FoDYIyh0ThGqWOkTHHxYobt7W3y+TzQ5n4xy7PHvRU4UFHQhm9xW4heQAfonEuBMYDB8zwcx0Epxes3H3ny8JBWMxx9Ri4uqekkOoySolQPoAM0UaM7T8bV8rkFV+5c7rt7PSCBsHObSUINrdinTgE69sUYFLLr70BA0G5DecPvhL4AbvSBQsJE6YFPbt21U/ENklJiTLe8MQaM1oCOlMYDQgiE6IGMLW+rAdqdbrR1xhgiARoMGAxaaxSglIpjk32AUaDEe/+TbVajzVMKtDaxAoATYBjG4HhByeSAbCNANKutBNFrDIDjSJApZEwOjo/58CEAIAwFEkkkqv+iDgVVKhULMD8/f8qrUApqtdrJ9glBSimCIIjzC6QEa60FSCQSMKzqTlu9Xu/zLSwsdM+j8yIALC4uIqVkaWmJu3fXSKfP8AR5ntezbZVKZSR8dXWVdDqN4zgIkUKIr2xsPBoPiq0r2fO8034LkM8XKBTyPRNKpRICQchPfPiGLWB/v8j+frFvMCQcOvGf+jn5LfYdfz8iJsqiV98AAAAASUVORK5CYII=",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "400",
+          "label": "Cemetery",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "e7bedf0a5d942056e6138d449a04274b",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAArxJREFUSInllD9MU1EUh7+XaIqTpVNhaTRdqDGx1KmyGGWqi4AmVqY+dGiZRAa0Lg4slK0hwaQdFBsTLE0MNSRQMBGKg7UmBkoiaWmMyPTKxH3P5TmUItA/tARZ/I33nXO+e373nHeGU9KZ/xNkMZl0AJfHQ7fHB4Cnw0FeUaQTA1lMJn1wOkW3zYwqNMTueSy1ggr6PceluoB1dSSEwL+UQ25vxWY0AGDsD4AArnsgGjiyRkNvZDx3nqvPAvzY+d1IWuOgvni6YcCxQK+77HSmE/8edH+qckfJ3LZubAJVFdyuMhwVQaVxDi+m8HQ4asJXg37iuQLjuQLr81Mkijn6YVjVjh5OLmJrNfMhm0UIWPuyWWbdiOym1Wig12ZmPFcg6O6ipbmZWGqF9sejOtHAHuwAyGq16u8+fgYgtrrJwFyGqKaizS/AdoHMtrvsQk/mc6wJlW9uO0bfMFpEsLds1ToaejlLfHWTXscF3I5Wns5lDwQHnS3crfBMIZedy4MBxnrdyKFQRYfKrOtxthFOb1AQgjFXGxfTW/hGHwGgojE78AAB2PzlS6oIQUiWkYPlsDLQ22QGAeyo4I1nCHXbQS1hDGCAJg2Sfh9L2QIA8u5++aMxNK2Cb5VAh7WlQudUmu9uO02A1DcMCBAqI7IHKFrX+SnRmHWHJcfTzHbZkcLLmFILFWMimS0AvBOR+qx7fstB/+RiWVBnlUUtKZH99fdi9XSUVxRp8IYNp8utX/H6axbfr/3Wvc+sEk0s1waVlIxHpJ/LM/q1F3M1AcE7HbheLe4Ng3cigqYJDBtJzGtfyR8FgmJ3+Z52rE6nji9Y9t0yEyavKNKYy4bFZNLPeoYwvxklryiSBgcgNUElrSeTkmXtps7IdBEQKxbbXyivKBKBwZp16vp75xVFQnaiAEo9CccFnYRODfQHeqwrRfkSeL4AAAAASUVORK5CYII=",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "800",
+          "label": "Civic",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "147d784328fe644c8ac0aae620d49f53",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA3pJREFUSInNlj9sG1Ucxz+WGnJnFSX20FpE4l7wQGxVckIiBPbUBjE0MBjFEqSdgrJY3kjHqkMlFtaTl5QsoWGwnFRqL5YQSlhiGJzaEcGhEsF3Q4Kz+Bph5WwyPAY3Foaz04Y/4rfc3fv93vu83/f33k93gf/ILvzvQZqmPbQs6/1/BTT/WVRm9H1yuRygoqpIRVFO34lEIu1Yy7I85waJsELuu0+BIgD5ssGdTzY5sTvjTNNECCH/COsJ0jRNAvQN9fFq9CJHDjQaB21/6LUx3r1RpvkbOA40G3W+uPs9QoizM9I0TQYTvvZ348AG9YSGXcdYr/NW+LA13jgmfe8rAMbCbzLwepVv1uvAX2VzBU0k+rgs/DRp0O9TsKhj2yf4+lv+9OIDBi9fwjk6JjR+iaviYyr2Fg5VAEZGRlzVcZXu5lSUQWUYnxpibXiF/EaeqgOBAQWHBgA3rifY2DWo2hWGfeOU7R+xm+7ZdAXpy49QB7zMXJvpGP8g1tqt8biE8djAq0LlaJ3AK3GwYf/rE9dsuoJSM++1MzKfmsAx4AXlKaDiVRWuhkbY2C0REqOUKjl+Pqh1hXQFAXxb3mKreh//oErVroPixaEJNFsBSus5qMLo8BvkNx90la0n6O3wONfHb5ItrwBPAPgy9wv9L4EKGPldvOozYKPZMxtXUCFzwkeZJd65NUS/T2FoUGVAucgREAq0YmoOeAG7esz9lS2OanWelLrXxxV0mv7nKQuAa/6oHPkwyqZhsPMsJpFIkMlkOuYtLi4CyNnZ2ee7R3+29Vres2fsy1gsxvLyskfTNKkoCqlUCl3X24tOTk6iaZpcXV0lHo/Lc/e6crlMpVKRAPPz8xQKBdLpNFNTUx1qxONx6TbfFXTa47a3twFYWFhA13VS4yl2Xt7BNE3GxsYIh8Md8alUirm5uY4u3hXkOI5UFIVsNkskEuHKr1cwakZLBg0JMD09TbHY6uBSSlksFonH4+i6jt/vP7tGp/oLIYjFYgDoP9zjUSDQlkMIQaFQcO3QyWRSrq2toWla7xpZluURQkjTNDt2c+v2bTJLSz0vJMDh4WFXn+vxFkLIiYkJ9vb2CAaDJJNJKru7WJbVi0M2m32xzmBZlud00WAwKNPpNNuFQk/IWXbm8c5ms55RbfThTy/wI3IuEEDJKv0tyHOD/gn7HU4DdLgbCwK7AAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "2000",
+          "label": "Commercial",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "c7759f91a1a0ec2475b3e86f2be7e4dd",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAidJREFUSInt1TFsElEYwPH/JUVoHGp1YTEtBAfOxdbFMuJkmOSYrnFR46BstssdTMBmp+pi0km5xUInEhe79cLUsHguF5A0MTqYhqne9ByAE/DkroQw+U3v3bt7v/e99+69JRYUS/+hRUHi9NRyK1tbGziOAyDNG6K+KQOwc32NH1ejXHO6gb4LAgkARVEolV5hyLGxRsvqAAj5z3PP7HyhdDrNg2yWTDoDgGp1XOz87d4kiCzHhBcWaOqapknTNInF4zxWn6BaHb4N2pLJ9SBd+EPR42PiwBdVpdNuUyzrHFarf7336+kLnKPGpSEB/ek4Vh+Sb7UoGAYMwGH0bqz7jXMqJBRVpVSoAJA2jiiMbICkYdD7eOLWVz43IRr1hT0zitVqFAflUqGCOljoyR238vOrW/bLzhOKOA5Jw6CtKBTLOtlslg35LqrVYXU1ArfvBQamQgAlIShK/V1aB8L0/yWA3sh7w6wum5EYrSxXKmiaRlGSWK7V6D176dlJkKzGoHAY9uoJvmdsAHRdR9O0qR1MIjsHCT7sn4lua/wMHIMcBymfscXBp4TvCL3izX6ICPBo9yblbXuszWuNpOf3z0RdiVD1AYfZvH8X4gK4cgF6zoagR5CDIzVq0KjZImze8kTO74CphwYV2P0HMBUaCSmXssXrwzUi8RAnE43bm+70zOU+kvK5LoAwrf5UpuTpo58VcsGUbHteAfOGmBWZBZo5Fgb9BvWls6c8pPndAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "600",
+          "label": "Fire",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "41a6b03e27495504a750b880d94d7b09",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAArNJREFUSInllTFMGmEUx38kJuBgctBBiUMhceHi0KJLbTogbsTBwNB05BIHOoqTTE2YZDRu100nSQc9XbzUCR0qMp2L4WBocTFeY4h309dBQC8eFrXt0m/68t77vt/933vfuyH+0Rr6b0Dizt73N0EAWNU8Urwk/gTst6kzNmbBtoWsVOgDFIZhIsvRnj+dTotyueyKH7hGLS3Fu9y+OGs6rgsqlQoAlmUhSRKAUFWVDmgwRVK85OO2Xp5qZmZmXL5CodAFuuIHUdSvPiKfz1MqlVy2aPQ2hY8FeULMrS3qwSCjo6MUCgXhOA75fB5FUTwPPAm0FgphLC5y3gZTec9ULEZwfLyrzjMDTwGJGCOct6/4YH3nVJKIOA7FvT20cLjvM3g0qBJ6yQ+uWB0b4VSSuHQcnHSalmk+eG5QkFD9IbL2BbsvIvxsw8lFg2VfgGtgZ2fnXjs/BSTW/H5M2gBY7Ss+jY1gBgJccqNmN5cjmUw+X9E50HIcbNvGpk2jccFHnw9rYoJYLNYNe3BMDQSqOw4bQrAZifD68JDlQAALKJ+doScSqOomPPywBwM56TSZTAamp4nPzfUagE5dHMdC13WWlpao1WqeQ9gL1PtF6FVFgJ/GyRSRSIT19XWqicRN4ctlDGMVWU6i6zrZbJbJyUlqtVr3jv4jaEOfFVIwSCru7iBFUTDNFisrKxSLRQBahgbAlrpKNpvl4OCAyvExmqbRMjTCcsoFuwvaloLD5Ba+9QzZhX0+f0lRqeYIXFeJx1MuCMDbNzIA9Xqdk6Ojnr0D81Q0n4prQqumgWkC+IHhntO0v1KpFggALWqEedXzNZvNXnu3jC0AF+Re6gBfJ20CQK96D0iAS4zObhjTUAGIygphOQOPmN4+gGRcvWvb9oib7/slA4K81sCXPhf0rPULJ0cNZqNwXkMAAAAASUVORK5CYII=",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "100",
+          "label": "Golf",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "1b9deca65e36469f7fce89f13a7b74a2",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAeBJREFUOI1jYaAyYIExzp2/t+DDp292DAwMjKQawszE9Jefj3OWgb5iF9zA67dexEX3nSXZMBjY3+2UycDAgDDwz9+/KIaVeUozFGc6MXBxszNs23WRIbzzNF4D//79x8zAgORldJCVaM0gJsbPwMDAwBDib8YQvPkGw9prnwm6FKeBnBzscDYTEyMDLxcrQcPwGrh5xwWGuEhrBlZWFoaTp28zLDjzjnwDhdgYGeTlhBj+/v3HMGP+Hoa8eTdQ5NmZGRmE2BgZnn//R5yBK5vsGFwcdBkYGBgY3r77jiK3rdmGQVCAm+Hu/dcMMX3niDPQUE8BmzDDyjJTBk9XAwYGBgYGTXVpBqtlVxmOvfhJ2EAuTjYMsZYQRYZgf1M4n5+Pi2FCnRODWdZ2wgaig1hjQYaCLGcGZmYmFPHrN59jqCXKwDcffjE8f/GeQUVJEi62Z/9lhviJF0g30MxIhkFCjJth36GbDJwcbAzSUsIM1248ZnCtPIhVPUEDvdwMMcQePX6LUz1RXoaBL1++Mxw4fJ2hYfoZwgYyIhUNDV3bGFhZmDAUP3r2hWHx2fd4LYUbqCAnfGlBnr42w3/c5aGqghCDs5UchjgTM+N/fj7OgygG2llr6eO1mkhAUhgSAwBxanri//p8XQAAAABJRU5ErkJggg==",
+            "contentType": "image/png",
+            "width": 15,
+            "height": 15,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "900",
+          "label": "Library",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "e9daa07656a71a021b26af053ba0db67",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAipJREFUSInt1TFsElEcx/HvJU2gU09c6mDKJe3QThSnokvD5LUdWkyHsvWc7HpsdtK4wMp2xKnGNFwdLHVSJ2ECNlguQWJiJwlsdHoOBwfHVe7A2Mn/di9/fh/+773cLXBHtfAfGpQApH8OdbtdZFmeCZsHEtVqdeYfBYEEQCwWo16vA5DP5xFCAAhJcoaaOp0fJLqtFkvRqGtxCAJD0Bf1nSinKAAcFApsHh8DYBiGp693P0o3soLcad+a4wup5RpXiTgXmsaFprGeSnFULDrhQSvQZVDLNQCuEnGapukBln59Hz1Itx/VnyCRzWbRdZ1KxT6Pwtc62gAMFQzCRn6UnbchcRKdzPGF6GUyoOtsbW261hO6gfiWd4Bp4YEgtVzjdLANrxoNNnb3aVx+QNt5FCg4MDTEAHpPntrnUKmjbbsnHG7bPJCYXBg/7PGtm6XGoY/Z4urueGA599w3QJxEXVNFVkJ02jee9+A4tJd5ZomUFmH7IOIgtda160K8PHrswVJKmKK6DMCLNw/p9+3/kNOsS2BvEgKQzEIHs9ARZ58PURbPiSsPXA1qfN01DUBRXSZnrgGwGILXaYtpE7nAdNIS2bN9FOUeUOddxQ5SOHeaKs1TmtfvoQ+f3v7gS+nGA/hBAFIm3QbaolRbQw7biz85xKyMmrSk5fRPyQr0CpJ24pYolVcJyxAGCENyw7s9fwvZWMKC0dWf6TM+C+SAswLzQnPXnUG/AfWZurW4384UAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "200",
+          "label": "Medical",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "642f8aba8570ec72189b2e27a88e4172",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA9pJREFUSInNlj1MW1cUx3+WkvpeqwNZkJUOVMgLNFGCQJWCl9aPpbgZUsjAR5da6uAy2UaKYtqhIlIlAkvpGyrhSESmAxCGyEQKsTecDm2BoSaDW+Kljhh4z1KUe1+W18Ef4cNAUrVR7/L07nnn/u7/3HPuO2d4S+PM/w10v/a8+l+A3GwiCsL3aka/cPULm7C5AOD5N0BudiLBF3cXWRn7ssp4qRrGiXCYyUzGfRNYM5CbTUSRUrAyPoaQkk++nTrwgRnuY2l4gMGF5deGHQFlohGk8CHekVybmgWg78IFJoY/w7L20JUKytoDx1uH/SNFLsDQ3UV+qoXsZ3MakGjbRiDRVACIPlrf73OqqmOTQQAPvhlHKwcBfHTzZgMOYPYFUcph5NkzHMd5M0WBtjZAkboeRr9U3Mv+zrDRiwIejI+jVQWtNP3fz+E4DrZtY895EUK4Ho+Hy1xmk82m6g6ALp09i3IcopkMqc+v0/9BO3qv0rBfm/2RUqmEUgohBF1dXfh8PoQQlMtlpJS0tLQ0DeUB0HKxyNCHlzD7gug9C3xehhYzDXupVMK2bQAqlQr1CvP7/fj9fgBc18Xj8RyBNT0jpeoxV5jhPqKZR5RKJcrlMgBCCIQQrG9sHPDTWgMQjUYxTfMA7DDIM7Kw7KaHB0A5KAXgMB3sIfzkCYZhkE6nAS9eLw2o1ppqPlQ3mH/4kFAoRC6XO16RU92Fe2P9F74L9gCQe/oHNy5epLW1tabYBmTDpx5OAN0sRM1AAIMLyx6v1+vW3838JoFAAICxsTFmZ2fRVEsgHo+z/es2sYkY3d3dCCFYWVsjEolA9TK+eiwIcFcfdwNlnv4JLLwyTE1VryN/Swujo6NsbW3R+m4rpmmSTCZpb2/HUop4PHly6AA3+1sv50TtrR3mlnqJDOaZn5/H1hqtQakdrFpy1EdnZyc7Ozu19D8ldNFEGxIQEqSALv86OYKks6FqcigLpAQE91ZX6enpafgWCgUsrXFshd9/Dvb9v46Auj9+DyGSdLzfz+PtTylbwcYBW9ZfICVagxCKQqHA2toaCkApNjYKaF3NPMMwTlYkhKBsT2Nt3KotDgOhdW6nujgvHH6YmSEWiwESKWWjthTg95/n63iC3ee7cFrBjhg50tkQXgQDVzKklg1SOYPxyCYwQiAQYHJyEp/PRyyWrCGq4455h93nuxSLxcPLNk0Gz4iRc5eyCVKrYZCCiJFr7LC2iBsIBJiZuUUk8hVCQEdHB5lc5oiSk0AAnkHjNuyrg8P2YrFIsVi8n8/n63MnNi6ndUGndT2v3RW9tb7ub2uYkEsnxFXkAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "300",
+          "label": "Parks & Rec",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "de57510f8bd77c2217d7ec3def1e7294",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAlFJREFUSInlljFs2lAQhr8nRQVPjdSlbFSCAaaQqSJb2YIiVQ0TVie2lDFMpeqQbk23hg02OqVtpDSZClvcpYmY0sWKOwXUwTaTyfQ62BjTYAI0zdI32e/u3Xf/3cnPS9zRWvqvQBIQ/xwkpUQIIZ0neZT2ESus0KGzMDgU1O/3AYi2vmA/iLNsdhZlTAdZlgWAEL6IoBoJruopPvOBvMPSjSsn+gb2pQe9BgwFdbvW2PtmsRjmSqPxIdR2I8i2e9f2CqoKwHouP/FMarMIJXU+UKB0ACxXa24Cb7b8vYepFOlMBgDnKizSDaBeb1xRvbgOtWMo19hJ30eJQNSzxRRB15EMpsBCQaZpAmAYhozH44jjHlgO5GNgS6IeYLhiisBwJg9LGEhKKSkUVMamrLEDzyrQNFAiY84MAEUIX+HMisTeT1gt++/f+sB3DR47UElDIPO1tRya1ma7WmUwB8iN0LsA00Koe2i1F67l+TvodwGv8Z4qTWtzdm4QexSfGXT4/iiBA1Q+9cC+BKs/sna94Sg13YBe44d9GXgJbNcT7Jb0oWS/iUHQRjmvA8h66zWlV0/h1+XIao+eg5kHx/rz1wzRKFSbCX6cmHysmYfAxp+g4RKlnC6b2gE4YJwmGQD1LVx4AKbZ7iBoJ0kcB+4BL1XdjxMMGjbeQs266va1xLAd7O8eeBV7i3Ga9IFKFLxqzP9RHQILWV22zhJ+uRTAukgSUeDKgVJuOmBWEIDIrbrqtHN3WHLpyeX5W5AfNJvWF77e5/05uf2r/LbXnYF+A8Hc5Pk9DK/hAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "700",
+          "label": "Police",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "b471cab2d10a23b2dde32e7f93250b11",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAs1JREFUSInN1jFIG1EYwPG/4PBCGjBkORr0IlaITiod0txkdSj1nIxD66ZONWMyutSAw51b41Rcik6hi2ZLs6UuRe1it3pvEI5CqiEVDxyuQ0xoTC4GtaXfcty9d9/vvve9466XfxS9/zWkquougJRy9sEhVVVdy7IA0DSNYDDI0NCQWywWex4MqiOmECQti1KpRCKRQFVV4vG4m8lkbsW6gtLpNKYQ+NL9RGMxkrZNznFwbJtoLNZNiu4gwzBIAs/HHhEf/MWnN1AMRbCp8nTyBUGC7pE86lhV1z066e/ndQbOzq7Y8CtNY6PaKGecuVJKT+xWaGxszD08PGR8eBiAcDhM5fQHweoVHycnG/Omp6cpFAqeWEdoZmbG3dvbwxSCQ8dhfHwcgO2hAXw+H6J1Pvl8vi3mCaVSKdcwDExRS1fHNE3r9GzMz89TKBTco6PmnrWFcrmcOzc3hykEml/hEji4sDGFoOQ4LC8vY9u2J6brOrquN237Fuj4+NgdGRlpIPWY8CsN7L3jUKlUWFpaagutra0BkMlk2ld0eXnpCiFqiKJAtTnBhF/BpoopBCnHIZfLkUgsNMaz2WztKEIYSqDp3iYoGo2StG2mFAUHeFa2KK6ucmAYDaiPAH3+wB/YduP+nVAI56Jtkc2QlLJnSn3iwlXjmm/zA4nMBpHUCqYQjF4v56hfqWHn5xTDUZzr+YtOmawIdYa84vu6QSS10nJ90K+wH44C8LJs8c00iUQipG+r6K6xGAALeKxpWKnU3SuqJ2oXfZMafClR2d8nr+uNHt18abuCtqreY8FYnK2vx5T0Vx1ztEBJrnjXjX4dJ+tG0/lbJdBSTVvos5Q9E9Q+dtrCAttlqytwMwCnDCA9PheeSyel7JFSsrOzg6qqLgBKbWtv3ljKxUC9J9LzQbrq0c2lmLk+qqq6K6Wc5eftOe61vf/KX9B94zfeKxR8O1GxagAAAABJRU5ErkJggg==",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "500",
+          "label": "School",
+          "description": ""
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "678ab4687821cc72a92a49ef9729c4f2",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA25JREFUSIndlT9MG3cUxz8nJdx5qOo7hghF8kGzQKnUFi+Qy5C0dLIXE1WChslUDLWQKiEGo5aBRHTAdIlAioU9Ja0lEO0QpwuKkKqSpQYjteCBgg8J4kbyz84Q3TnLdbD549guf1Rl6Jvud/fe7/Pe+31/7y7xluzS/x+ka5pjBqNw5T1wKchL39KR3iAttiWA1dVVp+XjHjaLsPTkCbEhn3QhkDm6DO8qoLpAhtJQhHTBQp+44ZhCSAN+Pz/u5MnZIPd8crGKdE1zuNWBuZtDcyt8pLh4alvlBMLLMNbFB/RwYEEq9YzksL/cASFOrar+GckKt1QXXW4Z+zmsYgMKuqY5j5Zv8mFnM9l8ntnb+cMIZzYS4bbxmm7/zHF3TiTQQAw2GxbYwGqlovIKUlt/MxUO8HI9UhUx+ClAExvL4aN37q6xxhWttOQY+maIv9JpktE/oWRDwYLX5e+utj7a2mDThgG/n7nRHoo7+zWp+kLXqtY1oOnpWWKxGABtyQJYoD34Ag8F5sIaA34/vv4gyUScmWiU4i/36jflDasCmUJIyUTcSSbiTN2/z1eb6wy+/zN8DQqXqwLHJqcZHR5mKuA5PwjA1x/EMLoZHxkmF5xkru1XrisuFBf8VrAoRW0Suzu8M/F55bA9zoVAAAcHu/B4HwpFdAU6VBlVASx4aoHQWhAVuZ/VakDJRBwAc9IHqoucW6FolwAZccJP/64Xs/I8/tMe19rbES9eUBCibjtrJ0NF+/rEDQfgqqed3/cyxwBgYzmM+8QdiS8skMvmyOayNDU1QebR6SBd05yVVIqbXi8bC6+4830L+3sZMo9flR2UEqU3YlRVJZcrYFmwtrZOn7uGU7+igPczxxRCklXZ0fUr/PEMFKUEStmnZB/734mlpbUQpwqirhgKCBYXF52lLTCMEoZh8MMWjI+MkE2JwyFR12z75dlAuqY5AIZhcPfuDIODfTx8uMTYWIiVVIpWr5erngdVMYHeXlSPh8LeXrlKISRi6cYgXdMcX3+QTGaL7s5OAGZnpxnw+4/U2BsIMD8/T2tz89HUNoWQTCH4N6sC+fqDJJMLmKZ5pKjW5mbncDOAWCyGLKtnuqQNQXNzkbr/lcuaBicybuR3ZlA9y+bzfBkKsb29fd69zweSJOnc2V8I9F/ZWwP9A1WiV4hb/dcWAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 19,
+            "height": 19,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "1200",
+          "label": "Utility",
+          "description": ""
+        }
+      ],
+      "fieldDelimiter": ","
+    },
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 498304.0560999997,
+    "ymin": 5449833.555299999,
+    "xmax": 507631.2145999996,
+    "ymax": 5459593.0678,
+    "spatialReference": {
+      "wkid": 26910,
+      "latestWkid": 26910
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "DESCRIPTION",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "PLACETYPE",
+      "type": "esriFieldTypeInteger",
+      "alias": "PLACETYPE",
+      "domain": null
+    },
+    {
+      "name": "FCODE",
+      "type": "esriFieldTypeInteger",
+      "alias": "FCODE",
+      "domain": null
+    },
+    {
+      "name": "DESCRIPTION",
+      "type": "esriFieldTypeString",
+      "alias": "DESCRIPTION",
+      "length": 50,
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "SHAPE",
+    "type": "esriFieldTypeGeometry",
+    "alias": "SHAPE"
+  },
+  "indexes": [
+    {
+      "name": "FDO_OBJECTID",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "SHAPE_INDEX",
+      "fields": "SHAPE",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 2000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "supportedQueryFormats": "JSON, geoJSON",
+  "isDataVersioned": false,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsHavingClause": true,
+    "supportsCountDistinct": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": true,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true
+  },
+  "supportsDatumTransformation": true,
+  "supportsCoordinatesQuantization": true
+}

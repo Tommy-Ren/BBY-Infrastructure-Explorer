@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "retrieved_at_utc": "2026-08-03T22:09:29.409201+00:00",
+  "source": "City of Burnaby ArcGIS REST services",
+  "output_directory": "data/raw",
+  "layers": [
+    {
+      "name": "places_of_interest",
+      "source_url": "https://gis.burnaby.ca/arcgis/rest/services/OpenData/OpenData1/MapServer/1",
+      "source_count": 135,
+      "downloaded_count": 135,
+      "missing_geometry_count": 0,
+      "object_id_field": "OBJECTID",
+      "native_spatial_reference": 26910,
+      "output_spatial_reference": 4326,
+      "page_size": 2000,
+      "geojson_file": "places_of_interest.geojson",
+      "geojson_sha256": "1cf56e39f89d6c94179d80c746ed6c037080d56ab0b47f30635dd14131f0c0f3",
+      "metadata_file": "places_of_interest.metadata.json",
+      "metadata_sha256": "8313f4bae2c73b81cc65e41f49cb4e92a4a2b883b21cec5966deca8747e7a4f3"
+    },
+    {
+      "name": "traffic_calming",
+      "source_url": "https://gis.burnaby.ca/arcgis/rest/services/OpenData/OpenData5/MapServer/3",
+      "source_count": 1494,
+      "downloaded_count": 1494,
+      "missing_geometry_count": 0,
+      "object_id_field": "OBJECTID",
+      "native_spatial_reference": 26910,
+      "output_spatial_reference": 4326,
+      "page_size": 1000,
+      "geojson_file": "traffic_calming.geojson",
+      "geojson_sha256": "2b32754de1624379725b7059cfa7efa5d360cd8e8b7ea8f99caffe5007177521",
+      "metadata_file": "traffic_calming.metadata.json",
+      "metadata_sha256": "0ad9252c78b5128149452a66fe13c45f3c67600eafabcd3ed053f2a8e4ba1f12"
+    },
+    {
+      "name": "traffic_signals",
+      "source_url": "https://gis.burnaby.ca/arcgis/rest/services/OpenData/OpenData5/MapServer/1",
+      "source_count": 269,
+      "downloaded_count": 269,
+      "missing_geometry_count": 0,
+      "object_id_field": "OBJECTID",
+      "native_spatial_reference": 26910,
+      "output_spatial_reference": 4326,
+      "page_size": 1000,
+      "geojson_file": "traffic_signals.geojson",
+      "geojson_sha256": "a4397ac2b6311047eb3a3212a8b3fa5f0518f249abcfc86695a8355ca5c1aacb",
+      "metadata_file": "traffic_signals.metadata.json",
+      "metadata_sha256": "f4c2ef7ddbc88cdbe02b7e8cdb385815c77edee3947b81a0cb04fe4dc6e8bd99"
+    },
+    {
+      "name": "intersections",
+      "source_url": "https://gis.burnaby.ca/arcgis/rest/services/OpenData/OpenData5/MapServer/5",
+      "source_count": 3229,
+      "downloaded_count": 3229,
+      "missing_geometry_count": 0,
+      "object_id_field": "OBJECTID",
+      "native_spatial_reference": 26910,
+      "output_spatial_reference": 4326,
+      "page_size": 1000,
+      "geojson_file": "intersections.geojson",
+      "geojson_sha256": "56f0a3d8b407085576ab3f5100bc296d450446a4b6b7e35dd42082018cd5f08f",
+      "metadata_file": "intersections.metadata.json",
+      "metadata_sha256": "d22ec690a98c47be50eccb9e5fd1f3a358cc41ab00a556e963ad5eff55126842"
+    }
+  ]
+}

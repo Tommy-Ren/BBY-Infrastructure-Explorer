@@ -1,0 +1,107 @@
+{
+  "output_crs": "EPSG:26910",
+  "cleaning_decisions": [
+    "Schools were selected where PLACETYPE equals 500.",
+    "All non-school Places of Interest were kept as the comparison group.",
+    "Traffic-signal dates before 1900 were treated as placeholders."
+  ],
+  "datasets": {
+    "schools": {
+      "source_records": 64,
+      "processed_records": 64,
+      "source_geometry_issues": {
+        "missing": 0,
+        "empty": 0,
+        "invalid": 0
+      },
+      "processed_missing_ids": 0,
+      "processed_duplicate_ids": 0,
+      "processed_missing_values": {
+        "school_id": 0,
+        "school_name": 0
+      },
+      "output_crs": "EPSG:26910",
+      "source_layer_records": 135
+    },
+    "comparison_places": {
+      "source_records": 71,
+      "processed_records": 71,
+      "source_geometry_issues": {
+        "missing": 0,
+        "empty": 0,
+        "invalid": 0
+      },
+      "processed_missing_ids": 0,
+      "processed_duplicate_ids": 0,
+      "processed_missing_values": {
+        "place_id": 0,
+        "place_name": 0,
+        "place_type_code": 0,
+        "place_type": 0
+      },
+      "output_crs": "EPSG:26910"
+    },
+    "traffic_calming": {
+      "source_records": 1494,
+      "processed_records": 1494,
+      "source_geometry_issues": {
+        "missing": 0,
+        "empty": 0,
+        "invalid": 0
+      },
+      "processed_missing_ids": 0,
+      "processed_duplicate_ids": 0,
+      "processed_missing_values": {
+        "calming_id": 0,
+        "calming_type_code": 2,
+        "calming_type": 0,
+        "installation_date": 320,
+        "location": 307,
+        "service_status": 308
+      },
+      "output_crs": "EPSG:26910",
+      "undocumented_type_records": 187
+    },
+    "traffic_signals": {
+      "source_records": 269,
+      "processed_records": 269,
+      "source_geometry_issues": {
+        "missing": 0,
+        "empty": 0,
+        "invalid": 0
+      },
+      "processed_missing_ids": 0,
+      "processed_duplicate_ids": 0,
+      "processed_missing_values": {
+        "signal_id": 0,
+        "unit_id": 0,
+        "control_code": 32,
+        "installation_date": 1,
+        "service_status": 0
+      },
+      "output_crs": "EPSG:26910",
+      "placeholder_dates_replaced": 1
+    },
+    "intersections": {
+      "source_records": 3229,
+      "processed_records": 3229,
+      "source_geometry_issues": {
+        "missing": 0,
+        "empty": 0,
+        "invalid": 0
+      },
+      "processed_missing_ids": 0,
+      "processed_duplicate_ids": 0,
+      "processed_missing_values": {
+        "intersection_id": 0,
+        "intersection_type_code": 0,
+        "control_code": 2981,
+        "signal_key": 109,
+        "status": 0,
+        "street_name_1": 4,
+        "street_name_2": 5
+      },
+      "output_crs": "EPSG:26910"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+distance_m,school_coverage_percent,comparison_coverage_percent,school_minus_comparison_pp,test,alternative,statistic_name,statistic,p_value,holm_adjusted_p_value
+100,54.7,22.5,32.2,Chi-square,two-sided,chi_square,13.466661064733994,0.00024284007768782847,0.0007285202330634855
+250,87.5,67.6,19.9,Chi-square,two-sided,chi_square,6.448108005293703,0.011107056138404328,0.022214112276808657
+500,98.4,91.5,6.9,Fisher's exact,two-sided,odds_ratio,5.815384615384615,0.1187604557572716,0.1187604557572716

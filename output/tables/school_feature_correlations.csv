@@ -1,0 +1,7 @@
+feature,nearest_calming_distance_m,nearest_signal_distance_m,nearest_intersection_distance_m,calming_count_100m,calming_count_250m,calming_count_500m
+nearest_calming_distance_m,1.000000,0.148529,0.299412,-0.568016,-0.561341,-0.441416
+nearest_signal_distance_m,0.148529,1.000000,-0.107351,0.053532,-0.023012,-0.045144
+nearest_intersection_distance_m,0.299412,-0.107351,1.000000,-0.192794,-0.111627,0.002205
+calming_count_100m,-0.568016,0.053532,-0.192794,1.000000,0.588424,0.474313
+calming_count_250m,-0.561341,-0.023012,-0.111627,0.588424,1.000000,0.848796
+calming_count_500m,-0.441416,-0.045144,0.002205,0.474313,0.848796,1.000000

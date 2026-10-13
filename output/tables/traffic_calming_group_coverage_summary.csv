@@ -1,0 +1,4 @@
+distance_m,school_total,school_with_feature,school_without_feature,school_coverage_percent,comparison_total,comparison_with_feature,comparison_without_feature,comparison_coverage_percent
+100,64,35,29,54.7,71,16,55,22.5
+250,64,56,8,87.5,71,48,23,67.6
+500,64,63,1,98.4,71,65,6,91.5
