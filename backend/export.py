@@ -98,7 +98,7 @@ def read_table(root, name, schools):
     return table.set_index("school_id")
 
 
-def build_dataset(root=ROOT):
+def build_dataset(root=ROOT, *, refresh_interval_hours=None):
     manifest = json.loads((root / "data/raw/manifest.json").read_text(encoding="utf-8"))
     # Verify the acquisition manifest before trusting the report provenance.
     for layer in manifest["layers"]:
@@ -231,6 +231,11 @@ def build_dataset(root=ROOT):
         "schema_version": 1,
         "dataset_version": "pending",
         "retrieved_at_utc": manifest["retrieved_at_utc"],
+        "refresh_interval_hours": refresh_interval_hours,
+        "source_fingerprint": digest(canonical({
+            layer["name"]: {kind: layer[f"{kind}_sha256"] for kind in ("geojson", "metadata")}
+            for layer in manifest["layers"]
+        })),
         "radii_m": list(RADII),
         "school_count": len(exported),
         "feature_count": len(calming),
@@ -262,8 +267,8 @@ def build_dataset(root=ROOT):
     return Dataset.model_validate(data)
 
 
-def write_export(output=DEFAULT_OUTPUT, root=ROOT):
-    data = build_dataset(root)
+def write_export(output=DEFAULT_OUTPUT, root=ROOT, *, refresh_interval_hours=None):
+    data = build_dataset(root, refresh_interval_hours=refresh_interval_hours)
     payload = canonical(data.model_dump())
     output.mkdir(parents=True, exist_ok=True)
     (output / "dataset.json").write_bytes(payload)
@@ -289,4 +294,7 @@ def write_export(output=DEFAULT_OUTPUT, root=ROOT):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
-    write_export(parser.parse_args().output)
+    args = parser.parse_args()
+    if args.output.resolve() == DEFAULT_OUTPUT.resolve():
+        parser.error("The default data directory is now maintained by backend.refresh. Use --output tmp/report-export for the historical report export.")
+    write_export(args.output)

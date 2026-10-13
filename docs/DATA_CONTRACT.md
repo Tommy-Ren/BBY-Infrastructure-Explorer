@@ -2,7 +2,9 @@
 
 ## Provenance
 
-The application uses the committed snapshot retrieved at **2026-08-03T22:09:29.409201+00:00**, without a new municipal download. The authoritative acquisition manifest is `data/raw/manifest.json`, including SHA-256 hashes of each raw GeoJSON and metadata file.
+The application uses the latest validated official download in `backend/data`. `metadata.retrieved_at_utc` records when acquisition finished, not when the City last edited its records. `refresh_interval_hours` records the scheduled six-hour check cadence; `source_fingerprint` hashes the acquired layer contents and metadata independently of retrieval time. The UI warns when the last successful download is over 24 hours old. See [refresh operations](DATA_REFRESH.md).
+
+The original report snapshot, retrieved at **2026-08-03T22:09:29.409201+00:00**, remains unchanged in `data/raw`, `data/processed`, and `output`. The table below describes that historical regression fixture, not the current application's counts. For live counts, use `/api/v1/datasets/current`.
 
 | Layer | Records | Source |
 | --- | ---: | --- |
@@ -38,7 +40,7 @@ The registry's `expected_school_count` is the app snapshot expectation. A mismat
 
 ## Export and integrity
 
-`python -m backend.export` writes `backend/data/dataset.json` and a sidecar `manifest.json`. The JSON contains `metadata`, `schools`, and `features` (calming only). Nearest signal/intersection records are embedded in school details. The manifest records schema version, dataset version, byte count, school/feature counts, and the SHA-256 hash of the complete dataset file. API startup verifies its hash before accepting the dataset.
+`python -m backend.refresh` downloads all official layers, runs cleaning and analysis in staging, validates the export, and then replaces `backend/data/dataset.json` and its sidecar `manifest.json`. `python -m backend.export --output tmp/report-export` separately reproduces the historical report. The JSON contains `metadata`, `schools`, and `features` (calming only). Nearest signal/intersection records are embedded in school details. The manifest records schema version, dataset version, byte count, school/feature counts, and the SHA-256 hash of the complete dataset file. API startup verifies its hash before accepting the dataset.
 
 The version is the retrieval date plus 12 characters of a SHA-256 hash over canonical exported content with version placeholders. Canonical JSON sorts keys, uses compact UTF-8 serialization, and forbids non-finite values. Input checksums cover the source manifest, registry, cleaned layers, quality summary, and joined CSVs. Source text is normalized to LF for provenance hashes across Git checkouts; the application dataset checksum covers exact bytes. `.gitattributes` preserves LF for dataset files. No wall-clock generation time enters the hash.
 

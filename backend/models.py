@@ -69,6 +69,8 @@ class DatasetMetadata(Contract):
     schema_version: Literal[1] = 1
     dataset_version: str
     retrieved_at_utc: str
+    refresh_interval_hours: int | None = None
+    source_fingerprint: str | None = None
     coordinate_crs: Literal["EPSG:4326"] = "EPSG:4326"
     measurement_crs: Literal["EPSG:26910"] = "EPSG:26910"
     distance_unit: Literal["m"] = "m"

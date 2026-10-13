@@ -7,13 +7,15 @@ Prerequisites: Python 3.11 and Node.js 22.12 or newer within the 22.x release li
 ```powershell
 python -m venv .venv
 .venv\Scripts\python.exe -m pip install -r requirements-dev.lock
-.venv\Scripts\python.exe -m backend.export
+.venv\Scripts\python.exe -m backend.export --output tmp/report-export
 .venv\Scripts\python.exe -m pytest -q
 npm --prefix frontend ci
 npm --prefix frontend run build
 ```
 
-On macOS/Linux, replace `.venv\Scripts\python.exe` with `.venv/bin/python`. The export reads committed processed layers and CSVs. Reproducing the entire report pipeline remains optional and is documented in the original README section below.
+On macOS/Linux, replace `.venv\Scripts\python.exe` with `.venv/bin/python`. This export verifies the historical report inputs without overwriting current application data. Reproducing the entire report pipeline remains optional and is documented in the original README section below.
+
+To download official data and update the application export, run `.venv\Scripts\python.exe -m backend.refresh --archive tmp/refresh-audit`. See [refresh operations](DATA_REFRESH.md) for validation, deployment, and recovery. Do not overwrite the historical `data/raw`, `data/processed`, or `output` directories.
 
 Start the API:
 

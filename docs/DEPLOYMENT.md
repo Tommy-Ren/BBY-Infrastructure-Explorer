@@ -10,11 +10,11 @@ The public homepage, API, OpenAPI docs, school selection, radius changes, map se
 
 The user selected Vercel for Sprint 2. The root `vercel.json` defines a Vite frontend and a FastAPI backend using [Vercel Services](https://vercel.com/docs/services). Both share one public origin: `/api/*`, `/health`, `/docs`, `/redoc`, and `/openapi.json` route to FastAPI; remaining requests route to Vite. This avoids per-preview CORS wildcards. The config uses the current `services` key, not the older `experimentalServices` model.
 
-Services is currently beta and available across plans. Confirm the account's applicable [pricing and limits](https://vercel.com/docs/services/pricing) before a durable deployment; these can change. This project has no database, accounts, secrets, or background refresh jobs.
+Services is currently beta and available across plans. Confirm the account's applicable [pricing and limits](https://vercel.com/docs/services/pricing) before a durable deployment; these can change. This project has no database or application accounts. Scheduled acquisition runs in GitHub Actions; its deploy-hook credential is stored in repository secrets.
 
 ## Deploy from the repository root
 
-1. Follow `docs/DEVELOPMENT.md` and pass the local checks. Commit the generated `backend/data/` export alongside its code and tests.
+1. Follow `docs/DEVELOPMENT.md` and pass the local checks. `backend/data/` is the latest validated application export; use `python -m backend.refresh` to update it, not the historical report exporter.
 2. Run `npx vercel login` in your terminal if not already authenticated. Keep credentials in Vercel's login flow, never in source files.
 3. Run `npx vercel deploy`. Use the repository root as the project root so both services and the root routing configuration are included. Do not select only `frontend/` as the root.
 4. Leave `VITE_API_BASE_URL` unset/empty. Same-origin routing works for every preview URL. `CORS_ORIGINS` is only needed for explicitly separate origins.
@@ -22,6 +22,8 @@ Services is currently beta and available across plans. Confirm the account's app
 6. Test from a signed-out browser. If Vercel deployment protection is enabled, configure the preview's access deliberately before calling it a public portfolio demo.
 
 The API's `app:app` entrypoint runs with `backend/` as its service root. It verifies and loads the committed export during startup. There is no geospatial computation or source download during the serverless request path. Python 3.12 is specified in `backend/.python-version`; Vercel's build image does not provide Python 3.11. The offline report/export workflow remains tested on Python 3.11. The API needs no geospatial libraries and serves the same validated JSON on both versions.
+
+Official data is refreshed by GitHub Actions every six hours and deployed through a project-scoped hook. See [refresh operations](DATA_REFRESH.md) for the encrypted secret, validation gates, freshness display, and recovery procedure.
 
 For an optional local container run from the repository root:
 

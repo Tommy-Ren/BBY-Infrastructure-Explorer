@@ -77,6 +77,14 @@ def download_layer(session, name, layer_url, output_directory):
             f'{duplicate_object_ids} duplicated'
         )
 
+    # Recheck membership after pagination; additions/deletions during acquisition
+    # must not silently produce a mixed or incomplete layer.
+    final_ids = request_json(session, layer_url + '/query', {
+        'where': '1=1', 'returnIdsOnly': 'true', 'f': 'json',
+    }).get('objectIds')
+    if not isinstance(final_ids, list) or set(final_ids) != set(object_ids):
+        raise RuntimeError(f'{name} changed during download; retry the refresh')
+
     missing_geometry = sum(feature.get('geometry') is None for feature in features)
     feature_collection = {
         'type': 'FeatureCollection',

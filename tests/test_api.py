@@ -1,4 +1,5 @@
 import pytest
+from backend.app import DATA_DIRECTORY, load_dataset
 
 
 def test_health_metadata_and_openapi(client):
@@ -6,7 +7,7 @@ def test_health_metadata_and_openapi(client):
     metadata = client.get("/api/v1/datasets/current").json()
     assert metadata["school_count"] == 64
     assert metadata["coordinate_crs"] == "EPSG:4326"
-    assert metadata["retrieved_at_utc"].startswith("2026-08-03")
+    assert metadata["retrieved_at_utc"] == load_dataset(DATA_DIRECTORY).metadata.retrieved_at_utc
     assert "/api/v1/schools/{school_id}" in client.get("/openapi.json").json()["paths"]
 
 
@@ -17,13 +18,8 @@ def test_search_pagination_and_detail(client):
     assert page["total"] == 1
     school = client.get("/api/v1/schools/" + page["items"][0]["id"]).json()
     assert school["name"] == "Alpha Secondary"
-    assert school["source_id"] == 69
-    assert school["counts"] == {
-        "radius_100_m": 1,
-        "radius_250_m": 24,
-        "radius_500_m": 93,
-    }
-    assert school["nearest_calming"]["distance_m"] == 95.125
+    expected = next(s for s in load_dataset(DATA_DIRECTORY).schools if s.name == "Alpha Secondary")
+    assert school == expected.model_dump()
     assert client.get("/api/v1/schools?search=nonexistent").json()["items"] == []
     assert client.get("/api/v1/schools?offset=64").json()["items"] == []
     assert client.get("/api/v1/schools/not-a-school").status_code == 404

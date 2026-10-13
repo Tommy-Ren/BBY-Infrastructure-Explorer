@@ -126,9 +126,13 @@ export default function App() {
         day: "numeric",
         month: "short",
         year: "numeric",
+        hour: "2-digit",
+        minute: "2-digit",
         timeZone: "UTC",
       }).format(new Date(metadata.retrieved_at_utc))
     : "";
+  const refreshDelayed = metadata?.refresh_interval_hours != null &&
+    Date.now() - Date.parse(metadata.retrieved_at_utc) > 24 * 60 * 60 * 1000;
 
   return (
     <>
@@ -162,10 +166,14 @@ export default function App() {
           </div>
           <div className="snapshot-label">
             <span className="live-dot" />
-            PUBLIC DATA SNAPSHOT
-            <strong>{sourceDate || "Loading source date…"}</strong>
+            LAST SYNCED FROM CITY DATA
+            <strong>{sourceDate ? `${sourceDate} UTC` : "Loading source date…"}</strong>
+            {metadata?.refresh_interval_hours && <span>Checks every {metadata.refresh_interval_hours} hours</span>}
           </div>
         </section>
+        {refreshDelayed && <p className="freshness-warning" role="status">
+          Data refresh is delayed. Showing the last validated download; check the official sources below for newer records.
+        </p>}
         <p className="context-note">
           <span aria-hidden="true">ⓘ</span> A radius measures straight-line
           distance from a school point. Recorded coverage is not a measure of
@@ -368,7 +376,9 @@ export default function App() {
           <div>
             <h3>Source &amp; snapshot</h3>
             <p>
-              City of Burnaby open data, retrieved {sourceDate || "…"}. School
+              City of Burnaby open data, last downloaded {sourceDate || "…"} UTC.
+              We check every {metadata?.refresh_interval_hours ?? 6} hours and publish after validation.
+              This is our download time; the City may update its records on a different schedule. School
               locations are points in the Places of Interest layer, not school
               entrances or property boundaries.
             </p>

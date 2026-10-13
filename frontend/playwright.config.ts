@@ -4,11 +4,15 @@ import path from "node:path";
 export default defineConfig({
   testDir: "./e2e",
   fullyParallel: true,
-  workers: 2,
+  workers: process.env.CI ? 1 : 2,
+  timeout: 60000,
   retries: process.env.CI ? 1 : 0,
   use: {
     baseURL: process.env.EXPLORER_BASE_URL || "http://127.0.0.1:5173",
     trace: "retain-on-failure",
+    launchOptions: {
+      args: ["--use-gl=angle", "--use-angle=swiftshader", "--enable-unsafe-swiftshader"],
+    },
   },
   projects: [
     { name: "desktop", use: { ...devices["Desktop Chrome"] } },

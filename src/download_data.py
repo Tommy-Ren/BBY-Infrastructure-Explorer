@@ -7,6 +7,8 @@ import pathlib
 import sys
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from download_arcgis import download_layer
 from download_config import (
@@ -32,6 +34,10 @@ def main():
     output_directory.mkdir(parents=True, exist_ok=True)
 
     session = requests.Session()
+    session.mount('https://', HTTPAdapter(max_retries=Retry(
+        total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=['GET'],
+    )))
     session.headers.update({
         'Accept': 'application/json',
         'User-Agent': 'CMPT-353-Project/1.0 (academic data acquisition)',

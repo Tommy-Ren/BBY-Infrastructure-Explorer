@@ -2,13 +2,14 @@ name: Data contract and application
 on: [push, pull_request]
 jobs:
   verify:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: '22'
           cache: npm
@@ -16,8 +17,8 @@ jobs:
       - run: python -m venv .venv
       - run: .venv/bin/python -m pip install -r requirements-dev.lock
       - run: .venv/bin/python -m pytest -q
-      - run: .venv/bin/python -m backend.export
-      - run: git diff --exit-code -- backend/data
+      - run: .venv/bin/python -m backend.export --output tmp/report-export
+      - run: git diff --exit-code -- data/raw data/processed output backend/data
       - run: npm ci
         working-directory: frontend
       - run: npm run build
@@ -26,7 +27,7 @@ jobs:
         working-directory: frontend
       - run: npm run test:e2e
         working-directory: frontend
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         if: failure()
         with:
           name: browser-test-results

@@ -28,6 +28,8 @@ export type School = SchoolSummary & {
 export type Metadata = {
   dataset_version: string;
   retrieved_at_utc: string;
+  refresh_interval_hours: number | null;
+  source_fingerprint: string | null;
   school_count: number;
   feature_count: number;
   coverage_rule: string;

@@ -136,6 +136,14 @@ h1 {
   font-size: 14px;
   margin: 0;
 }
+.freshness-warning {
+  padding: 14px 20px;
+  border: 1px solid #ba8130;
+  border-radius: 8px;
+  background: #fff5df;
+  color: #66440f;
+}
+
 .snapshot-label {
   font-size: 9px;
   letter-spacing: 1.4px;
@@ -149,6 +157,12 @@ h1 {
   margin: 10px 0 0 15px;
   color: var(--green);
   font-weight: 500;
+}
+.snapshot-label > span:last-child:not(.live-dot) {
+  display: block;
+  margin: 6px 0 0 15px;
+  letter-spacing: 0;
+  font-size: 11px;
 }
 .live-dot {
   display: inline-block;
@@ -656,7 +670,11 @@ input[type="search"] {
     grid-column: 1/-1;
   }
   .snapshot-label {
-    display: none;
+    margin-top: 18px;
+  }
+  .intro {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 @media (max-width: 560px) {

@@ -2,12 +2,14 @@
 
 ## Infrastructure Explorer application
 
-**[Open the live preview](https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app)** ·
-[API documentation](https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app/docs)
+**[Open the live app](https://bby-infrastructure-explorer.vercel.app)** ·
+[API documentation](https://bby-infrastructure-explorer.vercel.app/docs)
+
+The app checks official Burnaby data every six hours and publishes validated updates automatically. The header shows the last successful sync; a warning appears after 24 hours without one. [Refresh and recovery details](docs/DATA_REFRESH.md). The August research dataset below remains preserved for reproducibility.
 
 The repository now includes a React/TypeScript map and a read-only FastAPI API
-for the committed 3 August 2026 snapshot: **64 schools and 1,494 recorded
-traffic-calming features**. Search, select a school, switch 100/250/500 m radii,
+for regularly refreshed official data. The first 13 October 2026 refresh includes
+**64 schools and 1,500 recorded traffic-calming features**. Search, select a school, switch 100/250/500 m radii,
 inspect nearest distances and sources, and share the selected-school URL.
 Recorded coverage is straight-line proximity, not a measure of school safety.
 

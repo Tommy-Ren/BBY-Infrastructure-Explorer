@@ -6,6 +6,8 @@
 
 **Implementation update, 13 October 2026:** Sprint 1–2 functionality is implemented and verified locally and on Vercel production, with Web Analytics enabled. See [Sprint 1–2 review](SPRINT_REVIEW_1_2.md) for shipped work, evidence, and follow-ups. The code is pushed to GitHub and hosted CI passed for implementation commit `17fc041`; the earlier repository-inspection notes below describe the planning baseline.
 
+**Refresh follow-up, 13 October 2026:** At the user's request, staged official-data acquisition, six-hour scheduled validation/deployment, and freshness display were brought forward from Sprint 4. The historical report snapshot remains unchanged. See [refresh operations](DATA_REFRESH.md); other Sprint 4 work remains planned. The later documentation-commit browser run failed on timeouts, so CI now isolates third-party network requests and uses one browser worker.
+
 ## Product goal
 
 Turn the reproducible analysis into a public, usable application for exploring the *recorded presence* of traffic-calming infrastructure around Burnaby schools. A visitor should be able to find a school, see nearby infrastructure on a map, understand the 100 m / 250 m / 500 m coverage measures, and compare schools without reading a PDF or running Python. A planning-oriented user should be able to download the displayed data and see when it was retrieved and how the measures were calculated.
