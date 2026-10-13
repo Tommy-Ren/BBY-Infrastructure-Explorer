@@ -10,7 +10,7 @@ The public homepage, API, OpenAPI docs, school selection, radius changes, map se
 
 The user selected Vercel for Sprint 2. The root `vercel.json` defines a Vite frontend and a FastAPI backend using [Vercel Services](https://vercel.com/docs/services). Both share one public origin: `/api/*`, `/health`, `/docs`, `/redoc`, and `/openapi.json` route to FastAPI; remaining requests route to Vite. This avoids per-preview CORS wildcards. The config uses the current `services` key, not the older `experimentalServices` model.
 
-Services is currently beta and available across plans. Confirm the account's applicable [pricing and limits](https://vercel.com/docs/services/pricing) before a durable deployment; these can change. This project has no database or application accounts. Scheduled acquisition runs in GitHub Actions; its deploy-hook credential is stored in repository secrets.
+Services is currently beta and available across plans. Confirm the account's applicable [pricing and limits](https://vercel.com/docs/services/pricing) before a durable deployment; these can change. This project has no database or application accounts. Scheduled acquisition runs in GitHub Actions and deploys through the existing Git integration without additional repository secrets.
 
 ## Deploy from the repository root
 
@@ -23,7 +23,7 @@ Services is currently beta and available across plans. Confirm the account's app
 
 The API's `app:app` entrypoint runs with `backend/` as its service root. It verifies and loads the committed export during startup. There is no geospatial computation or source download during the serverless request path. Python 3.12 is specified in `backend/.python-version`; Vercel's build image does not provide Python 3.11. The offline report/export workflow remains tested on Python 3.11. The API needs no geospatial libraries and serves the same validated JSON on both versions.
 
-Official data is refreshed by GitHub Actions every six hours and deployed through a project-scoped hook. See [refresh operations](DATA_REFRESH.md) for the encrypted secret, validation gates, freshness display, and recovery procedure.
+Official data is refreshed by GitHub Actions every six hours and deployed through the Git integration. See [refresh operations](DATA_REFRESH.md) for validation gates, freshness display, and recovery procedure.
 
 For an optional local container run from the repository root:
 

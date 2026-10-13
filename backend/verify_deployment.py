@@ -1,7 +1,6 @@
-"""Trigger the data deploy hook and require the production API to serve this export."""
+"""Require the Git-triggered production deployment to serve this export."""
 
 import json
-import os
 from pathlib import Path
 import time
 
@@ -9,13 +8,6 @@ import requests
 
 
 def main():
-    hook = os.environ["VERCEL_DATA_DEPLOY_HOOK"]
-    # Do not include the secret URL in errors or log response bodies.
-    try:
-        response = requests.post(hook, timeout=30)
-        response.raise_for_status()
-    except requests.RequestException:
-        raise SystemExit("Vercel deploy hook failed; inspect the deployment dashboard") from None
     expected = json.loads((Path(__file__).parent / "data/manifest.json").read_text())["dataset_version"]
     deadline = time.monotonic() + 600
     while time.monotonic() < deadline:

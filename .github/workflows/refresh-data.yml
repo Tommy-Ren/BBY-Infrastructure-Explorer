@@ -30,10 +30,6 @@ jobs:
           node-version: '22'
           cache: npm
           cache-dependency-path: frontend/package-lock.json
-      - name: Verify deployment configuration
-        env:
-          DEPLOY_HOOK: ${{ secrets.VERCEL_DATA_DEPLOY_HOOK }}
-        run: test -n "$DEPLOY_HOOK"
       - run: python -m venv .venv
       - run: .venv/bin/python -m pip install -r requirements-dev.lock
       - name: Download, recompute, and validate in staging
@@ -60,9 +56,7 @@ jobs:
           git commit -m 'Refresh validated official Burnaby data'
           # A concurrent main update rejects the push; never overwrite it.
           git push origin HEAD:main
-      - name: Deploy and verify the published dataset
-        env:
-          VERCEL_DATA_DEPLOY_HOOK: ${{ secrets.VERCEL_DATA_DEPLOY_HOOK }}
+      - name: Verify the Git-triggered production deployment
         run: .venv/bin/python -m backend.verify_deployment
       - uses: actions/upload-artifact@v6
         if: failure()
