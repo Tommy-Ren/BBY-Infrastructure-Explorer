@@ -1,11 +1,11 @@
 # Sprint 1–2 implementation review
 
-Date: 13 October 2026. Status: both sprint implementations verified locally; public preview verified. GitHub-hosted CI is configured; its hosted result remains pending verification.
+Date: 13 October 2026. Status: both sprint implementations verified locally and deployed publicly; GitHub-hosted CI passed for implementation commit `17fc041`.
 
 ## Demonstration
 
-- [Public preview](https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app)
-- [Interactive API documentation](https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app/docs)
+- [Public application](https://bby-infrastructure-explorer.vercel.app)
+- [Interactive API documentation](https://bby-infrastructure-explorer.vercel.app/docs)
 - Dataset: `2026-08-03-45bbfd3c0bd3`, 64 schools and 1,494 calming records.
 - Alpha Secondary: 1 / 24 / 93 recorded features at 100 / 250 / 500 m; nearest calming feature 95.125 m (95.1 m displayed).
 
@@ -33,7 +33,8 @@ Deployed both services to Vercel under one origin. The first deployment exposed 
 | Deterministic regeneration | Regenerated the same dataset version and bytes |
 | Original cleaner with explicit expectation | 64 schools; wrote only to an ignored verification directory |
 | Visual review | Desktop and mobile screenshots inspected; map, radius, detail, attribution, and recovery layouts checked |
-| GitHub Actions | Workflow added; hosted result pending verification |
+| GitHub Actions | [Implementation run passed](https://github.com/Tommy-Ren/BBY-Infrastructure-Explorer/actions/runs/38367605415): Python tests, deterministic export, frontend build, browser suite |
+| Vercel Web Analytics | Enabled; production analytics script and one test page-view POST returned HTTP 200 |
 
 Browser checks found and fixed a mobile empty-state overlap, radio hit-target issue, MapLibre worker packaging problem, and lazy-loaded map CSS overriding the map container position. They include real API data, failed requests and retries, missing shared IDs, malformed radius, and unavailable map tiles. The frontend dependency audit reported no vulnerabilities during installation.
 
@@ -48,7 +49,7 @@ Followed https://vercel.com/get-started.md as requested. Installed Vercel CLI 63
 - Live data refresh, comparisons, CSV download, cluster explanations, and deeper accessibility/performance work remain in later sprints.
 - The lazy map bundle triggers Vite's size warning; it is separate from the initial app bundle. Optimize only with measured user impact.
 - A test-client dependency emits a deprecation warning for `httpx`; tests pass. Migrate when updating the test stack.
-- Verify the configured GitHub Actions run before declaring the repository-level CI gate complete.
+- Implementation commit `17fc041` was pushed to `main`; GitHub Actions passed and the Git integration deployed it to Vercel production.
 - This automated implementation session is not a measurement of solo-developer delivery velocity. Re-estimate future sprint effort after human review and a short user demonstration; the original 8–12 hours/week assumption remains unvalidated.
 
 ## Screenshots

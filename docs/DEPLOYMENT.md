@@ -1,6 +1,10 @@
-# Vercel preview deployment
+# Vercel deployment
 
-Verified preview: https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app
+Production: https://bby-infrastructure-explorer.vercel.app
+
+The GitHub integration deploys pushes to `main` to production. Implementation commit `17fc041` passed GitHub Actions and deployed successfully on 13 October 2026. The production homepage, API health, analytics script, and one test page-view POST were verified with HTTP 200 responses.
+
+Earlier verified preview: https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app
 
 The public homepage, API, OpenAPI docs, school selection, radius changes, map selection, and shared-link reload were verified against this deployment on desktop and mobile on 13 October 2026. This new demo project's Vercel Authentication setting is disabled so the link works without a Vercel account. No paid plan change was made.
 

@@ -4,7 +4,7 @@
 **Planning assumption:** one developer, six two-week sprints at roughly 8–12 hours per week. Re-estimate after Sprint 1.  
 **Starting point:** the completed CMPT 353 analysis and report; the course-era plan remains in `temp/sprint plan.md` for historical context.
 
-**Implementation update, 13 October 2026:** Sprint 1–2 functionality is implemented and verified locally and on a public Vercel preview. See [Sprint 1–2 review](SPRINT_REVIEW_1_2.md) for shipped work, evidence, and remaining checks. The repository is now confirmed connected to GitHub; the earlier repository-inspection notes below describe the planning baseline. The GitHub-hosted CI result remains pending verification.
+**Implementation update, 13 October 2026:** Sprint 1–2 functionality is implemented and verified locally and on Vercel production, with Web Analytics enabled. See [Sprint 1–2 review](SPRINT_REVIEW_1_2.md) for shipped work, evidence, and follow-ups. The code is pushed to GitHub and hosted CI passed for implementation commit `17fc041`; the earlier repository-inspection notes below describe the planning baseline.
 
 ## Product goal
 
