@@ -12,6 +12,7 @@ DEFAULT_INPUT_DIRECTORY = PROJECT_ROOT / 'data' / 'raw'
 DEFAULT_OUTPUT_DIRECTORY = PROJECT_ROOT / 'data' / 'processed'
 
 SCHOOL_PLACE_TYPE = 500
+# Report snapshot expectation, overridable after review via --expected-school-count.
 EXPECTED_SCHOOL_COUNT = 64
 OUTPUT_CRS = 'EPSG:26910'
 EARLIEST_SIGNAL_DATE = pd.Timestamp('1900-01-01', tz='UTC')

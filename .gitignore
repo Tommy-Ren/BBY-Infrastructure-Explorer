@@ -29,4 +29,12 @@ data/raw/.*.tmp
 
 # Local Test
 temp
+/tmp/
 *.ini
+
+# Web build, browser tests, and hosting metadata
+node_modules/
+dist/
+playwright-report/
+test-results/
+.vercel/

@@ -3,11 +3,12 @@ Clean the Burnaby spatial datasets used in the analysis.
 """
 
 import pathlib
-import sys
+import argparse
 
 from clean_config import (
     DEFAULT_INPUT_DIRECTORY,
     DEFAULT_OUTPUT_DIRECTORY,
+    EXPECTED_SCHOOL_COUNT,
 )
 from clean_layers import (
     clean_comparison_places,
@@ -27,21 +28,24 @@ from clean_readers import (
 
 
 def main():
-    if len(sys.argv) not in [1, 3]:
-        print('Usage:')
-        print(' python src/clean_data.py [input_directory output_directory]')
-        sys.exit(1)
-
-    if len(sys.argv) == 3:
-        input_directory = pathlib.Path(sys.argv[1])
-        output_directory = pathlib.Path(sys.argv[2])
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('directories', nargs='*', type=pathlib.Path)
+    parser.add_argument('--expected-school-count', type=int, default=EXPECTED_SCHOOL_COUNT,
+                        help='Reviewed snapshot expectation; default preserves the report snapshot')
+    args = parser.parse_args()
+    if len(args.directories) not in (0, 2):
+        parser.error('Pass both input_directory and output_directory, or neither')
+    if args.expected_school_count < 1:
+        parser.error('--expected-school-count must be positive')
+    if args.directories:
+        input_directory, output_directory = args.directories
     else:
         input_directory = DEFAULT_INPUT_DIRECTORY
         output_directory = DEFAULT_OUTPUT_DIRECTORY
 
     places = read_places(input_directory)
     place_type_labels = read_place_type_labels(input_directory)
-    schools = clean_schools(places)
+    schools = clean_schools(places, expected_school_count=args.expected_school_count)
     comparison_places = clean_comparison_places(places, place_type_labels)
     raw_traffic_calming, type_labels = read_traffic_calming(input_directory)
     traffic_calming = clean_traffic_calming(raw_traffic_calming, type_labels)

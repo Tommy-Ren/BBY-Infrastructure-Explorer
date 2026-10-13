@@ -4,6 +4,8 @@
 **Planning assumption:** one developer, six two-week sprints at roughly 8–12 hours per week. Re-estimate after Sprint 1.  
 **Starting point:** the completed CMPT 353 analysis and report; the course-era plan remains in `temp/sprint plan.md` for historical context.
 
+**Implementation update, 13 October 2026:** Sprint 1–2 functionality is implemented and verified locally and on a public Vercel preview. See [Sprint 1–2 review](SPRINT_REVIEW_1_2.md) for shipped work, evidence, and remaining checks. The repository is now confirmed connected to GitHub; the earlier repository-inspection notes below describe the planning baseline. The GitHub-hosted CI result remains pending verification.
+
 ## Product goal
 
 Turn the reproducible analysis into a public, usable application for exploring the *recorded presence* of traffic-calming infrastructure around Burnaby schools. A visitor should be able to find a school, see nearby infrastructure on a map, understand the 100 m / 250 m / 500 m coverage measures, and compare schools without reading a PDF or running Python. A planning-oriented user should be able to download the displayed data and see when it was retrieved and how the measures were calculated.

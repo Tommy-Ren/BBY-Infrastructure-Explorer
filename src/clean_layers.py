@@ -12,7 +12,7 @@ from clean_config import (
 )
 
 
-def clean_schools(places):
+def clean_schools(places, expected_school_count=EXPECTED_SCHOOL_COUNT):
     """
     Select schools, keep useful fields, and project coordinates into metres.
     """
@@ -23,9 +23,10 @@ def clean_schools(places):
     })
     schools = schools[['school_id', 'school_name', 'geometry']]
 
-    if len(schools) != EXPECTED_SCHOOL_COUNT:
+    if expected_school_count is not None and len(schools) != expected_school_count:
         raise RuntimeError(
-            f'Expected {EXPECTED_SCHOOL_COUNT} schools but found {len(schools)}.'
+            f'Expected {expected_school_count} schools but found {len(schools)}. '
+            'Review the snapshot change, then pass an explicit expected_school_count.'
         )
     if schools['school_id'].isna().any() or schools['school_id'].duplicated().any():
         raise RuntimeError('School IDs are missing or duplicated.')

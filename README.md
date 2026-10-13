@@ -1,5 +1,25 @@
 # Burnaby School Area Traffic-Calming Coverage
 
+## Infrastructure Explorer application
+
+**[Open the live preview](https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app)** ·
+[API documentation](https://bby-infrastructure-explorer-eg5c1zl6f.vercel.app/docs)
+
+The repository now includes a React/TypeScript map and a read-only FastAPI API
+for the committed 3 August 2026 snapshot: **64 schools and 1,494 recorded
+traffic-calming features**. Search, select a school, switch 100/250/500 m radii,
+inspect nearest distances and sources, and share the selected-school URL.
+Recorded coverage is straight-line proximity, not a measure of school safety.
+
+- [Local setup, checks, and demo](docs/DEVELOPMENT.md)
+- [Data contract and status/identity decisions](docs/DATA_CONTRACT.md)
+- [Product brief and desktop/mobile wireframes](docs/PRODUCT_BRIEF.md)
+- [Vercel deployment](docs/DEPLOYMENT.md)
+- [Sprint 1–2 review and outstanding release gates](docs/SPRINT_REVIEW_1_2.md)
+
+Application code lives in `backend/` and `frontend/`; automated checks live in
+`tests/` and `frontend/e2e/`. The original analysis below remains reproducible.
+
 This project provides a reproducible geospatial analysis of traffic-calming
 coverage around schools in Burnaby, BC.
 

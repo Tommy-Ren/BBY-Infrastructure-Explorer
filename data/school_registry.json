@@ -1,0 +1,519 @@
+{
+  "schema_version": 1,
+  "expected_school_count": 64,
+  "snapshot": "2026-08-03",
+  "schools": [
+    {
+      "id": "sch-cee029f8f3d159fb",
+      "names": [
+        "Alpha Secondary"
+      ],
+      "easting": 500094.8037568812,
+      "northing": 5458144.7304751435
+    },
+    {
+      "id": "sch-8b045bb1f1fe5294",
+      "names": [
+        "Armstrong Elementary"
+      ],
+      "easting": 506674.1138330091,
+      "northing": 5453455.628081383
+    },
+    {
+      "id": "sch-1131635f7c9c5ce6",
+      "names": [
+        "Aubrey Elementary"
+      ],
+      "easting": 501601.5546217539,
+      "northing": 5457986.667327175
+    },
+    {
+      "id": "sch-895995458d2657ac",
+      "names": [
+        "BC Institute of Technology"
+      ],
+      "easting": 499813.8676687178,
+      "northing": 5455363.052954708
+    },
+    {
+      "id": "sch-b4a8635897f65732",
+      "names": [
+        "Brantford Elementary"
+      ],
+      "easting": 502407.81220849365,
+      "northing": 5452424.4422489125
+    },
+    {
+      "id": "sch-0e25543d39f75bb1",
+      "names": [
+        "Brentwood Park Elementary"
+      ],
+      "easting": 500428.6359565953,
+      "northing": 5457567.410839562
+    },
+    {
+      "id": "sch-30cf65aea6155d64",
+      "names": [
+        "Buckingham Elementary"
+      ],
+      "easting": 503228.3992721198,
+      "northing": 5453379.067170808
+    },
+    {
+      "id": "sch-95f28ac6b6215ab4",
+      "names": [
+        "Burnaby Central Secondary"
+      ],
+      "easting": 501744.9322356524,
+      "northing": 5454555.961565238
+    },
+    {
+      "id": "sch-50502b2bf5905dd8",
+      "names": [
+        "Burnaby Montessori School "
+      ],
+      "easting": 501792.12535534153,
+      "northing": 5455203.876393837
+    },
+    {
+      "id": "sch-78f6dd3820da5946",
+      "names": [
+        "Burnaby Mountain Secondary"
+      ],
+      "easting": 506452.40318678564,
+      "northing": 5455833.561197233
+    },
+    {
+      "id": "sch-8efc17ba82f85cd7",
+      "names": [
+        "Burnaby North Secondary"
+      ],
+      "easting": 501914.4950461458,
+      "northing": 5458358.297835837
+    },
+    {
+      "id": "sch-2dba978e05195de6",
+      "names": [
+        "Burnaby South Secondary"
+      ],
+      "easting": 501043.4792215185,
+      "northing": 5451534.533244771
+    },
+    {
+      "id": "sch-af17243cbdf95752",
+      "names": [
+        "Byrne Creek Secondary"
+      ],
+      "easting": 503480.88860872935,
+      "northing": 5450605.330635765
+    },
+    {
+      "id": "sch-1f90f4b20b6b508f",
+      "names": [
+        "Cameron Elementary"
+      ],
+      "easting": 507295.76811646187,
+      "northing": 5455492.282558797
+    },
+    {
+      "id": "sch-62b249828b2b5817",
+      "names": [
+        "Canada Way Education Centre"
+      ],
+      "easting": 500889.86311741313,
+      "northing": 5455335.264524298
+    },
+    {
+      "id": "sch-076be8b1e48e5423",
+      "names": [
+        "Capitol Hill Elementary"
+      ],
+      "easting": 501421.23373233306,
+      "northing": 5458685.343564188
+    },
+    {
+      "id": "sch-2d88a53cc5665604",
+      "names": [
+        "Cariboo Hill Secondary"
+      ],
+      "easting": 506193.7655067397,
+      "northing": 5453302.812187257
+    },
+    {
+      "id": "sch-86da2157e74b5fa4",
+      "names": [
+        "Carver Christian High School   "
+      ],
+      "easting": 507319.80467014055,
+      "northing": 5453728.571376624
+    },
+    {
+      "id": "sch-31318d7bc435514f",
+      "names": [
+        "Cascade Heights Elementary"
+      ],
+      "easting": 498517.1487943553,
+      "northing": 5454817.415564731
+    },
+    {
+      "id": "sch-7d65ef82f5a45033",
+      "names": [
+        "Chaffey-Burke Elementary"
+      ],
+      "easting": 499606.1154078926,
+      "northing": 5453471.4921731595
+    },
+    {
+      "id": "sch-f561b171e52057eb",
+      "names": [
+        "Clinton Elementary"
+      ],
+      "easting": 501571.0915340892,
+      "northing": 5451101.45041045
+    },
+    {
+      "id": "sch-006351a95ae55930",
+      "names": [
+        "Confederation Park Elementary"
+      ],
+      "easting": 500248.4901854289,
+      "northing": 5458940.427907578
+    },
+    {
+      "id": "sch-8a0138e55a42592f",
+      "names": [
+        "Deer Lake SDA School"
+      ],
+      "easting": 501217.3505049488,
+      "northing": 5454318.243468548
+    },
+    {
+      "id": "sch-45f9ab17fd265451",
+      "names": [
+        "District 41 Administration Office"
+      ],
+      "easting": 500940.5424138838,
+      "northing": 5455118.713412948
+    },
+    {
+      "id": "sch-85f0f661ea215fdb",
+      "names": [
+        "Douglas Road Elementary"
+      ],
+      "easting": 501320.7171317903,
+      "northing": 5455134.5370033905
+    },
+    {
+      "id": "sch-5e30b0bae68f5740",
+      "names": [
+        "Edmonds Community School"
+      ],
+      "easting": 504276.7984875186,
+      "northing": 5452160.98818619
+    },
+    {
+      "id": "sch-a50b9fba77b25a55",
+      "names": [
+        "Forest Grove Elementary"
+      ],
+      "easting": 505964.1279929994,
+      "northing": 5456900.569059609
+    },
+    {
+      "id": "sch-b0afafe563905a36",
+      "names": [
+        "Gilmore Ave Commmunity School"
+      ],
+      "easting": 499028.6501325559,
+      "northing": 5459053.0833457215
+    },
+    {
+      "id": "sch-329b116ba62e5d60",
+      "names": [
+        "Gilpin Elementary"
+      ],
+      "easting": 501137.3454071099,
+      "northing": 5454533.968280661
+    },
+    {
+      "id": "sch-d48817fb040e5904",
+      "names": [
+        "Glenwood Elementary"
+      ],
+      "easting": 501536.16281289916,
+      "northing": 5450379.59067803
+    },
+    {
+      "id": "sch-e21794287fb85121",
+      "names": [
+        "Holy Cross Elementary School   "
+      ],
+      "easting": 500596.8147650666,
+      "northing": 5457595.236836296
+    },
+    {
+      "id": "sch-46805849248254d1",
+      "names": [
+        "Inman Elementary"
+      ],
+      "easting": 498738.76268312195,
+      "northing": 5454028.296922363
+    },
+    {
+      "id": "sch-847bd0fc273355ae",
+      "names": [
+        "John Knox Christian School"
+      ],
+      "easting": 505773.01986872795,
+      "northing": 5452612.769166689
+    },
+    {
+      "id": "sch-e9e3e6243c8255da",
+      "names": [
+        "Kitchener Elementary"
+      ],
+      "easting": 498870.93449259433,
+      "northing": 5457843.251794385
+    },
+    {
+      "id": "sch-9574a2c1a6d85cb8",
+      "names": [
+        "Lakeview Elementary"
+      ],
+      "easting": 503982.9101976496,
+      "northing": 5453037.364734637
+    },
+    {
+      "id": "sch-cd42ea6def3a5752",
+      "names": [
+        "Lochdale Community School"
+      ],
+      "easting": 502844.5074741694,
+      "northing": 5457813.965085697
+    },
+    {
+      "id": "sch-8a8a20e0eb4c5971",
+      "names": [
+        "Lyndhurst Elementary"
+      ],
+      "easting": 507630.0928528465,
+      "northing": 5456273.367785895
+    },
+    {
+      "id": "sch-ff5ae9e2e348517d",
+      "names": [
+        "Marlborough Elementary"
+      ],
+      "easting": 500643.07884102897,
+      "northing": 5452934.067020248
+    },
+    {
+      "id": "sch-5bae9b464bb85392",
+      "names": [
+        "Maywood Community"
+      ],
+      "easting": 499956.52868993883,
+      "northing": 5452215.681205713
+    },
+    {
+      "id": "sch-732dd00a366d57ae",
+      "names": [
+        "Montecito Elementary"
+      ],
+      "easting": 503445.9784756003,
+      "northing": 5456841.764124692
+    },
+    {
+      "id": "sch-9319dd8e108e5a1b",
+      "names": [
+        "Morley Elementary"
+      ],
+      "easting": 503038.2851422191,
+      "northing": 5452597.214239833
+    },
+    {
+      "id": "sch-a84670315bb45958",
+      "names": [
+        "Moscrop Secondary"
+      ],
+      "easting": 499678.4026400223,
+      "northing": 5454533.794520171
+    },
+    {
+      "id": "sch-57f9f4c8f3b45d69",
+      "names": [
+        "Nelson Elementary"
+      ],
+      "easting": 500309.3251831999,
+      "northing": 5451368.818457037
+    },
+    {
+      "id": "sch-70378040814a5a3d",
+      "names": [
+        "Our Lady of Mercy School"
+      ],
+      "easting": 504642.29418180475,
+      "northing": 5451325.621537672
+    },
+    {
+      "id": "sch-bee1d8a19d3e5a39",
+      "names": [
+        "Parkcrest Elementary"
+      ],
+      "easting": 501677.47710663435,
+      "northing": 5457297.375793396
+    },
+    {
+      "id": "sch-e400ea6dcf8e56da",
+      "names": [
+        "Rosser Elementary"
+      ],
+      "easting": 499464.76584975625,
+      "northing": 5458949.868229189
+    },
+    {
+      "id": "sch-db02e89c3b1e5dab",
+      "names": [
+        "Seaforth Elementary"
+      ],
+      "easting": 504645.07579419843,
+      "northing": 5455485.416929817
+    },
+    {
+      "id": "sch-04e947c7bcf45c1c",
+      "names": [
+        "Second St Community School"
+      ],
+      "easting": 505357.92645557283,
+      "northing": 5452834.802688151
+    },
+    {
+      "id": "sch-60452ea7d0ad551d",
+      "names": [
+        "Simon Fraser University"
+      ],
+      "easting": 506077.7950412719,
+      "northing": 5458502.4519304205
+    },
+    {
+      "id": "sch-102355f4ec655c8e",
+      "names": [
+        "South Slope Elementary"
+      ],
+      "easting": 499711.81015890336,
+      "northing": 5451487.568578746
+    },
+    {
+      "id": "sch-fd844c26a3e2548a",
+      "names": [
+        "Sperling Elementary"
+      ],
+      "easting": 502619.7310359224,
+      "northing": 5456778.666344072
+    },
+    {
+      "id": "sch-8bd9d09e65e75169",
+      "names": [
+        "St Francis de Sales School"
+      ],
+      "easting": 502460.9490973891,
+      "northing": 5451923.772924339
+    },
+    {
+      "id": "sch-2274fd621a8c55bd",
+      "names": [
+        "St Helen's School"
+      ],
+      "easting": 498623.2207123873,
+      "northing": 5458994.293953985
+    },
+    {
+      "id": "sch-b00cf5b0cdca582c",
+      "names": [
+        "St Michaels School"
+      ],
+      "easting": 507449.02987441415,
+      "northing": 5453665.848670247
+    },
+    {
+      "id": "sch-c008c12e791c5478",
+      "names": [
+        "St Thomas More Collegiate"
+      ],
+      "easting": 504477.2210762956,
+      "northing": 5451403.602145743
+    },
+    {
+      "id": "sch-4e58cf48b10e5f36",
+      "names": [
+        "Stoney Creek Community School"
+      ],
+      "easting": 507010.6092236874,
+      "northing": 5456250.05780146
+    },
+    {
+      "id": "sch-c3854559298753ca",
+      "names": [
+        "Stride Ave Community School"
+      ],
+      "easting": 503308.29550896195,
+      "northing": 5450908.053354441
+    },
+    {
+      "id": "sch-68b9f7ea6e195b1b",
+      "names": [
+        "Suncrest Elementary"
+      ],
+      "easting": 498675.3311086485,
+      "northing": 5451394.354702612
+    },
+    {
+      "id": "sch-75c91b984d925b5b",
+      "names": [
+        "Taylor Park Elementary"
+      ],
+      "easting": 502954.25598227687,
+      "northing": 5450525.880146349
+    },
+    {
+      "id": "sch-4efea2ff0d655b46",
+      "names": [
+        "Twelfth Ave Elementary"
+      ],
+      "easting": 504764.739093987,
+      "northing": 5451567.319745546
+    },
+    {
+      "id": "sch-7cb705c608f65255",
+      "names": [
+        "University Highlands Elementary"
+      ],
+      "easting": 506671.4181661601,
+      "northing": 5458412.838210356
+    },
+    {
+      "id": "sch-cf7a0ea6a09b502d",
+      "names": [
+        "Westridge Elementary"
+      ],
+      "easting": 502769.33908842463,
+      "northing": 5458470.837917968
+    },
+    {
+      "id": "sch-f0740faea1c95c83",
+      "names": [
+        "Whytecliff Agile Learning Centre-Burnaby"
+      ],
+      "easting": 498302.93390701176,
+      "northing": 5455646.622308723
+    },
+    {
+      "id": "sch-d835ae1a2e2b58e3",
+      "names": [
+        "Windsor Elementary"
+      ],
+      "easting": 501838.2145729141,
+      "northing": 5452079.723548412
+    }
+  ]
+}
